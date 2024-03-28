@@ -1,0 +1,697 @@
+0	1	0	Một đĩa sườn trứng ốp la và một đĩa sườn chả
+1	1	0	Cơm sườn trứng ốp la
+2	1	1	<price> Cơm sườn chả
+3	1	0	<price> Cơm ở đây mình thấy vừa ăn , miếng thịt dày và đậm_đà , mềm nữa , Thấy to vậy chứ ăn không có cảm_giác ngán , còn trứng thì ở đâu ăn cũng vậy nên không bàn tới
+4	1	1	Chả thì cũng to nhưng ăn có vị lạc nhiều , trứng cũng nhiều nên ăn thấy hơi ngán
+5	1	0	Dưa chua ở đây ăn khác ổn , giòn và không bị chua lắm
+6	1	0	Nói_chung vừa_miệng , còn nước_mắm thì ok luôn
+7	1	1	Khổ_qua không đắng lắm , ăn tạm được
+8	3	1	Mặt_tiền nhìn vào nè
+9	3	1	Cái bản để ngoài đường lúc đêm xuống ^ ^
+10	3	1	Không_gian ngồi ăn tại_chỗ và quầy xe
+11	1	0	Đồ_ăn trên kệ nè , nhìn hấp_dẫn chưa
+12	1	1	Đây là cơm thịt kho <price>
+13	1	0	Nó nhìu về cơm lẫn thịt kho nhé
+14	1	0	Có rau_muống và canh ăn kèm nữa nè
+15	1	0	Nhìn họp cơm xem chất_lượng nha
+16	1	1	Cơm heo quay xào cải chua <price> nè
+17	1	0	Cơm nhìu nghi_ngút
+18	1	1	Thịt heo quay và cải chua rau_muống nè
+19	1	0	Cuối_cùng khứa cá_thu kho nè , hấp_dẫn chưa
+20	4	1	Địa_chỉ : 114 Võ_Thị_Sáu , P. Tân_Định , Quận 1
+21	0	0	Không_gian quán nằm bên trong nhà , sạch_sẽ , thoáng mát
+22	1	2	Phần ăn có chút_xíu , sức bạn nam ăn là vừa quơ 5 muỗng hết sạch dĩa cơm chỉ đủ lót_dạ
+23	1	0	Bù lại nước_mắm khá ngon , dạng nước_mắm nấu sệt sệt
+24	0	0	Cơm tấm này đã lâu_đời lắm rồi , mới tân_trang lại khá đẹp keke
+25	1	0	Đồ_ăn cũng khá ngon và từ sáng tới chiều luôn nhé .
+26	3	0	Mặt_tiền nè , để xe ngoài mặt_tiền lun nha
+27	3	0	Có người trông xe dùm , <price> có tiền xe nhé
+28	3	0	Khu bếp ở ngoài lun
+29	1	0	Vào gọi 1 dĩa sường trứng <price> nè
+30	3	0	Coi sơ quán cũng khá sạch_sẽ
+31	3	0	Ớt khăn và tăm có đủ trên bàn
+32	1	0	Cơm thêm kêu ra đây nè
+33	1	0	<price> 1 chén khá nhìu ^ ^
+34	1	0	Ăn ngon và cơm hạt tấm đúng chất
+35	3	0	Nói_chung đây là 1 nơi đáng ăn keke
+36	3	0	Cơm tấm Thuận_Kiều có được cũng vài chục năm rồi , mình ăn tới mòn đít luôn , từ hồi bên Thuận_kiều ah , giờ thì mở chi_nhánh_tá lả rồi
+37	1	1	Chả ăn ngọt ngọt ngộ ngộ , mình chả thấy chỗ nào mùi chả như ở đây ~ ~ Cơm cho chút éc , nữ ăn 2 dĩa chắc no :
+38	4	1	cách ngã 3 nguyễn_trãi với nguyễn_cư trinh nhìn bên trái là thấy ngay
+39	1	0	Trời_ơi ta nói cơm nó nhiều , ăn no căng bụng mà vẫn chưa hết
+40	1	0	thêm cả đống đồ_ăn nữa
+41	1	0	Đặc_biệt mình thích lớp cơm cháy ở dưới đáy nồi , rất giòn , thơm mà không khét , ăn xong hết cơm cháy vẫn còn thèm :
+42	1	0	Nhận_xét chung là cơm ngon , dẻo , đồ_ăn ướp ngon , thấm , hợp_khẩu vị , canh ngọt từ xương , ăn rất tuyệt
+43	3	0	Nghe_đâu còn đang có chương_trình khuyến_mãi ăn bil trên 1 triêu tặng 12lon pepsi mà mình không đủ sức , bạn nào khoẻ đi ăn thử xem nào
+44	1	0	Thố cơm nóng_hổi được trang_trí đẹp_mắt
+45	1	0	Cơm thơm dẻo mềm bên trên , lớp cơm cháy giòn_rụm bên dưới ăn kèm cùng các loại thịt , rau củ ngấm đều cùng nước sốt xì_dầu đậm chất Trung_Hoa
+46	4	0	Nhà mình gần AEON Mal nên có hay dô chơi , đi ngang Cơm thố cháy mấy lần mà giờ mới có dịp đi ăn
+47	0	1	Không_khí ở đây thì không có gì đặc_biệt tại vì nằm trong AEON Mal , quán khá đông khách ra vào tấp_nập
+48	5	0	Nhân_viên phục_vụ ở mức tốt , chu_đáo nên xin gì cũng đều rất nhanh_nhạy
+49	1	0	Chất_lượng đồ_ăn thì ngon , ban_đầu cứ tưởng cơm thố cháy là món miền quê dân_dã nhưng ăn rồi mới thấy là món ăn lạ , độc_đáo và hiện_đại : D có nhiều nét tương_đồng với các món ăn dân_dã nhưng bản_chất thì khá khác nhau
+50	1	0	Gạo nấu thố dẻo , thơm , nóng_hổi
+51	1	0	Đồ_ăn ở trên nhiều , trang_trí bắt_mắt và ngon , ăn khá lạ
+52	3	0	Có_thể mình sẽ trở_lại đây ăn khi thèm J ) nhìn_chung đây giống như một món ăn mới hoàn_toàn và rất đáng để thử
+53	3	0	Cũng đi nhiều quán ốc rồi nhưng đối_với mình ốc Đào vẫn đứng hàng top_ten mỗi khi thèm ốc
+54	1	1	Thích nhất là răng mực xào bơ tỏi ở đây , chấm thêm bánh_mì nữa mới đúng bài nha
+55	3	0	Hiện_tại thì nhà_hàng đang có chương_trình khuyến_mãi tặng pepsi cho các khách_hàng ăn tại nhà_hàng có hoá_đơn 1 triệu đồn
+56	5	0	Về chất_lượng phục_vụ , mình cho rằng đây sẽ là điểm cộng kha_khá tại nhà_hàng này
+57	5	0	Nhân_viên được đào_tạo rất kĩ và vô_cùng lễ_phép khi nói_chuyện với khách , các bạn cũng rất niềm_nở và xử_lý tình_huống tốt
+58	1	0	Thịt gà , gấm đông cô và mộc_nhĩ kết_hợp rất bài_bản , ăn vị đậm_đà không_thể quên
+59	1	1	có kèm cái trứng luộc hơi vô_duyên mà thôi lỡ rồi ăn luôn bỏ uổng hehe
+60	1	0	Canh tiềm đủ lửa , đậm_đà , bắp heo dai mềm không cứng , hương_vị thấm sâu vào trong từng sớ thịt
+61	1	0	cực_kì ngon
+62	1	1	Ăn rồi mới thấy hehe đáng tiền , tính ra là không đắt , tui qua hẻm bách_khoa ăn bò né cũng hết năm chục 1 phần rồi
+63	0	1	Không_gian thì cũng không được rộng lắm nhưng được_cái sạch_sẽ
+64	5	0	Nhân_viên thì phục_vụ nhiệt_tình ..
+65	1	0	Nghê hấp sả giá <price> , ta nói chứ nồi nghêu đang sôi mang lên hương_vị bay thơm_phức luôn , ngon nhứt nách vậy á
+66	1	1	Ốc mỡ xào tỏi giá <price> ... Còn đây là không_gian quán nè ..
+67	5	2	Vậy nên quán cần đào_tạo và chọn_lọc bổ_sung nhiều nhân_viên phục_vụ chuẩn_xác hơn
+68	3	0	Ngoài_ra , view quán rất đẹp và thơ_mộng nữa
+69	2	1	Đồ uống tạm ổn , mình uống trà sữa táo nên thấy pha khá đặc , thạch ngon
+70	1	1	Đồ_ăn của quan thì bình_thường vì mình đã từng thử cơm_chiên_dương châu ở đây rồi
+71	2	1	Giá nước ở đây giao động_từ 22.000-60.000 , với các thức uống gần_gũi với giới trẻ như coffe , trà sữa chỉ giao động dưới 50.000
+72	3	0	Có nhiều gian phòng bố_trí khác nhau
+73	5	2	Nhân_viên phục vụ thì chưa nhiệt tình lắm
+74	0	0	Không_gian ngồi cũng thoáng mát
+75	1	1	Tôm nướng <price> / 1 phần
+76	1	0	Tôm ăn cũng tươi lắm , gia vị ăn cũng ok
+77	1	1	Càng ghẹ rang muối <price> / 1 dĩa
+78	1	0	Món này mà uống bia thì bá cháy luôn
+79	3	0	Tráng_miệng kem ngon nhất thế_kỷ ở SumoBBQ_Lại còn nhận khuyến_mãi giảm 20%
+80	4	1	Đừng nghĩ ở đâu cũng có khuyến_mãi này đâu nha , chỉ có mỗi SumoBBQ_Lê_Lai và SC Vivo_City_Quận 7 thôi đấy
+81	1	0	Nướng xong thì chấm sốt thơm vừa đủ cho miếng thịt ngon hơn
+82	1	0	Bạch_tuộc tươi , nướng giòn sần_sật
+83	1	0	Thịt bò tẩm vị vừa ăn lắm nhé
+84	1	0	Combo hải_sản thoả chí lựa_chọn
+85	1	0	Tôm tươi và ngọt đến bất_ngờ
+86	1	0	Bánh_xèo Nhật ăn nóng mới ngon nha các bạn
+87	1	0	Và không_thể bỏ_qua các loại nấm để nướng ăn kèm thịt
+88	1	0	Chiếc bánh đúng kiểu kết_hợp 2 in 1 , vừa là món chính vừa là bánh sinh_nhật
+89	1	0	Bánh sinh_nhật được đặt vào chiếc hộp bên dưới món chính nè hihi
+90	1	0	Khi ăn thì chúng_ta cứ_việc gắp từng miếng thịt được đặt trên khay và nhúng vào lẩu , riêng với con tôm thì trực_tiếp cho luôn vào lẩu để món tôm được nóng lên và nước dùng ngọt hơn
+91	1	0	Thịt bò mềm tan , miếng thịt tương_đối không phải kiểu mỏng_tang như tờ giấy như 1 số quán
+92	1	0	Phần tôm được nhân_viên cắt khúc cho khách để thực_khách có_thể dễ_dàng thưởng_thức món ăn ngon_miệng hơn
+93	5	0	Thấy cách nhân_viên phục_vụ tận_tình , chu_đáo & chuyên_nghiệp thì mình rất có cảm_tình và tất_nhiên sẽ take note lại quán này vì nếu có nhu_cầu tổ_chức sinh_nhật thì đến đây rất xứng_đáng với những gì mình đã bỏ ra
+94	1	0	Bạn nào cuồng dimsum chắc hông xa_lạ gì chỗ này hen , chỗ này có món vịt quay ngon lắm nè
+95	1	0	Theo mình thấy giá_cả rất tương_xứng với đồ_ăn nha , rất đáng
+96	0	1	Không_gian nhà_hàng khá thoáng nhưng hơi nhỏ_xíu
+97	5	1	Chính vì_thế mà nhân_viên phục_vụ hơi lâu
+98	1	1	Mình gọi món mì ý sốt thịt bầm - <price>
+99	1	0	So với vị mình ăn thì nước sốt hơi nhạc một xíu , nhưng bù lại thịt bầm khá nhiều
+100	1	0	Phủ trên mì còn có cả phô_mai nữa
+101	1	0	Nên ăn cực_kì thích
+102	1	0	Mì thì luộc vừa tới , không bị quá mềm , quá bở
+103	1	0	Thịt cũng nướng vừa tới , khoảng 80-20
+104	1	0	Do mình cũng ko thích ăn tái , nên như_vậy là ok rồi
+105	1	0	Sốt này là sốt kem thì_phải , vị khá lạ và ớt ớt xanh ở trên nữa
+106	1	0	Nếu ăn cảm_thấy lạt , các bạn có_thể ăn kèm với tương_ớt
+107	1	0	Cũng ngon ngang_ngang ak : 3 Phần rau ăn kèm để bớt bị ngấy và cân_bằng món ăn
+108	2	0	Trà đá ở đây fre nha
+109	1	1	Thật_ra các món ở đây cũng bình_thường thôi , không đậm chất Quảng_Đông như mình từng ăn_ở nơi khác
+110	1	0	Nhưng_mà được cái rất thanh_đạm , mùi_vị thức_ăn khá nhẹ_nhàng không nhiều dầu_mỡ
+111	1	0	Đặc_biệt món gà xì_dầu , ăn vào thì cảm_nhận ngay sự công_phu của món ăn , thịt gà mềm nhưng vẫn dai , thơm mùi xì_dầu và một_số vị thuốc_bắc
+112	1	0	Bù lại Dimsum và vịt quay Bắc_Kinh ngon , không uổng công ngồi chờ
+113	1	0	Sau bao nhiu năm <price> ghé 176 , vừa_rồi có ghé lại thì có khá nhiu món mới
+114	1	0	Đặc_biệt là bò nầm và lẩu tả bí lù ngon cực_kì ngon lun
+115	1	1	Chân gà muối chiên : <price> Đọt_Xu_Xu xào tỏi : <price> Bò_Nầm nướng 176 : <price> Lẩu_Tả pí lù No
+116	1	1	Phở cuốn <price> / cuốn , ăn cho thoả nhớ_mong nha
+117	1	0	Phở cuốn vẫn mềm dai đúng vị chuẩn trước giờ , ăn_không thất_vọng
+118	1	1	Chân gà muối chiên - <price>
+119	1	0	Huyền_thoại của quán đó , ăn giòn rôm rốp , đậm_đà , chấm muối_tiêu chanh nữa thì cực_kỳ ngon
+120	1	0	Giòn ngon , chấm với mắm đu_đủ thì đúng bài luôn
+121	2	0	Mơ và sấu đá uống siêu mát , siêu đã
+122	2	0	Đặc_biệt tàu_hũ Singapore mịn và ngọt vừa_phải , ăn rất thích
+123	3	0	Chỗ này có bảng_hiệu khá to đi ngang là thấy liền , phía trước còn có 1 xe bán trà sữa trà đào các loại bên trong mới bán bánh nghen
+124	1	1	Giá được niêm_yết sẵn hết rồi nên không sợ bị chém đâu : D Thiên_đường bánh_kẹo , nhìn mà phát ham à , loại nào nhìn cũng muốn ăn hết : D Ở đây bán nhiều loại lắm , mà mình thích ăn oreo loại bánh mềm nên mua , hình cuối_cùng chính là ẻm đó nha , hồi trước ăn là nhân trắng ngon lắm nay mua thử nhân trà xanh ăn xem sao
+125	1	0	Vỏ bánh xốp xốp ăn ngon lắm nha
+126	1	0	Nhân trà xanh ngập luôn nè , nhiều lắm chứ không ít đâu nha , mùi trà xanh rất thơm béo béo chứ không đắng
+127	0	0	Không_gian tràn_ngập ánh_sáng và hoa nè
+128	1	1	Chesse ở đây cũng ok , thơm béo và ngon_miệng
+129	1	2	Đồ_ăn no không phải là thế mạnh của quán , cũng khá đắt nữa
+130	4	2	Chỗ này hơi khó tìm nên mấy bạn cứ đi theo hướng_dẫn này nha : Hẻm kế bên chung_cư H1 - Hoàng_Diệu , Q. 4 ( gần siêu_thị Điện_Máy Chợ_Lớn , đối_diện trường Vân_Đồn ) , vào hẻm chạy 20m bên trái
+131	3	0	Osaka là 1 trong những quán bán món mì ramen , cơm thố nhật_bản giá rẻ thích_hợp cho giới trẻ
+132	3	0	Lâu_lâu họp hội thì con bạn chỉ cho cái quán này , quán Nhật siêu chất_lượng luôn nên lật_đật chia_sẻ liền
+133	1	0	Quán bán các món mì ramen , cơm thố Nhật , giá thì cũng phải_chăng cho 1 món ngoại
+134	1	0	Lúc đầu cứ nghĩ món Nhật thì giá cũng trên trời chút_xíu ai dè dâu giá siêu bèo luôn nha mọi người
+135	1	0	Gía chi dao_động 45 - 50K thôi
+136	3	0	Mới phát_hiện quán Nhật siêu chất_lượng luôn nên lật_đật share với mấy bạn liền nè
+137	4	1	Từ ngã tư Trần_Hưng_Đạo giao với Nguyễn_Tri_Phương chạy chút_xíu là đến đường Nguyễn_Thời_Trung
+138	1	0	Má món nào món đấy nhìn siêu chất_lượng luôn , chứ không phải kiểu ít ít ăn không thấm váo đâu_đâu
+139	1	0	Menu cũng cực_kỳ đa_dạng nữa
+140	2	0	Trà đá và matcha sữa_tươi
+141	1	0	Cơm gà nướng sốt Teriyaki_Zoom gần miếng gà xíu Thèm chảy dãi Ramen trộn gà sốt teriyaki Udon trộn Tonkatsu ( heo
+142	1	0	Nấu lẩu với giấy
+143	1	0	Nhưng lúc ăn thực_sự rất ngon , nước lẩu có vị ngọt vừa , thịt bò , tôm có đủ trong phần 1 người ăn này
+144	1	0	Mì thì vừa đủ 2 chén để dùng
+145	1	0	Các bạn từ trước đến giờ vào đây chỉ để ăn mì thôi , thì hãy thử một lần với món lẩu giấy lạ và ngon này nào = ) )
+146	3	0	Quán có khá nhiều chi_nhánh nhé , rất thích_hợp cho những bạn thích phong_cách Nhật
+147	0	1	Không_gian ngoài_trời ^ ^
+148	0	1	Không_gian bên trong nhà
+149	1	1	Bún mọc <price>
+150	1	1	Phở bò <price>
+151	1	1	Bò né <price>
+152	3	1	Này là quán ăn gia_đình luôn thấy mấy món ở đây do ông_bà chủ người Hoa lớn_tuổi làm tại nhà luôn nha
+153	1	1	Bánh bí_đỏ : <price> Bánh_cuốn chiên XO : <price> Gỏi sò_huyết : <price> Lưỡi vị nướng : <price> Vịt quay Bắc_Kinh : 600
+154	1	1	Thập_Cẩm 25K giá chấp_nhận
+155	3	1	Vì lại mua nhiều khi bán hết sớm là Nhịn
+156	1	0	Chủ_yếu là Bán_Mang_Về .... Nhân bánh TO
+157	1	0	Ăn thấy nhiều thịt và Tôm
+158	1	0	Dìn_Ký mới làm lại menu mới , có bán thêm nhiều món mới nữa , nhìn vô thấy bát_ngát đồ_ăn luôn
+159	1	1	Chỉ có mì là_hơi ít so với các nguyên_liệu khác
+160	1	0	Buổi sáng ăn một đĩa vậy là no tới chiều luôn á
+161	4	1	Cuối tuần có hẹn mấy đứa bạn ăn_uống ở khu_vực tầm hầm công_viên 23/9 trong khu ẩm_thực Asiana_Food_Town
+162	1	0	Cup hình chiếc mũ với nhiều màu_sắc và bạn được chọn màu và được mang cup về luôn nghen Kem bi được nhập từ Mỹ về và có 6 hương_vị đang được bán ở đây
+163	1	0	Kem dẻo mịn nhai thích lắm Còn cup này là vị Banana_Split với nhiều màu_sắc mix với nhau y_chang kẹo luôn : ) ) Các viên bi kem mùi chuối , dâu , vani , chocolate xen_lẫn vào nhau tạo nên mùi_vị khá ngon , dẻo dẻo nữ
+164	1	0	Mình đi ăn gà cay phô_mai cũng nhiều nơi rồi nhưng vẫn thích cách nêm nếm ở đây , nên cứ thèm món này là cứ đến đây ăn thôi khỏi phải lăn_tăn gì nhiều
+165	0	0	Muỗng , nĩa , đũa , khăn giấy , tăm , ... được đựng trong hộc tủ ở bên hông bàn , đỡ chiếm diện_tích ghê
+166	1	0	Mình thấy nếu đi 2 người chỉ nên kêu 1 phần gà cay phô_mai thôi ko nên kêu thêm gì hết thì ăn mới nổi
+167	1	0	Phô_mai kéo sợi miên_man luôn nha
+168	1	0	Bên dưới có nhiều bắp_cải lắm , lẩu sôi nước càng ngọt hơn nha
+169	1	0	Em Kebab của mình chỉ <price> thôi nhé
+170	1	0	Vỏ bên ngoài được nướng vàng giòn
+171	1	0	Được gói kín trong giấy giữ được độ nóng và giòn của bánh
+172	4	1	Nằm ở hẻm 96 Phan_Đình_Phùng đối_diện chợ Phú_Nhuận được biết đến là hẻm ông Tiên có 1 hàng phá lấu của một bà lớn_tuổi được gọi là Bà Ngoại với thâm_niên bán hơn 30 năm
+173	4	1	Từ đường Luỹ_Bán_Bích , các bạn rẽ vào Độc_Lập , chạy đến ngã tư đèn_xanh đèn_đỏ Độc_Lập – Nguyễn_Xuân_Khoát thì rẽ vào Nguyễn_Xuân_Khoát là sẽ thấy ngay quán nằm phía bên tay_trái
+174	2	0	Đậm_đặc nhưng sữa nhiều nên hơi ngọt , lần sau chắc phải dặn cô chủ làm nhạt bớt
+175	2	0	Mình có mua thêm ly nước mía mang về , nước mía kiểu " truyền_thống " nên có bọt nhìn hấp_dẫn chứ không như nước mía siêu sạch các kiểu , uống thơm mùi tắc lắm
+176	2	0	Điểm cộng cho quán này là ly tách được rửa và úp trong kệ có nắp đậy - mình cũng thấy yên_tâm hơn ( nãy tính lại chụp mà quên mất_tiêu rồi )
+177	0	0	Quán này thì về trang_trí bao đẹp rồi
+178	0	0	Rộng_rãi , thoáng mát , chổ đậu xe có đủ luôn cho các thể_loại
+179	1	0	Ăn_uống đầy_đủ luôn
+180	0	0	Điểm nhấn vẫn là cái hồ nước bên cạnh cái chòi trên cây cực độc_đáo làm_nên điểm nhấn nơi đây
+181	0	0	via GIPHY Cực đẹp hen < 3 Một_chút ký_sự về quán
+182	5	1	Nhân_viên được cái nhiệt_tình khi vắng khách và khi đông cũng không loạn lắm
+183	5	1	Buổi sớm ngày thường có nhiều khu_vực rộng quá nên không phụ vụ
+184	2	0	Effoc_Cafe - những phần nước mang đi nhưng thật ngon , uống hoài mà vẫn thấy thích
+185	2	1	Nhỏ bạn mình thì uống Yogurt_Blueberry_Ice_Blended ( smal ) <price> Còn ly Yogurt_Blueberry_Ice_Blended ( large ) <price> cho nhỏ béo
+186	2	0	Phần này vị khá ngon , như trái_cây tươi , thêm phần sữa_chua ngọt_ngào , vừa ngọt , vừa chua , vừa béo hấp_dẫn
+187	2	1	: ) Còn đây là ly Matcha_Ice ( smal ) <price> của thằng bạn mình
+188	1	1	Ở đây còn có bán cả bánh nữa kìa , nhưng cả đám vừa ăn sáng rồi nên không kêu , để bữa nào cũng sẽ thử
+189	3	2	: ) Được cái ở đây có cái ngộ : mang đi thì giá bình_thường , ngồi ở quán thì có phụ_thu thêm <price> nha = )
+190	2	1	Trà lài gừng <price>
+191	2	0	Uống khá ngon dành cho người đã dùng thử , còn chưa thử thì hảy cẩn_thận , mới_đầu chưa wen với vị gừng thì hơi nòng đó nha
+192	2	0	Trà nóng thơm thơm nhẹ_nhàng cho buổi họp_mặt thật là thú_vị
+193	1	0	Nhìn hoành_tráng <price> kém steak bò các bạn nhỉ
+194	1	1	2 đứa gọi thêm Caesar_Salad <price>
+195	1	0	1 món salad trộn gồm có salad , oliu , lòng_đỏ trứng , 1 ít bacon , 1 ít sanwich và rắc thêm 1 ít bột phomai
+196	1	1	Và cuối_cùng , 1 món ăn đặc_biệt Ếch xào sốt porcini <price>
+197	1	0	Phần ếch xào với sốt khá thấm vị nên nhìn như được bọc 1 màng bên ngoài ếch ấy
+198	3	0	Rất đáng để ghé đến
+199	1	0	Kem_Celano hầu_như có_mặt ở tất_cả các hệ_thống của hàng tiện_lợi như Circle_K , B ' s_mart , Shop & Go , Family_Mart , ... Kem có nhiều loại và mùi hương_vị khác nhau , các bạn có_thể thoả_thích lựa_chọn
+200	1	0	Mình nhớ lần trước Celano cũng cho ra_mắt một loại kem hình con cá thế_này , nhưng lớn hơn nhiều , vị cũng ổn , không biết sản_phẩm lần này có gì khác_biệt nhỉ ! ?
+201	1	0	Kem_Celano_Trà_Xanh Đậu_Đỏ Kem_Celano_Vani_Đậu Đỏ_Sản phẩm lần này có_vẻ nhỏ gọn hơn , nhỏ nhỏ nhìn cute , xinh_xinh quá nè ^ ^ ~ Cắn một phát ...
+202	1	0	Vị trà xanh thanh mát , lạnh lạnh tràn_ngập cả khoang miệng luôn
+203	1	0	Đi kèm với vị trà xanh mát lạnh là vị đậu_đỏ ngọt_bùi_thơm thơm thoang_thoảng
+204	1	0	Ngoài vị trà xanh còn có vị vani nữa , cũng ngon không kém vị trà xanh đâu nha
+205	1	0	Vị vani béo hơn nhiều , nhưng khá ngọt
+206	3	0	Vô thì ngay đợt giảm_giá combo các loại topping , giảm ít thoai nhưng có giảm vẫn thích hơn nè
+207	1	0	Bảng các loại topping tha_hồ chọn 2 phần lẩu ly của mình và bạn nhìn khá hấp_dẫn , ngoài_trời cũng mưa nhẹ , lạnh lạnh ăn vô thấy ấm bụng và khá oki
+208	1	1	Y_chang như trái bắp luôn nè <price> / 1 trái
+209	1	0	Có_thể tách vỏ ra nè , bên trong có một lớp socola
+210	1	0	Kem này dẻo dẻo lâu chảy hơn so với những loại kem khác , siêu lạnh luôn cắn có 1 miếng mà tê_tái , bên trong còn có hạt bắp nữa đó nha
+211	1	1	Mà mình chưa thấy đặc_biệt lắm , kiểu bún gạo xào bình_thường thôi ~ ~ Ăn xong đứng lên chả có cảm_giác gì , vì_vậy cũng lâu rồi mình không ghé lại , mặc_dù tính ra giá không cao : v Mà thấy quán vẫn trụ được tới giờ chắc có cải_tiến gì rồi , để bữa nào ghé thử xem sao : -
+212	1	0	Quán này đặc_biệt ở nước sốt , ăn cũng ngon
+213	4	0	Nằm ở quận 1 như thế là rẻ rồi
+214	1	1	Combo_Udon tôm mực , sốt tương đen : <price> Combo_Mì xoắn , cải ngọt , thịt bò , sốt Teriyaki : <price> Combo_Mì tươi , cải_thìa , đùi gà , sốt Thái_Lan : <price> Combo_Cơm chiên , đâuk Hà_Lan , lạc xưởng tươi , sốt bơ tỏi : 49K Combo_Hủ tiếu , bí ngòi xanh , mực , sốt đậu_phụng dừa : 47
+215	3	0	Quán phá lấu này đã có từ lâu rồi nha mọi người , nếu ai mê món phá lấu thì đây là một địa chỉ không thể nào bỏ qua rồi
+216	1	0	hương vị phá lấu rất thơm ngon , đặt biệt là vị thơm từ nước dừa xiêm , ăn đã lắm
+217	1	0	Đây là menu của quán nè , có mấy món từ phá lấu luôn á , các bạn tuỳ theo sở thích mà lựa chọn nhé
+218	1	0	Phá lấu có vị ngọt của nước hầm nội_tạng , của nước dừa tươi , vị béo của nước_cốt dừa , vị cay , thơm của quế , ngũ_vị hương
+219	1	0	Bên cạnh đó , người tinh_ý sẽ nhận thấy nước dùng của quán có một vị chua khá thanh và khá lạ
+220	1	0	Dùng nĩa xiên miếng tổ ong đang ngập trong nước phá lấu bốc khói , chấm vào chén nước me chua_chua , cay cay hay miếng lòng nhai giòn giòn , sừn_sựt thiệt đã
+221	1	1	Vô_tình phát_hiện thêm món mới_lạ mà ăn rất ngon nha , giá_cả cũng rẻ lắm tại chỉ yếu bán cho học_sinh trong khu này
+222	4	1	Xe bán từ 6h sáng cho tới 6h tối lun , trước trường Ba_Đình , ngay địa_chỉ 125 Phan_Văn_Trị , quận 5
+223	4	1	Nếu bạn nào đi ăn mình chỉ đường cho dễ tìm nè , đoạn đường Phan_Văn Trị này nằm ở khúc Phan_Văn Trị giao với Nguyễn Biểu á nha
+224	1	0	Một tô mì phá lấu dê ở đây giá rất bình dân từ <price> - <price> thôi
+225	1	0	Giá rẻ mà tô mì chất lượng lắm , quá trời dê luôn ... Bảo đảm chưa ăn mà chỉ nhìn thôi là các bạn đã thấy thèm rồi ... Hương vị rất thơm còn nước lèo ăn rất ngọt , ui nó đã gì đâu á
+226	5	0	Nước chấm ở đây là nước mắm me nha ... Món đã ngon nhưng cơ bản là cách tiếp khách của mấy cô chủ quán thật là dễ thương ... thích ghê vậy đó
+227	1	0	Đồ_ăn ngập_tràn , trưng_bày bắt_mắt
+228	1	0	Đã vậy trung_bình các món ăn_ở đây có giá dễ_chịu chỉ giao động từ 10 - <price> tuỳ món , ăn thả dàn mà khỏi phải lăn_tăn về giá tiền
+229	1	0	Fan cuồng mấy món Hàn cứ dzô đây ăn là có đủ từ tokpokki , mì tương đen , chả cá xiên , kimbap , ... gì cũng có đủ
+230	5	0	Nhân_viên đứng bán nhìn sạch_sẽ , quầy nào nhìn trưng_bày đi ngang thôi cũng thấy thòm_thèm rồi
+231	2	0	Có luôn trà sữa hen
+232	2	0	Ăn thoả_thê " tiếp_sức " liền ly trà sữa hết_ý
+233	1	0	Các loại bánh ngọt từ sang chảnh như macaron đến bánh bông lan hay thương_hiệu bánh No_Brand nổi_tiếng đều có_mặt tại đây
+234	0	2	Tại mình tưởng_tượng nó như AEON Mal , phong_cách bài_trí có phần tương_đối giống Metro vì kiểu công_xưởng nhà thép tiền chế dựng lên , nhưng cái được ở đây là có chút fa trộn Coop_Mart , AEON Mal có khu Food_Court ngay trong sthị mà tính tiền tại đó luôn
+235	1	0	Nhược_điểm : - Đồ_ăn rẻ nhưng nước_chấm cho ít và ko có khăn giấy , bắt đi mua
+236	0	2	- Khu Food_Court có_vẻ nhỏ và ít bàn_ghế - Sushi ăn mà ko có mù_tạ
+237	1	0	1 combo lẩu gồm 6 khay thịt ba chỉ bò rất nhiều nếu đi 2 người ko thể_nào ăn xuể nha , nên đi nhóm từ 4 người tới 6 người mới chiến_đấu được hết cái lẩu này nghen Nguyên bàn toàn thịt nhìn hoành_tráng Combo lẩu 9 tầng <price> hen 9 tầng có 6 tầng thịt , 1 tầng bò viên , 1 tầng nấm kim châm , và 1 tầng mì gói
+238	0	0	Ngồi thoải_mái và thoáng
+239	0	0	Khá đẹp
+240	1	1	Xíu_mại <price>
+241	1	1	Đậu hủ kiêm tiền <price> Tàu hủ ky tôm chiên <price> Tráng_miệng Chè ^ ^
+242	1	0	ai dè ko đến_nỗi nào ... gà nướng như cũ rất ngon , có_điều cay hơn và sốt ngon hơn ^ ^ phô_mai kéo sợi rất béo luôn , ko như phô_mai mà ăn vô giống cao_su , phô_mai này có hoà lẫn đc vị gà nên không hề ngán
+243	1	0	miến xào thì xuất_sắc
+244	1	0	miến xào hàn_quốc ngon quá
+245	1	0	mềm nhưng vẫn dai dai , rau củ ngọt ngọt ăn vui_miệng
+246	1	0	trời_ơi phô_mai tan chảy trong miệng đã quá hà ~
+247	1	2	Bánh_mì cũng không ngon
+248	1	0	Nhưng xôi ngon quá , có chà bông , hành phi , ăn thơm thơm , mặn mặn , ưng món này
+249	1	2	Kim chi ngon , <price> mà cho phần ít xịu hà , phải mua thêm ăn mới đã
+250	1	0	Lẩu gà ăn dịp khuyến_mãi mấy chi_nhánh thì còn <price> thôi , nên chịu_khó follow page này để biết khuyến_mãi ăn cho rẻ
+251	1	0	chất_lượng rất ok , da giòn bóng_bẩy , vị đậm_đà , và được tặng kèm 3 loại sốt chấm : xá_xíu , muối ớt và mắm Thái Gà nướng Địa_Trung_Hải có vị cay nồng , thích_hợp cho mấy chế thích ăn cay nhé : * Gà nướng bơ tỏi thì béo ngậy , thơm
+252	1	0	Có 3 loại , tụi mình gọi súp lá chúc
+253	1	0	Phần súp gà gồm gà phile , chân gà , nấm kim châm , lá chúc đồ
+254	1	0	Nước súp chua_cay lạ_lạ rất dễ ăn
+255	1	0	Mềm mềm cắn đã lắm nha
+256	3	0	Dạo này rất khó kiếm được quán nào bán đồ_ăn đặc_sắc , ngon mà giá vừa tầm như_vậy
+257	4	0	Trước toàn ăn bên chi_nhánh Lê_Văn_Sỹ , khách đông mà quán bé quá
+258	4	0	Nay có thêm nhánh Q1 , cảm_thấy nhẹ_nhõm : ) ) Quán mới này so với mấy nhánh khác đúng khác hoàn_toàn
+259	0	1	Chắc tại Q1 nên sang chảnh cái biển_hiệu mới ghê chứ
+260	0	1	Biển_hiệu bắt_mắt đẹp rạng ngời < 3 Mình ăn hôm mới khai_trương , ngày đầu_tiên mà cũng khá đông , hên là quán có lầu nên không lo bị thiếu chỗ
+261	0	0	Quán lắp lại khá nhiều gương , nên nhìn rộng_rãi hẳn lắm
+262	0	0	Bị kết cái cửa_sổ nhìn ra đường của quán , với kiểu bàn_ghế mới ở đây lắm luôn
+263	0	0	Bàn_ghế sống ảo dữ thần k Khung trời mộng_mơ Tiếc cái là chỗ này không bán lẩu , nãy tới thèm lẩu lá chúc chua_cay mà không có , nên chuyển qua gọi gà nướng
+264	1	0	Còn có rau_răm và dưa_leo ăn kèm nữa
+265	1	0	Gà ướp đậm_đà , ngon ngon < 3 Ngoài điểm không hài_lòng là sân trước hơi nhỏ , không đủ để xe và không bán lẩu thì cực_kì hài_lòng
+266	5	0	Nhân_viên thân_thiện , món ăn thì vẫn chờ 20 phút như thường_lệ
+267	3	0	Sẽ ủng_hộ dài_dài <
+268	3	0	Mua phần này là được tặng ngay mấy bao lì_xì xinh_xắn này liền
+269	1	0	Phần này gồm có 2 miếng gà rán phủ sốt phô_mai cay
+270	1	0	1 chiếc burger gà
+271	1	0	2 miếng gà giòn không xương
+272	2	0	2 ly nước_ngọt refil miễn_phí
+273	1	0	Thịt gà tươi ngon , chắc , cắn ngập răng , phủ bột chiên giòn_tan , quyện sốt phô may cay xuýt_xoa , thơm thơm , đậm_đà
+274	1	0	Burger gà thì siêu chất với nguyên miếng phi_lê gà to bự chiên giòn , ăn no chắc bụng luôn đó
+275	1	0	Nhấm_nháp thêm khoai_tây chiến
+276	1	0	Chấm tương ăn là hết_sẩy con bà bẩy
+277	2	0	Lại được uống nước_ngọt thả ga , quá đã
+278	5	2	Nay dẫn em mình đi ăn thì gặp ngay phải bạn phục_vụ quá TỆ
+279	5	2	Bạn ấy vừa tỏ thái_độ không thoải_mái vừa nhập phần order vào máy , sau đó thông_báo với mình chỉ có 1 nước
+280	5	2	Mình trả_lời vì tưởng đây là 2 phần nên hỏi bạn ấy cho mình đổi sang phần 9 mấy <price> kia được ko thì bạn ta tỏ thái_độ ra_mặt hơn_nữa , sau đó thở_dài rồi QUAY NGOẮT đi vào trong không nói lời nào
+281	5	2	Làm_ăn mà tuyển mấy nhân_viên thái_độ coi khách_hàng như đến ăn_xin như_vậy thì liệu có bền không đây ? ?
+282	5	2	Nếu không để đổi phần được cho khách thì nói_thẳng chứ không phải tỏ thái_độ vậy , thất_vọng , sẽ không bao_giờ tới Popeyes nữa
+283	1	0	Lớp vỏ thì giòn_tan , lớp nhân thì mềm mịn , beo_béo , thơm vị phô_mai , ngọt dịu lại có vị chanh_chua chua nên ăn hoài mà không bị ngán
+284	3	0	Chỉ cần với hoá_đơn <price> là sẽ được làm Vip_Card , mỗi thứ 5 hàng tuần với hoá_đơn chỉ <price> là được tặng ngay 1 bánh Cheese_Tart miễn_phí đó nha
+285	3	1	Gánh chè bán từ 7h tới tầm 13h hơn là hết
+286	1	0	Gánh nhỏ chớ treo lủng_lẳng đủ loại chè nào là : chè đậu_đen , đậu_trắng , đậu_xanh , chè thập_cẩm , khoai_môn , khoai cao , đậu hủ … mấy cô , mấy chị , bạn nữ sinh_viên là cực kết chỗ này luôn
+287	1	0	Đỉnh nhất_là chè đậu_đen , hạt đậu to , có thêm vài viên bột nhỏ nhỏ ăn rất thanh mát , ngon hơn khi ăn có nước_đá
+288	1	0	Đậu_đen nấu vừa chín_tới , vị ngọt vừa_phải
+289	1	0	Điểm mình thích là đậu hủ ở đây cho rất nhiều gừng , màu_nước đường nấu vàng cam nhìn cũng rất đẹp_mắt , ăn lúc còn nóng_hôi_hổi là thích lắm luôn
+290	1	0	Khoai_môn được nấu với nếp mềm , thơm béo , ưng bụng nhất chính là chè có lá dứa nên thơm thơm và có màu xanh_xanh nhìn rất đẹp_mắt nha
+291	1	0	Vì tất_cả chè đều <price> giá 5knên ăn tẹt ga luôn nà
+292	4	0	: ) ) Quán nằm ngay góc Điện_Biên_Phủ giao CMT8 , bên tay_trái nếu đi hướng ĐBP về Bình_Thạnh
+293	0	1	Nhỏ nhỏ , cái cổng cũng nhỏ nhỏ
+294	0	0	But chạy xe vô cổng rồi thì rộng bất_chấp
+295	0	0	Nói_chung không_gian bình_dân ngoài_trời nhưng ko phải ngồi ngoài vỉa_hè như bên Thành Thái
+296	0	0	Dạng như cafe sân vườn ở quê ấy , mát , bàn_ghế xinh_xắn , mình hơi bị ghiền mấy cái cây trang_trí trên tường , nhìn lạ_mắt
+297	1	0	trái_cây toàn loại ngon , ăn đã đã gì đâu
+298	1	0	Mà ở đây là đưa nguyên cho mình hũ sữa_chua rồi tự cho vào theo ý thích nữa , hơi khác so với bên TT
+299	5	0	Hai bạn chủ quán , cũng là sinh_viên như tụi mình , nên nói_chuyện dễ_thương
+300	3	1	Mới nhìn sơ chỗ này thấy ko hoành_tráng lắm tại thấy có bán biển_hiệu với cái tủ mà ko trưng_bày gì hết , chạy sớt ngang ko để_ý thì ko biết bên trong ăn đông vậy đâu , mở_cửa tầm từ 17h là có rồi , nhìn vậy chứ người ta nấu và chế_biến bên trong nhà trong hẻm á , chỉ cần quẹo vào đậu xe là có người lại hỏi oder liền , xong bưng từ bên trong ra
+301	0	1	Bán vỉa_hè thôi nhưng nhìn khá sạch_sẽ , đồ_ăn cũng sắp_xếp gọn_gàng
+302	3	1	Chỗ này bán buổi trưa nha mấy bạn
+303	1	1	Này là gỏi cuốn tôm thịt nè , <price> / cuốn nha
+304	1	0	Chấm mắm_nêm hoặc tương tuỳ bạn chọn , tụi mình lấy mắm_nêm hết
+305	1	0	Gỏi cuốn ngon nên người ăn 3-4 cuốn luôn
+306	1	0	Một dĩa khá nhiều , đầy_đủ rau , trứng , chả_giò và tôm khô
+307	1	0	Bún , mì xào ăn khá ngon , chả_giò chiên tịa chỗ nóng_ăn cực ngon nha , 1 dĩa được 2 cái chả_giò , một dĩa vầy là <price>
+308	1	1	Tổng thiệt_hại của mình 9 gỏi cuốn + 3 dĩa bún , mì xào là <price>
+309	1	0	Bạn nào trưa ngán ăn cơm thì có_thể đổi món qua ăn_gỏi cuốn , bún mì xào nha , có bữa còn bán bún thịt xào nữa á
+310	3	1	Bắt_đầu bán từ sáng sớm 6h , đến trưa 12 giờ , còn thì bán tiếp nhưng dọn dần_dần , đến 13h là nghỉ bán rồi
+311	3	1	Con hẻm phở đó_đây nè , xe dựng sát tường rồi vô ngồi ăn luôn
+312	3	1	Dụng_cụ thì cũng đầy_đủ
+313	1	0	Rau_thơm , chanh ớt nữa nè
+314	1	1	Của mình là tô Phở tái <price> Bạn mình thì ăn Phở gân <price> Nêm nếm tương và dùng thôi nè
+315	1	0	: ) Nước phở là nước cuối rồi nên hơi mặn 1 tí , nhưng rất thơm ngon , đậm_đà , ăn mê luôn
+316	1	0	Cũng có nhiều gân nè , nhai sần_sật ngon_lành
+317	1	1	Thịt bò cũng ngon , ngọt thịt , nhưng ăn mau quá , thịt chưa chín thì_phải , mới tái thôi
+318	1	0	: ) Sợi phở ở đây thì thú_vị , nhỏ hơn nhiều so với các nơi khác mình ăn
+319	1	0	Mềm mềm nhưng không phải sợi hủ_tiếu đâu nha
+320	3	0	: ) Nói_chung Phở ở đây ăn cũng ngon , mà giá lại rẻ , nên nhất_định sẽ quay lại ăn tiếp rồi
+321	1	0	Dimsum ăn ngon vừa_miệng , tôm thịt tươi và giòn
+322	1	0	Mì kinh_đô và tam tơ ngon
+323	3	0	Có cả mua mang về , giao hàng tận nơi và ăn tại nhà_hàng vô trong ngồi máy_lạnh đều đc
+324	1	0	Giá_cả thì <price> ổ nhưng đang khai_trương nên giảm còn có <price> thôi
+325	4	0	Mặt_tiền Lê_Thị_Riêng để khách mua mang đi nè ^ ^
+326	5	0	Làm khá chuyên_nghiệp luôn ấy
+327	0	0	Mặt_tiền bên hong có ghế_ngồi ngoài_trời luôn
+328	0	0	K thích ngồi ngoài_trời thì vô nhà ngồi máy_lạnh như mình cũng ok nhé
+329	1	1	Ổ bánh_mì <price> nè
+330	1	0	Sạch_sẽ vệ_sinh ghê he
+331	1	0	Ngoài_ra còn có cả combo ổ bánh_mì với ly cafe với giá chỉ <price> thôi
+332	1	0	Mở ra xem sao , thịt_thà quá_trời luôn
+333	1	0	Rau và đồ chua nhìn khá hấp_dẫn
+334	3	0	Hứa_hẹn tới quài quài
+335	3	0	Nhắc tới thì ai cũng bảo là Phở_Lệ ngon nhất nhì Sài_Gòn , bắt_đầu bán từ năm 1960
+336	1	2	Kêu tô phở đặc_biệt nhỏ <price> thôi ăn_đủ òi , tô lớn tới <price> lận
+337	1	2	Mà công_nhận ở đây bỏ nhiều bánh_phở , đã dặn ít bánh rùi mà cũng còn quá_trời , với_lại bánh trụng kỹ quá hơi bèo_nhèo
+338	1	0	Nước dùng rất thơm mùi bò , đậm_đà nhưng gia_vị hơi nồng nên ăn tí là ngán , nhìn cũng đậm màu hơn so với các nơi khác
+339	1	0	Mấy miếng gầu dày mà mềm , thịt nạm săn chắc , bò viên giòn sựt cũng chất_lượng
+340	3	0	Mình như là khách_hàng thân_thiết ở đây luôn rồi vậy cứ mỗi tuần đều đến ăn đều_đặn 1 2lần
+341	1	1	1 dĩa thập_cẩm 28
+342	1	2	Mấy lần trước tới ăn da bánh đục , bỡ và ăn mau ngán , xôi lá_sen màu nhiều
+343	1	1	Còn giờ thay_đổi hoàn_toàn : ) Vòng ngoài chào sân Vòng trong khám_phá từng chi_tiết : P Dĩa cảo-mại thập_cẩm , 1 viên : 4-5
+344	1	0	Bánh mới , bột dai , nhân tôm thịt đều thấm , ngọt và tươi Xôi lá_sen cực_kỳ ngon luôn , không màu nhiều , mùi thơm mới , cắn vào không quá khô , hơi ươn_ướt , thơm bá cháy lun Bánh_bao cade , bánh trứng muối và bánh_bao chiên Bánh_bao Kim_Sa
+345	4	1	Xe há cảo nhỏ nằm gần khu vịt quay bùi_hữu nghĩa hơi khuất 1 chút_xíu nha để_ý sẽ thấy
+346	1	1	Há cảo chiên trứng <price> / 1 dĩa
+347	4	1	Quán nằm ở 208 Nguyễn_Khắc_Nhu , phường Cô Giang , Quận 1 ( đoạn đầu đường nhé các bạn ) Há_Cảo đã được hấp chín trước , được chiên trên lửa lớn nên rất nhanh giòn , nên mọi người sẽ đợi không quá lâu
+348	1	0	Há_Cảo lớp ngoài giòn kết_hợp với trứng nhìn có_vẻ giống bột chiên nhưng ăn vào lạ và ngon hơn rất nhiều ; đu_đủ bào sợi mỏng và rất tươi
+349	1	1	Há_Cảo_Chiên_Trứng ăn kèm nước_tương và tương_ớt cũng giống như bột chiên các bạn nhe
+350	1	1	Một phần <price> được 6 viên há cảo
+351	1	0	Này là 2 phần mình mua nè , há cảo viên to , nhân nhiều , cắn 1 cái ngập răng luôn
+352	0	1	Không_gian quán cũng ko có thay_đổi , món ăn ngoài điểm_tâm ra thì_có cập_nhật thêm vài món bánh_mì chảo nữa
+353	1	1	Hoành_thánh <price> / phần
+354	1	0	Một viên khá là to , phần nhân là thịt trộn sắn , ăn sật sật , và có vị ngòn_ngọt
+355	1	0	Bên ngoài có miếng hoành_thánh gói lại ăn khá thơm
+356	1	1	Phần trứng cuộn <price> / phần
+357	1	0	Phần nhân không khác gì phần hoành_thánh , chỉ thay lớp vỏ bên ngoài bằng trứng , và miếng trứng được tráng siêu siêu mỏng
+358	1	0	Ăn mấy món Dimsum này phải pha tí nước_tương vs dấm tiều , tương_ớt chấm kèm mới tròn vị
+359	3	1	Tổng thiệt_hại cho 6 món và 1 chai xá_xị là <price>
+360	1	0	Giá bình_dân lắm nhe chỉ <price> / 6 viên
+361	1	0	Vỏ mỏng , nhân nhiều , cắn ngập răng luôn
+362	1	0	Có 7 loại nhân muốn lựa loại nào cũng được : thịt , tôm , xíu_mại , bắp , tôm hẹ , tôm củ_cải , bánh xế
+363	1	0	Miếng thịt nạm bự thiệt luôn á , ăn rất_chi_là thích và cảm_thấy xứng_đáng với đồng_tiền mình bỏ ra
+364	1	1	Tô phở thập_cẩm , tái nạm bò viên giá <price>
+365	1	0	Giá bình_dân lắm nhe chỉ <price> / 6 viên nhân tự chọn luôn nhe
+366	1	0	Vỏ mỏng , nhân nhiều , cắn ngập răng luôn
+367	1	0	Nước dùng ngọt , thơm mùi hồi - quế , đúng chất phở ngon
+368	1	0	Thịt mềm ngon , gân dai giòn , bò viên , chấm cùng tương ăn rất ngon
+369	3	0	Ngoài_ra quán còn đang có chương_trình ăn hoá_đơn trên 1 triệu được tặng 12 lon Pepsi hấp_dẫn
+370	1	1	Có 6 loại xíu_mại há cảo các bạn ăn nhiêu gọi nhiêu cũng bán thấp nhất hộp <price> Chú đang đếm bao_nhiêu cục cho vô hộp Ở đây cũng bán các loại bánh_bao và xôi lá_sen nữa
+371	1	1	Ko có chỗ ngồi nên bán cũng nhanh lẹ lắm lúc đông thì cũng chờ hơi lâu Bánh_bao xá_xíu <price>
+372	3	0	Cứ nhà không nấu cơm là chạy ta phở Ông Hùng mỗi người 1 tô
+373	3	0	Cơ_mà vừa_rồi ăn trên 300K ngay ưu_đãi tiệc càng đông càng vui được bao lì_xì
+374	1	0	Phở ngon , nước dùng thơm ngọt , nạm có gân mềm , ăn rất non , kết_hợp cùng bò viên dai giòn cực_kì kích_thích vị_giác
+375	3	0	Sẽ sớm quay lại trong thời_gian tới nếu có cơ_hội
+376	4	2	Nhà_hàng Ngọc_Sương_Bến_Thuyền nằm hơi khuất dưới cầu nên không để_ý mọi người sẽ không thấy
+377	3	0	Khách tây lẫn ta cũng ăn_ở đây khá nhiề
+378	4	1	Khắp Sài_Gòn thân iu này , chúng_ta đi đâu cũng gặp quán ốc , từ bình_dân đến cao_cấp , từ mặt_tiền đường đến ngõ_cụt trong hẻm , từ trung_tâm ra đến vùng_ven đều được thần_dân DDAU tìm ra ^ ^ và bài rì ziu này em xin giới_thiệu đến anh_chị một địa_điểm ăn ốc tại quận 3 đường Nguyễn_Thiện_Thuật
+379	0	1	Mặt_tiền và không_gian chỗ ngồi của quán Cận_cảnh quầy hải_sản tươi ngon
+380	1	1	Chấm kèm nước_mắm thơm ngon số zách Sò_huyết xào me hơi chua nhưng được_cái con to Sò điệp nướng phô_mai nướng hơi bị khét xí
+381	1	1	Nhưng chấm kèm nước_mắm của quán hơi bị ngon đó nha : D Ốc khế nướng muối ớt - hơi bị zai và không ngon cho lắm Ốc mỡ xào bơ tỏi - không có điểm gì đặc_sắc và nổi_bật Ốc_hương rang muối ớt - ốc hơi nhỏ nhưng thịt giòn và thơm Hào nướng phô_mai - hào ở đây con to như lòng bàn_tay , nêm nếm vừa khẩu_vị của em Tổng thiệt_hại một bữa hải_sản ^ ^ Sau đây là menu của quán ( + ) Hải_sản tươi , phục_vụ vui_vẻ nhiệt_tình , giữ xe có thẻ và miễn_phí
+382	5	1	( - ) Lên món hơi lâu
+383	1	0	Vô_tình lụm được bí kíp , phát_hiện ra quán Kem bơ Buôn Mê hương_vị đúng chất Đà_Lạt khỏi đi đâu xa mà vẫn thoả_mãn được cơn thèm ngay tại Sài_Gòn
+384	1	0	Bơ siêu béo và ngon , đậm vị bơ nguyên_chất , giá <price> cho một ly cũng phải thôi
+385	1	0	Cơm dừa giòn sần_sật Yaourt phô_mai , lớp yaourt mềm mịn , chua_chua ngọt ngọt thơm thoảng qua là mùi phô_mai ăn là ghiền luôn Yaourt trái_cây , bên trong gồm các loại trái_cây như dâu , dưa_hấu , bơ , xoài , đu_đủ , ... trái_cây tươi ngon hết nấc Sinh_tố bơ nè , như kem bơ trên mà không có kem thôi : ) ) ăn thì nhạt hơn có ke
+386	1	2	Nhà_hàng sushi mà sashimi không ngon là thua
+387	4	1	Bữa ngày lễ mình rủ gia_đình đi ăn Hana buffet ở chi_nhánh mới bên Nguyễn_Văn_Linh , Q. 7
+388	0	1	Chỗ này mình thấy hình_như không rộng bằng chi_nhánh bên Phạm_Viết_Chánh
+389	3	0	Chi_nhánh này cũng khá đông , hầu_như cuối tuần ful bàn luôn
+390	3	1	Vé buffet người_lớn là <price> / người , nhỏ dưới 1m miễn_phí
+391	1	0	Đồ_ăn vẫn gọi theo set menu có thịt bò , gà , cá , tôm , ốc , mì , lẩu , … ăn gì kêu nấy
+392	1	0	Hana buffet có một_số món nướng sẵn , một_số món mình tự nướng tại bàn
+393	1	0	Đồ nướng tại bàn nóng_hổi ăn khá ngon_miệng
+394	5	2	Mình gọi có món phải nhắc lại mấy lần nhân_viên mới mang ra , kêu nước cũng đợi 20 phút chưa có , phải nhắc lần 2 nhân_viên mới mang nước ra
+395	2	1	Nước uống thì tính tiền riêng nha các bạn , trà đá <price> / ly , nước ép tầm 30k-35k/ly
+396	3	1	Nói_chung đồ_ăn vẫn như các chi_nhánh khác , nếu phục_vụ nhanh hơn xíu thì ok hơn
+397	1	0	Đánh_giá sơ_bộ là phở ở đây ngon , nước sốt rất đậm_đà , bánh_phở dai và vừa_miệng , thịt tươi , ngon
+398	1	0	Rau ngò giá tưởi , sạch , được bọc kỹ trong nilon rất vệ_sinh , lịch_sự
+399	3	0	Nghe kêu quán đang có khuyến_mãi ăn 1 triệu <price> là được tặng 1 thùng pepsi nghe cũng hấp_dẫn
+400	1	0	Phở có nước dùng thanh ngot , không có quá nhiều bột_ngọt , thịt tái tươi , ngọt , rõ vị thịt tươi , gân được hầm vừa tới , giòn ngon
+401	3	0	Theo lời bạn nhân_viên thì hệ_thống nhà_hàng món Huể - phở Ông Hùng và cơm thố cháy còn đang có chương_trình khuyến_mãi ăn trên 1 triệu được tặng 12 lon pepsi , các bạn nên dẫn gia_đình đến thử sức nhé
+402	1	0	Quán này thấy đông bạn check-in , đến ăn thì thấy các món Hàn mà giá không cao như nhà_hàng , lại rất đúng chất
+403	1	0	Kimbap ăn toàn rau , chấm sốt riêng ngon
+404	1	1	Có chén canh đi kèm với cơm trộn , húp thấy vị bình_thường
+405	1	1	Ăn chủ_yếu là thấy cay , thứ 2 nữa là bột quá , dễ ngán
+406	1	0	Canh_Kimchi ăn chua_chua cay cay , rau cải mềm và mặn mặn , thích canh này nè
+407	4	0	Nhỏ bạn rủ đi ăn sáng quán này đối_diện The_Garden_Mal nên khá dễ tìm
+408	1	1	Hủ_tiếu mì tay cầm <price> , thật_ra là món hủ_tiếu mì với giò heo hầm chao đỏ
+409	1	0	Mình gọi phần đặc_biệt nên kèm theo trứng ốp la và các loại chả 2 miếng dăm bông ngon Chả chiên dai ngon Pa tê beo_béo ăn kèm bánh_mì khá ngon Menu cho các bạn tham_khả
+410	1	0	Xiên nướng ở đây ăn cực_kì ngon lun
+411	2	1	Còn có mấy nó nước_đá mới có giá từ <price> tới <price>
+412	1	0	Phong_phú hơn_nữa quán còn có lẩu nữa nhé
+413	1	0	Đồ nướng khá ngon , cách ướp quá_xá là ok , ăn vừa_miệng gì đâu lun ấy
+414	5	0	Vào bàn ăn là được phục vụ chuẩn bị sẵn sàng " đồ chơi " luôn nha
+415	1	0	Nếu gọi xiên nướng thì nhớ gọi đậu bắp nướng ăn cho đỡ ngán nha ... Chân gà nè , được ướp gia vị khá thấm đấy ... Làm một vỉ nướng lên thơm phức luôn , đồ ăn ở đây ướp cực kỳ chuẩn , đi ăn đồ nướng thì gia vị quan trọng lắm nha , nó quyết định đến chất lượng món ăn á
+416	1	0	Nem nướng nè ... Còn đây là mấy xiên thịt heo ba chỉ với mấy xiên mề gà ... Mấy món nướng như thế này uống bia thì càng tuyệt hơn đúng không nào
+417	0	0	Không_gian nhỏ nhưng dễ_thương
+418	1	0	Kem xoài ăn là biết làm từ xoài tươi , xôi cũng rất ngon
+419	3	0	Sẽ quay lại trong tương_lai
+420	1	0	ngoài 2 loại sốt trên bánh còn được rắc thêm rong biển và da cá bào góp_phần làm cho món ăn trở_nên tuyệt_vời mang đậm phong_cách Nhật_Bản
+421	1	0	Còn Về bánh oknomiyaki ( bánh_xèo Nhật ) thì không_thể chê vào đâu được , bánh cũng làm từ nguyên liệu bột giống với takoyaki nhưng được chiên với dạng dẹp với tổng_hợp tất_cả những loại nhân bạch_tuộc , xúc_xích , phô_mai , tôm làm cho món ăn thêm phong_phú và đầy_đủ hương_vị
+422	1	0	Bánh cũng được ăn kèm với sốt mayonaise và okonomi
+423	3	0	Tóm_lại , Mình bảo đám Các bạn khi đến quán sẽ không hối_hận về chất_lượng món ăn và giá_cả nơi đây
+424	5	2	Chất_lượng dịch_vụ ở đây quá kém
+425	5	2	Mất 45 ' cuộc_đời cho quán ăn không biết ngon dở , dịch_vụ siêu tồi
+426	1	0	Bữa đi công_việc có đi ngang đường này thấy quán hàu sữa giá rẻ <price> - <price> à nên 2 đứa tấp vào ăn_liền tại đang thèm quá_chừng
+427	1	0	Ăn từ thời <price> nay lên <price> nhưng chất_lượng vẫn rất OK nha
+428	4	0	Xe bán gần nhà lại trên đường mình đi làm_nên rất tiện luôn
+429	1	0	Hệ_thống ăn sáng " 1 phút 30 giây " có nhiều món lắm nha như : sandwich , hamburger , hot-dog , nhưng mình món mình thích nhất và luôn order là pita nha
+430	1	0	Nội_thất bên trong mỗi pita bao_gồm : thịt nướng , trứng chiên , salad , cà_chua và thêm phần sốt nha
+431	2	0	Cận_cảnh nè Đi kèm mỗi phần ăn là 1 ly nước nha hình_như có 3 sự lựa_chọn : trà_sữa , ca cao và nước_ngọt nhé
+432	1	1	Tấp vào thì được bạn nhân_viên giới_thiệu món bánh Pita , thấy lạ nên lấy một phần rồi chạy vào công_ty
+433	2	0	Ngoài trà sữa bạn có_thể chọn nước_ngọt
+434	3	0	Một phần ăn như_vậy với giá <price> theo mình là hợp_lý cho một buổi ăn sáng
+435	1	1	Bánh được để trong báo giấy khá bắt_mắt
+436	1	1	Bột bánh có_lẽ làm từ bột mỳ
+437	1	1	Nhân kèm là trứng chiên cùng thịt nướng và một_ít rau
+438	1	0	Thịt ướp vừa ăn
+439	1	1	Tuy_nhiên , do tiêu_chí là thức_ăn phục_vụ trong 1 phút 30 giây , các món đi kèm thường được chế_biến sẵn nên không được nóng
+440	4	0	Quán nằm ngay số 4 Cao_Thắng , Quận 3
+441	2	0	Ở đây bán trà sữa na_ná Gongcha nè , mà giá thì mềm hơn chút
+442	2	0	Còn ly này là yogurt nho size vừa , một ly <price> nè Uống không nghe mùi yogurt mà nghe mùi nho nhiều , giống giống vị trà nho á , ly này thì chua nhiều hơn ngọt Bên trên là topping thạch đào , mà thạch đào ở đây làm ngọt gắt quá = . = uống nước_ngọt rồi thì thạch nên làm bớt ngọt lại , còn lại thì ok
+443	0	0	Không_gian quán khá rộng_rãi thoải_mái để họp_mặt hay làm_việc nè , đặc_biệt là khách đông nhưng không ồn_ào nh
+444	2	0	Thấy cũng ok á
+445	2	0	Có trân_châu trắng dai dai giòn giòn cũng ngon lắm nha
+446	0	0	Đặc biệt ngồi ở đây không khí rất trong lành và thoáng mát
+447	0	0	Ở đây không chỉ có không_gian mở mà còn có phòng VIP nữa á nha
+448	1	0	Gà được quán chế_biến qua trước để lúc nước lẩu sôi thì cho vào để làm nóng lại phần gà là thưởng_thức được ngay
+449	1	0	Ôi 2 đứa ăn có_vẻ hơi nhiều thì phải : ) ) Rau ăn kèm : xà_lách xoong , cải xanh , cải thảo , nấm ... Vì tránh thịt gà bị nát nếu nấu lâu thì mình chỉ cho 1/2 đĩa thịt , còn rau thì cho mỗi thứ 1 loại để nồi nước lẩu thêm hương_vị thanh ngọt của rau hơn
+450	1	0	Múc lên được nguyên bộ lòng nhìn đã gì đâu hohoho
+451	3	0	Mới 5h chiều cũng đã có vài khách đến ăn rồi , tối hơi sẽ còn đông nữa á
+452	0	0	Nhà_hàng toàn_bộ màu trắng rất sang_trọng và nổi_bật trước_mắt
+453	4	0	( Ngay đối_diện Crescent_Mal luôn , góc ngã tư , kế bên The_Adora )
+454	0	0	Không_gian nhà_hàng thiết_kế với tông chủ_đạo màu trắng , đẹp và tinh_tế
+455	5	0	Bước vào trong thì các nhân_viên nhiệt_tình chào_đón ( các bé nhân_viên lễ_tân mặc đồ sườn xám trắng ton sur ton với màu của nhà_hàng rất dễ_thương )
+456	0	0	Không_gian màu trắng sang_trọng , pha lẫn nét cổ_điển với phong_cách Trung_Hoa tha_hồ mà tự sướng
+457	1	0	Món này nên dùng nóng ngay và luôn khi vừa_mới được mang ra , ăn rất ngon ( vì nhà_hàng mở máy_lạnh lạnh quá nên nhanh nguội lắm ) Còn đây là món xá_xíu xốt mật_ong
+458	1	0	Bên ngoài mềm , bên trong ngọt khá vừa_miệng
+459	1	0	Nhìn qua menu thì giá cũng tương_đối mềm so với đẳng_cấp của nhà_hàng
+460	1	0	Đồ_ăn ngon với mức giá phù_hợp
+461	5	1	Nhân_viên nhiệt_tình nhưng hơi chậm trong khâu lên món
+462	1	0	Thịt vịt xông trà rất lạ , hương thơm cực_kỳ luôn
+463	1	0	Nhìn decor cũng ngon_mắt quá_trời , nói_chung mình thấy đáng_giá
+464	1	0	Thịt vịt xông trà ăn mềm , thấm sốt riêng thơm ngon khó tả , như_thể đang ăn thịt ướp matcha vậy đó , vừa đậm_đà vừa chát nhẹ , ăn chung salad rất hài_hoà
+465	1	0	Cái ngon của món này là miếng bò to nhưng mềm đậm , tuy được cắt nhỏ nhưng miếng nào cũng thấm vị
+466	1	0	Ngon nhất_là kết_hợp với salad tươi ngon thì cảm_thấy thanh_đạm chứ không dầu_mỡ
+467	1	0	Nhưng mình mua kèm với 1 phần mini Hamburger nữa nên có giá ưu_đãi là <price>
+468	1	0	Cá_ngừ giòn và đậm vừa khẩu_vị , thịt chắc , dùng với các loại rau ngon cực_kỳ
+469	1	0	Có_điều sốt trộn chung với loại salad này không phải ai ăn cũng hợp
+470	1	0	Mini_Hamburger có 3 loại là cá_chiên , bò chiên và gà chiên
+471	1	0	Thịt không khô như bên ngoài bán , ướp cũng thấm hơn
+472	2	1	Nước ép ở đây giá cũng tầm <price> - <price> , uống cho thanh mát đẹp da , ahihi
+473	0	0	Không_gian trong quán nhỏ nhưng được bài_trí trang_nhã , sang_trọng nên vẫn cảm_thấy thoải_mái lắm
+474	3	0	Còn đây là menu quán nha , hình_như buổi trưa còn có chương_trình khuyến_mãi cho dân văn_phòng đi ăn trưa nữa đó
+475	1	0	Cơm xào bò ngon lắm
+476	1	0	Quán cũng có bán súp cua , nói_chung đầy dủ món hết
+477	1	0	Từ bún_bò , bún mắm , tới cơm , nui mì í , bó bít tết
+478	2	0	Các loại nước sinh_tố ... Món nào mình thấy cũng ngon cả
+479	1	0	Ngon nhất có_lẽ là bò bít tết
+480	1	0	óc heo nhiều lắm nha
+481	1	0	Mì ý ở đây ăn cũng khá ngon
+482	1	1	Ăn ổn Một dĩa vầy giá <price> nh
+483	0	1	Chỗ nhỏ thôi nhưng bán cũng khá đắt khách
+484	3	0	Nói_chung chỗ này ăn ok , ai thích thì mua ăn thử nha
+485	4	0	Xe bán bánh_mì Kebad này nằm ngay đoạn đường Vĩnh_Khánh giao với Tôn_Đản , bán buổi chiều
+486	1	1	Bữa mình ăn là <price> , nay lên <price> rồi
+487	1	0	Bánh_mì ở đây rất nhiều thịt , nhiều rau , ăn 1 ổ là no luôn
+488	5	0	Khách đa_số mua về , anh bán cũng khá dễ_chịu , xin thêm rau cho rau , thêm sốt cho sốt , nói_chung chiều khách
+489	3	1	Đi ngang qua thấy quán đông , nên ghé vô ăn thử xem sao , tầm giờ tối mình đi khá là đông_đúc , người mua về , người ngồi lại ăn rất đông
+490	5	2	Nên mình ngồi đợi món khá lâu
+491	5	2	Mình ăn mì xào giòn thập_cẩm , mà chờ mãi mới tới lượt
+492	1	0	Nước sốt xào thì ngon lắm , đồ_ăn và mực ở đây tươi ngon , hợp_khẩu vị mình
+493	1	2	Nó cứng cứng như mì gói sống , mà đã là mì gói thì rưới nước sốt lên cũng khó mềm
+494	1	0	Quán bán cũng khá nhiều món , hủ_tiếu xào , cơm xào bò , cơm_chiên cá mặn
+495	1	2	Ăn xong dĩa mì không no cho lắm :
+496	1	0	Bánh giòn bên trong lại mềm , nhân chất_lượng khá vừa ăn Túm lại là ưng Bingsu bên này vì được cái chua , khác với mấy loại Bingsu ngọt ở nơi khác vì quá ngán rồi
+497	3	1	Này đi phải gửi xe bên toà nhà và đi toalet bên toà nhà luôn he
+498	3	1	Giá_cả đây cũng nhẹ chút so với Bene n
+499	2	0	Shinning_Gold <price> Chua_chua ngọt ngọt , thanh mát với vị dừa , kích_thích vị_giác vô_cùng
+500	2	0	Nước ép trái_cây tươi , nguyên_chất , uống vừa ngon lại vừa tốt cho sức_khoẻ , nhất_là da
+501	2	0	: ) Trái_cây tươi sữa_chua <price> cũng là 1 món hấp_dẫn ở đây
+502	2	0	Với vô vãn trái_cây tươi đủ loại hoà_quyện vào nhau , không_những thế còn được trang_trí cực_kì bắt_mắt , khiến tín_đồ trái_cây nào mà không_thể rung_động
+503	0	1	Quán dễ_thương vô đối
+504	2	0	Có sạp trái_cây tươi ngay tại quán , nhiều loại , nhìn vô là cũng thấy mê rồi
+505	5	0	Nhân_viên làm ngay quầy , coi thôi cũng thấy thú_vị
+506	3	0	: ) Nằm trong Pearl_Plaza sang chảnh nhưng giá thì rất mảnh_khảnh , có <price> thôi
+507	1	0	Có thêm dưa_hấu tráng_miệng
+508	1	0	1 bàn đầy_ắp món ngon , nhìn hấp_dẫn quá đi
+509	2	1	: ) Gọi thêm ly : Soda chanh <price> uống để ăn cho đã
+510	1	0	Ăn no cằng hông với đồ nướng ngon ngon luôn
+511	1	0	Nhưng bạn nào muốn ăn thêm lẩu thì chỉ thêm có <price> nữa thôi là ăn phủ_phê luôn
+512	0	0	Không_gian thì đẹp và sang_trọng
+513	1	1	Menu lẩu và nướng hầu_hết <price> giá <price>
+514	1	0	Nhiều lúc mình muốn " hoa mắt " với menu ở đây tại vì quán nhiều món đa_dạng , mà món nào cũng vị đậm_đà cả
+515	1	0	Nguyên_liệu ở đây rất tươi , được chế_biến kỳ_công
+516	3	0	Quán sạch_sẽ , ngồi ăn khá thoải_mái , là địa_điểm tuyệt_vời cho ai thích đồ nướng , mê lẩu 1 người đó
+517	1	0	Nước dùng ngọt thanh , sợi hủ_tiếu dai đặc_trưng , rất ok
+518	1	1	Giá_cả cũng nằm ở mức trung_bình , phù_hợp với mọi thành_phần
+519	1	0	Quán này quả_thật đã giữ được đúng vị của hủ_tiếu Mỹ_Tho và cái chất của miền Tây
+520	1	1	Hủ_tiếu sa tế đặc_biệt : <price> Hủ_tiếu Mỹ_Tho : <price> Mì_Gà : 35
+521	1	0	Hủ_tiếu khô hay hủ_tiếu nước đều <price> / tô
+522	1	1	1 tô hình_như là <price> thì_phải , mình ko nhớ chính_xác lắm mà nói_chung khoảng đó nha
+523	1	0	Bưng ra 2 tô thấy cũng hấp_dẫn lắm nè
+524	1	0	Nhưng_mà tô ở đây hơi nhỏ ai ăn khoẻ chắc sẽ ko no lắm đâu nha Trong tô có đậu hủ dồn thịt , da heo , bò viên , thịt bò , gân bò , ... cũng đầy_đủ hén
+525	1	0	Đậu_hũ dồn thịt nè Da heo dai dai , giòn giòn Này là mình kêu thêm chén thịt thập_cẩm không ăn cho đã nè Bò viên cũng khá ngon , giòn giòn Gân bò dẻo dẻ
+526	3	0	Quán_Cacao dừa này quá nổi_tiếng rồi ha , nhất_là đối_với mấy bạn học_sinh , sinh_viên
+527	4	1	Dì mới đổi địa_chỉ mới : hẻm 100 , Hùng_Vương , P. 9 , Quận 5 , TP. HCM
+528	5	0	Vì khách đông quá nên giờ làm sẵn Cacao để trong tủ , mỗi lần làm sẵn cả trăm ly luôn , nên đến đông cũng không phải đợi như hồi đó nữa
+529	2	0	<price> / ly chà bá lửa vậy n
+530	3	0	Quán nhỏ những rất đông khách luôn á
+531	1	2	Nói_chung với giá tiền này ăn_ở đây thì hơi phí , giá với chất_lượng ko tương xứng.Nhưng chắc do hợp_khẩu vị của người khu này nên thấy khách cũng đông lạ_thường
+532	1	0	Hủ_tiếu mực thì quá quen_thuộc ăn cũng nhiều lần rồi , quán này mình thấy có hủ_tiếu hàu khá lạ lâu_lâu đổi vị thử xem sao
+533	1	0	Vị hải_sản tự_nhiên ngập_tràn tận nước dùng
+534	1	0	Hủ_tiếu hàu <price> Hàu quán sử_dụng là loại hàu đá , thịt hàu đá dai hơn và đậm vị hơn
+535	1	0	Thịt hàu khá to và tươi
+536	1	0	Nước_chấm hải_sản không gì khác ngoài muối ớt xanh
+537	1	0	Vị hàu béo ngậy mang chút hương_vị biển rõ_rệt khi ăn
+538	1	0	Trong tô còn có 1 viên thịt bằm
+539	1	0	Hủ_tiếu mực <price> Hủ_tiếu mực cũng không kém_cạnh , mực đầy_ắp trong tô
+540	1	0	Vị thơm nồng_nàn của mực hoà nguyện nước dùng
+541	1	0	Cháo hàu tôm mực <price> Đây là tô cháo đầy_đủ dinh_dưỡng nhé
+542	1	0	Hàu có khoảng 3 con , tôm tầm 2 con ( nếu mình nhớ không lầm ) , mực thì tràn_trề không tô
+543	1	0	Mỗi muỗng cháo múc lên toàn hải_sản với hải_sản
+544	1	0	Với cháo cũng có_thể gắp riêng ra chấm muối ớt xanh
+545	1	0	Cháo độ đặc vừa_phải , dễ ăn
+546	4	0	Quán bán cũng lâu rồi , nằm ngay mặt_tiền Tân_Hoà_Đông , đối_diện đền thờ
+547	1	0	Giá <price> một tô thôi nha mấy bạn
+548	3	0	Mình hay đi ăn vào buổi chìu tối từ 17h -22 h , nên không rõ buổi sáng quán có bán không nữa
+549	3	0	Khách ghé quán ra vô liên_tục , nên nhiều khi ful chỗ để xe , nhưng có người đứng trông xe nên cũng yên_tâm
+550	1	0	: 3 Đây là tô hủ_tiếu thập_cẩm đây , có tôm , cá viên , mực_tàu , gan , thịt heo , cật
+551	1	0	Quán có bán hoành_thánh , mì , có cả xương với sườn non luôn , mà 2 món này mình chưa ăn thử nữa
+552	1	0	Tôm to chứ hok có nhỏ_bé j đâu nghen Cật heo ở đây làm_ăn không bị hôi , trắng
+553	1	1	Bò_Tùng_Xẻo - <price> / dĩa Quán không có cho để hai lò lên 1 bàn vì sợ nóng
+554	1	0	Tính ra phần bò này đề_pa khởi_động thì cỡ tầm 3 người ăn là vừa <price>
+555	1	0	Thịt được ướp theo công_thức đặc_biệt cả rồi
+556	1	0	nên mềm ngọt luôn
+557	1	0	Nướng tái tái tí ăn là ngon nhất
+558	1	0	Chấm với muối_tiêu chanh : ) ) Cái này hok biết chấm muối ớt hột thì ra sao hen
+559	0	0	Được_cái trong cũng thoáng mát
+560	1	0	Menu quán cũng đơn_giản lắm : Toàn đặc_sản thôi : ) Cái lẩu Cua_Gạch là ăn bao ngon luôn nè
+561	1	0	Cái gà chiên nướng mắm cũng ngon
+562	1	0	Gà ta chặt nhỏ đem đi chiên xào sơ với mắm : ) ) Hình bên dưới là mấy thánh ấy bào còn mỗi cái đầu : v Quán có thâm_niên cũng lâu rồi
+563	4	1	Khu này là khu chợ nên có rất nhìu đồ_ăn khá ok , đặc_biệt trong đó là quán chè ngay phía đầu đường đi vào 1 tí gập nhã 3 là thấy ngay
+564	1	1	Chè bánh lọt <price> nè
+565	1	0	Bánh bên trong nè , nhìn hấp_dẫn chưa
+566	2	0	Đậu_nành <price> / bịch , chè <price> bịch đem về nè
+567	1	0	Có cả bánh cam <price> / cái nữa nè
+568	1	0	Bánh_bò cũng <price> nhé
+569	1	0	Giá_thành chợ thì khá ok rồi
+570	1	0	Ăn cũng ngon , chè rẽ mà ăn thích lắm luôn ấy
+571	3	0	Mỏi lần đợi vk đi chợ là phải làm ở đây vài ly mới chịu dc
+572	4	1	Quán này nằm ở địa chị 87A đường Phạm_Phú_Thứ , P. 3 , Q. 6 , trên xe đẩy có dán bản giá luôn nha mấy bạn
+573	1	1	Hủ_tiếu Nam_Vang thì <price> / tô , hủ_tiếu mì , mì gói thập_cẩm , hoành_thánh thì <price> / tô
+574	1	1	Đây là 2 tô hủ_tiếu Nam_Vang mình gọi nè , nhìn cũng hấp_dẫn mà hơi ít thịt , đúng là tiền_nào_của_nấy nên không_thể so_sánh được
+575	5	0	Cô chủ cho thêm 1 dĩa rau ăn kèm , ai thích ăn rau chín thì nhờ cô trụng chín giùm nha , cô rất dễ_chịu , xin thêm rau cho hẳn 1 dĩa luôn
+576	1	0	Mình có ăn thử qua , thấy cũng ngon
+577	3	1	Quán bán buổi tối nha các bạn , ai đi chơi về đói có_thể ghé đây ăn thử heng
+578	3	0	đi vòng_vòng khu này tìm món gì bỏ bụng thì vô_tình thấy quán này , kế bên quán chè campuchia làm_mưa_làm_gió đã có rv trên DDAU thấy cái bảng_hiệu khá ấn_tượng nên bay vào thử lun
+579	4	1	Chỗ này ngay hẻm 57 Hồ Thị kỷ nha , tói đông khách lắm
+580	1	0	Hủ_tiếu ốc ở đây ăn cực ngon , lạ_miệng không ngán
+581	1	1	Mình kêu thêm 1 phấn há cảo <price> / 3 viên mà chỉ còn 2 viên nên lấy thêm 1 viên xíu_mại <price>
+582	2	1	Ăn xog kêu thêm 2 ly hồng trà với bạc_hà <price> / ly ngay quán uống luôn
+583	3	0	Hai đứa ăn_uống no cành hông mà chỉ có <price> thôi
+584	1	0	Nước dùng có nước dừa nhưng rất ít chứ nếu dùng nhiêu thì không giữ được độ tươi của ốc
+585	1	0	Nước_chấm kẹo kẹo ngon lắm , nước dùng vừa_miệng ăn kèm với bánh_mì là hêt sảy luôn
+586	3	0	Nhìn_chung thì quán ăn ổn , món moiws là phá lấu ốc siêu ngon luôn nên thử món này khi đến đây nhé
+587	1	2	Nhưng khi ăn mình hơi thất_vọng vì cơm trắng chứ ko phải cơm nấu chung với nước gà , hay_là tại mình ăn xá_xíu nên thế nhỉ
+588	4	2	Quán hơi khó tìm vì địa_chỉ hơi tùm_lum xíu
+589	1	0	Quán bán cả hủ_tiếu khô và nước nha , mình kết hủ_tiếu khô nên chưa thử hủ_tiếu nước bao_giờ
+590	1	0	Sườn non hầm mềm nhai đã lắm nhen
+591	1	0	Trộn lên 1 tô đầy ăm_ắp ăn no cành hông luôn nà
+592	3	1	Quán bán buổi sáng thôi nhen
+593	1	0	Trời mưa ăn hủ_tiếu với hoành_thánh nóng thì còn gì bằng
+594	5	0	Gia_vị , tương_ớt , nước_tương ở mỗi bàn Mình gọi thì khoảng 3 phút có liền
+595	1	1	Tô hoành_thánh của mình chỉ lấy tôm thôi
+596	1	0	Quá_trời hủ tíu
+597	1	0	Hoành_thánh nhân thịt cũng khá to chứ không phải chút_xíu như mấy xe mì gõ.hehe
+598	1	0	Cận_cảnh Em Tôm khá to so với cái muỗng nhé .. Còn bạn mình thì hủ tíu khô
+599	1	0	Chén thịt cũng nhiều quá_trời , nào thịt nac , nào hoành_thánh , tôm rồi thịt xay và gan
+600	1	0	Mỗi tô thì kèm theo 1 chén tương đen để chấm ăn kèm
+601	1	0	Hết có_thể xin thêm
+602	3	0	Ai ghiền món này mà hổng ăn_ở đây là 1 sai_lầm và thiếu_sót trầm_trọng
+603	1	0	Rất nổi_tiếng ở khu Tân_Định đó nha Vàng_choé vậy nè , dễ nhận_biết lắm nha Vừa sà vào chưa ăn đã thèm vì cớ gì mà thơm quá_xá , xí_quách chắc thịt ghê hông ?
+604	1	0	Mâm gà có 6 món nha , thêm dĩa gỏi nữa nè
+605	1	0	Chấm với muối_tiêu chanh và nước_mắm gừng là toẹt zời heng
+606	1	0	Quất hết mâm gà lên mâm cảm_thấy vẫn còn lơ_lửng nên tụi mình quyết_định order thêm 2 chảo 1 chảo lòng gà trứng non và bó né trứng non
+607	1	2	Thua xa dưa lưới và dưa_hấu
+608	1	0	Đá tuyết mịn và béo ngậy lun hí hí Sau đây là menu quá
+609	3	0	Quán này hồi trước nhớ đông dữ lắm , do trào_lưu bingsu đang hot , bởi_vậy nên mình lười vô vì phải chờ_đợi và nhiều khi hết chỗ nữa
+610	1	0	Có lớp đá bào với sữa ở dưới ngọt béo , vừa ăn 1 viên dưa_hấu , vừa làm 1 muỗng đá bào ngon tuyệt
+611	0	0	Do hình_thức nhìn đẹp chỉ muốn nhào vô ăn ngay thôi
+612	0	0	Trên tầng 2 có không_gian trong nhà và ngoài_trời luôn
+613	5	1	Chờ cũng ko lâu lắm đâu
+614	1	0	Bào thôi ^ ^ Rưới nước này lên Bên trong có kem nữa nhưng nó tan nhanh quá
+615	1	0	Món này ngon nhưng làm_sao cho nó lạnh lâu hơn_nữa đi là mình ưng lắm luôn
+616	1	1	Còn các món khác thì cũng <price> hấp_dẫn lắm
+617	0	0	Không_gian khá đẹp nhưng yên_tĩnh , khách ra vào từng lượt <price> quá đông
+618	0	1	Nói_chung không_gian mang tính công_nghiệp để tạo sự chuyên_nghiệp chứ <price> cảm_thấy gần_gũi thực_sự
+619	1	1	Món_Bingsu dưa lưới <price>
+620	1	2	Nguội và cũng không hấp_dẫ
+621	5	1	Bánh_mì nướng lên khá nhanh
+622	1	1	Còn kem thì mình gọi ly kem trà xanh và kem dưa lưới
+623	1	1	Ly kem trà xanh của mình thì có_viên kem trà xanh bé nằm trên cùng bên dưới toàn là đá bào và nước có vị trà xanh
+624	1	1	Kem dưa lưới thì bên trên sắp đầy dưa lưới bên dưới là đá bào sữa .. Ăn thì cũng như ăn trái_cây bình_thường , khác lạ là ở chỗ đá bào xây mịn và có vị sữa
+625	5	1	Phục_vụ thì tự_phục_vụ , tự đi lấy nước_lọc và khăn giấy
+626	5	2	Nhưng có cái chỗ này ko chuyên_nghiệp cho lắm , quán ko gọi là quá đông , lúc mình vô thì cũng có khách cả nhưng hầu_hết là ngồi lâu rồi
+627	5	2	Vậy_mà lúc lên đồ_ăn thì ly kem trà xanh của mình nữa tiếng mới có
+628	5	2	Còn kem dưa lưới thì chậm hơn chút mà_còn lên nhầm nữa
+629	0	0	Ăn điểm ở chỗ có không_gian đẹp , thích_hợp mấy bạn yêu nhau đi
+630	5	2	Bỏ tiền để phục_vụ , vậy_mà vào <price> có nhân_viên phục_vụ , uống nc còn p tự lấy
+631	5	2	Nv giữ xe thì trời mưa <price> nỡ mag đồ cất dùm khách
+632	5	2	Đã vậy về <price> dắt xe cho khách
+633	1	1	Đc mỗi trái_cây cũg đc
+634	2	2	Còn nc ép với cf thì trời_ơi nó dỡ tệ uốg <price> đc phải bỏ luôn
+635	3	2	Bán thì đắt hơn nơi khác nhìu
+636	5	2	Mà cách phục_vụ chả ra j
+637	3	2	Đi một lần <price> dám qay lại luôn ..
+638	3	0	Nhà_hàng Nhật ngon nhất từng ăn
+639	1	0	Set lunch gà teriyaki ăn cũng ngon
+640	1	0	1 phần " Gà lên mâm " to cho 4 người gồm có : Gà ngũ_vị , Gà xá_xíu , Gà lá chanh , Gà muối ớt , Xôi nước_cốt gà , Gỏi gà , Trứng non & Mề_gà nước_mắm
+641	1	2	Xôi gà ko đậm mùi nước luộc gà , thịt gà món nào cũng khô , cứng và mặn , chỉ có gà lá chanh là tạm được
+642	1	2	Gỏi gà là món tệ nhất vì nước trộn quá ngọt , rồi trộn xà_lách chung với gỏi ăn nó cứ kỳ kỳ sao á
+643	1	2	Phải_chi gỏi chua hơn và trộn với bắp_cải ko thôi là ngon rồi
+644	1	2	Trứng non khô và nguội , mề_gà ko gì đặc_biệt
+645	1	2	Nói_chung trên mâm ko có món nào ngon , mấy dĩa sụn gà kêu riêng ăn còn được hơn nhiều
+646	1	0	Lần đầu_tiên được dùng món tại đây , thực_đơn đa_phần là món Âu vị khá lạ
+647	1	0	Ấn_tượng nhất là món gan ngỗng và bò nướng tiêu xanh
+648	1	0	Gan ngỗng béo ơi_là béo , miếng thăn bò dày kinh_khủng nhưng rất mềm , không dai , ướp rất thấm gia_vị
+649	1	0	Bánh ngọt cũng rất ngon , mình rất hài_lòng
+650	3	0	Cứ mỗi lần thèm thèm lại ghé đến quán
+651	1	0	Món ăn ở đây chế biến khá đúng vị của miền Trung , đặc biệt là mấy loại bún và mì Quảng
+652	1	0	Menu quán nè , có rất nhiều món cho các bạn lựa chọn luôn nhé
+653	1	0	nhìn chung món nào cũng ngon hết á
+654	1	0	Đây là bún cá cam nè ... nguyên một tô bự chà bá luôn á , bảo đảm một người ăn một tô là no cành hông mà lại ngon nữa chứ
+655	1	0	Còn đây là bún mắm nêm nè ... bún mắm nêm này nếu biết ăn thì phải ăn thịt từ lỗ tai heo mới ngon nha , vì nó có gân giòn giòn khi ăn sẽ rất thú vị
+656	1	0	Ở đây ngoài mấy món bún mặn còn có bún chay nữa á nha
+657	1	0	Tô bún này là bún cà ri chay ... ăn cũng khá ok
+658	1	0	Một tô mì Quảng đúng điệu , bảo đảm ăn là ghiền liền luôn á ... Chụp thêm cái mặt tiền của quán gì đó cho các bạn xem nè , chụp buổi tối nên hình hơi tối , thông cảm nhé ..
+659	4	0	Trực_thuộc khu_vực Q3 khá đông và có nhìu quán_xá
+660	1	1	Yaourt trái_cây thập_cẩm <price>
+661	1	0	Trái_cây tập cẩm mà có kiwi nữa là bít chất_lượng rồi nha ^ ^
+662	1	1	Trái_cây xô <price> / 2ng ăn đó
+663	2	1	Nước ép chanh dây <price>
+664	3	0	Đánh_giá chung chất trong tầm giá , vệ_sinh và ngồi máy_lạnh salon là khá ok rồi còn gì ^
+665	4	1	Đường thì nhỏ , mà quá_trời chỗ bán quần_áo xung_quanh , nên khá dễ đi hố qua , quán này nằm bên phía gần điện_biên_phủ đó nha các bạn " chẻ " : ) )
+666	1	0	Tại 3 loại trái_cây này ăn cực_kì đẹp da luôn nha mấy chế : ) )
+667	1	1	Nha đam ở đây bỏ gân ko sạch , nên ăn hơi bị nhẫn nhẫn tí , quăng qua cho ảnh ăn giùm : ) ) Ổng thì ăn_to_nói_lớn nên gọi cái phần cũng bự khác_thường hơn ng ta
+668	1	1	Phần của ổng là Yaourt trái_cây thập_cẩm <price>
+669	1	1	Phần của chả rất nhiều loại trái_cây , gần như quán có bao_nhiêu trái_cây là nằm trong tô này hết
+670	1	1	Trên mặt thay_vì cho đậu_phộng hay dừa khô như một_số nơi thì ở đây rắc ngũ_cốc lên trên mặt
+671	1	0	Cho sữa_chua và đá để lạnh lạnh ăn mới ngon
+672	1	0	Nhìn của gấu hấp_dẫn quá , chọt qua ăn ké : P . Bên dưới còn có mít , dừa sợi , thơm , nhãn , sapô nữa chứ
+673	1	0	Biết vậy lúc đầu gọi phần này là phủ_phê rồi : D . Sữa_chua chỗ này pha hơi ngọt , mà ngọt vậy ăn với mấy loại trái_cây chua ngon đó chứ
+674	1	1	Một bữa ăn trái_cây sữa_chua dinh_dưỡng đẹp da ko sợ mập của 2 đứa tốn hết <price> chẵn
+675	1	0	Món ăn được chế_biến hợp_khẩu vị
+676	1	1	Các món ốc thì khoảng <price> - <price>
+677	1	1	Có cua , tôm , ốc_hương và một_số món khác là theo thời_giá
+678	1	0	Nước_chấm ok
+679	1	0	Tép mỡ ăn thấy mà đã luôn đó , Sò_huyết xào tỏi <price> , con sò to chứ ko phải bé xí xí đâu Sụn gà trứng non chiên nước_mắm cũng có tóp_mỡ
+680	5	0	Nhân_viên nhiệt_tình
+681	5	1	Nhưng nhiều khi lên món hơi lâu tí
+682	4	1	Địa_chỉ ngay số 25 1/5 1
+683	1	1	Giá dao_động tuỳ theo size lớn_nhỏ , <price> / cho một lẩu nhỏ , bao_gồm lun rau giá và bún
+684	3	0	Quán kem hoa_hồng này dạo gần đây hot quá_chừng nên mình cũng đi ăn thử
+685	1	0	Roseice được giới_thiệu là kem gelato của Ý được làm trực_tiếp tại cửa_hàng luôn , mỗi ngày bán gần 10 mùi_vị kem khác nhau cho các bạn lựa_chọn nha
+686	1	1	Cá mắt ngọc ướp sốt <price>
+687	1	1	Sườn heo ướp sốt cay <price>
+688	1	1	Má heo Mỹ <price>
+689	1	1	Mực ống to sốt cay <price>
+690	1	1	Đùi gà sốt BBQ thì quá cơ_bản rồi
+691	1	0	Mì_Ý nêm nếm khá vừa ăn
+692	1	2	Không_gian nhà_hàng : MENU : Mình gọi súp khoai_tây : Súp ăn cũng được , may loại súp này toàn phải 2 người an 1 dĩa chứ 1 nguoi thì khó_chịu nổi độ béo của nó lắm
+693	5	0	Nhân_viên rất là nhanh_nhẹn , ko phải chờ_đợi lâu
+694	1	0	Ngoài_ra rau cải xào ở đây cũng rất ngon nhé
+695	2	0	Trà vải ở đây ly khá to và đặc_biệt là cho rất nhiều vải , khoảng 4 5 trái vì đó
+696	2	0	Vị trà vừa không quá ngọt , hương_trà vẫn không bị hương vải quá lấn_át như nhiều chổ khác
