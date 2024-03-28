@@ -1,0 +1,431 @@
+{"text_reg": "phòng ngủ ấm_cúng", "text_bert": "phòng ngủ ấm_cúng", "text_uae": "phòng ngủ ấm_cúng", "label": "ROOMS"}
+{"text_reg": "vị_trí đẹp", "text_bert": "vị_trí đẹp", "text_uae": "vị_trí đẹp", "label": "LOCATION"}
+{"text_reg": "nó làm cho một ấn_tượng đặc_biệt về dịch_vụ nhà_hàng", "text_bert": "nó làm cho một ấn_tượng đặc_biệt về dịch_vụ nhà_hàng", "text_uae": "nó làm cho một ấn_tượng đặc_biệt về dịch_vụ nhà_hàng", "label": "HOTEL"}
+{"text_reg": "tầng 40 có quầy bar rất đẹp", "text_bert": "tầng 40 có quầy bar rất đẹp", "text_uae": "tầng 40 có quầy bar rất đẹp", "label": "FACILITIES"}
+{"text_reg": "đồ_ăn luôn nóng", "text_bert": "đồ_ăn luôn nóng", "text_uae": "đồ_ăn luôn nóng", "label": "FOOD&DRINKS"}
+{"text_reg": "chúng_tôi ở trong khách_sạn dreams cho 4 đêm", "text_bert": "chúng_tôi ở trong khách_sạn dreams cho 4 đêm", "text_uae": "chúng_tôi ở trong khách_sạn dreams cho 4 đêm", "label": "HOTEL"}
+{"text_reg": "tuy_nhiên hồ bơi không sạch và trong phòng có khá nhiều muỗi", "text_bert": "tuy_nhiên hồ bơi không sạch và trong phòng có khá nhiều muỗi", "text_uae": "tuy_nhiên hồ bơi không sạch và trong phòng có khá nhiều muỗi", "label": "ROOMS"}
+{"text_reg": "nhưng tiếc là tôi chưa vào sử_dụng dịch_vụ", "text_bert": "nhưng tiếc là tôi chưa vào sử_dụng dịch_vụ", "text_uae": "nhưng tiếc là tôi chưa vào sử_dụng dịch_vụ", "label": "SERVICE"}
+{"text_reg": "rộng r", "text_bert": "rộng r", "text_uae": "rộng r", "label": "HOTEL"}
+{"text_reg": "khách_sạn view đẹp", "text_bert": "khách_sạn view đẹp", "text_uae": "khách_sạn view đẹp", "label": "HOTEL"}
+{"text_reg": "vỉa_hè bị chặn và bạn nghe thấy tiếng búa và như_vậy bắt_đầu vào ngày nghỉ", "text_bert": "vỉa_hè bị chặn và bạn nghe thấy tiếng búa và như_vậy bắt_đầu vào ngày nghỉ", "text_uae": "vỉa_hè bị chặn và bạn nghe thấy tiếng búa và như_vậy bắt_đầu vào ngày nghỉ", "label": "LOCATION"}
+{"text_reg": "cung_cách phục_vụ chuyên_nghiệp", "text_bert": "cung_cách phục_vụ chuyên_nghiệp", "text_uae": "cung_cách phục_vụ chuyên_nghiệp", "label": "SERVICE"}
+{"text_reg": "đồ_ăn ở khách_sạn mắc và không ngon", "text_bert": "đồ_ăn ở khách_sạn mắc và không ngon", "text_uae": "đồ_ăn ở khách_sạn mắc và không ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "nhất_là bạn thành sales tư_vấn và hỗ_trợ mình nhiệt_tình", "text_bert": "nhất_là bạn thành sales tư_vấn và hỗ_trợ mình nhiệt_tình", "text_uae": "nhất_là bạn thành sales tư_vấn và hỗ_trợ mình nhiệt_tình", "label": "SERVICE"}
+{"text_reg": "đồ_ăn chay rất tuyệt", "text_bert": "đồ_ăn chay rất tuyệt", "text_uae": "đồ_ăn chay rất tuyệt", "label": "FOOD&DRINKS"}
+{"text_reg": "nhà_hàng hoa_sen ngay bên cạnh khách_sạn", "text_bert": "nhà_hàng hoa_sen ngay bên cạnh khách_sạn", "text_uae": "nhà_hàng hoa_sen ngay bên cạnh khách_sạn", "label": "LOCATION"}
+{"text_reg": "tiện_nghi sang_trọng", "text_bert": "tiện_nghi sang_trọng", "text_uae": "tiện_nghi sang_trọng", "label": "HOTEL"}
+{"text_reg": "tôi đã nghe những điều tuyệt_vời về khách_sạn này từ một nhóm du_lịch mà tôi là một phần của", "text_bert": "tôi đã nghe những điều tuyệt_vời về khách_sạn này từ một nhóm du_lịch mà tôi là một phần của", "text_uae": "tôi đã nghe những điều tuyệt_vời về khách_sạn này từ một nhóm du_lịch mà tôi là một phần của", "label": "HOTEL"}
+{"text_reg": "em danh tiếp_tân hướng_dẫn tận_tình", "text_bert": "em danh tiếp_tân hướng_dẫn tận_tình", "text_uae": "em danh tiếp_tân hướng_dẫn tận_tình", "label": "SERVICE"}
+{"text_reg": "cảm_ơn vinpearl_luxury_đà_nẵng", "text_bert": "cảm_ơn vinpearl_luxury_đà_nẵng", "text_uae": "cảm_ơn vinpearl_luxury_đà_nẵng", "label": "LOCATION"}
+{"text_reg": "khách_sạn rất đẹp", "text_bert": "khách_sạn rất đẹp", "text_uae": "khách_sạn rất đẹp", "label": "HOTEL"}
+{"text_reg": "tất_cả các nhân_viên đã cố_gắng hết_sức để làm cho chúng_tôi hạnh_phúc", "text_bert": "tất_cả các nhân_viên đã cố_gắng hết_sức để làm cho chúng_tôi hạnh_phúc", "text_uae": "tất_cả các nhân_viên đã cố_gắng hết_sức để làm cho chúng_tôi hạnh_phúc", "label": "SERVICE"}
+{"text_reg": "các bữa ăn tự chọn có xu_hướng lặp_đi_lặp_lại", "text_bert": "các bữa ăn tự chọn có xu_hướng lặp_đi_lặp_lại", "text_uae": "các bữa ăn tự chọn có xu_hướng lặp_đi_lặp_lại", "label": "FOOD&DRINKS"}
+{"text_reg": "đường truyền internet rất tốt và ổn_định", "text_bert": "đường truyền internet rất tốt và ổn_định", "text_uae": "đường truyền internet rất tốt và ổn_định", "label": "FACILITIES"}
+{"text_reg": "xe và nón_bảo_hiểm dơ không được vệ_sinh thường_xuyên", "text_bert": "xe và nón_bảo_hiểm dơ không được vệ_sinh thường_xuyên", "text_uae": "xe và nón_bảo_hiểm dơ không được vệ_sinh thường_xuyên", "label": "FACILITIES"}
+{"text_reg": "nhân_viên ân_cần", "text_bert": "nhân_viên ân_cần", "text_uae": "nhân_viên ân_cần", "label": "SERVICE"}
+{"text_reg": "nhà_hàng phục_vụ chu_đáo", "text_bert": "nhà_hàng phục_vụ chu_đáo", "text_uae": "nhà_hàng phục_vụ chu_đáo", "label": "SERVICE"}
+{"text_reg": "phòng của chúng_tôi là rất lớn và rất sạch_sẽ", "text_bert": "phòng của chúng_tôi là rất lớn và rất sạch_sẽ", "text_uae": "phòng của chúng_tôi là rất lớn và rất sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "ở độ cao 600m", "text_bert": "ở độ cao 600m", "text_uae": "ở độ cao 600m", "label": "HOTEL"}
+{"text_reg": "các tài_sản và phòng rất sạch_sẽ và bổ_nhiệm", "text_bert": "các tài_sản và phòng rất sạch_sẽ và bổ_nhiệm", "text_uae": "các tài_sản và phòng rất sạch_sẽ và bổ_nhiệm", "label": "ROOM_AMENITIES"}
+{"text_reg": "tôi đi du_lịch đà_nẵng và chọn khách_sạn này vì thấy gần trung_tâm", "text_bert": "tôi đi du_lịch đà_nẵng và chọn khách_sạn này vì thấy gần trung_tâm", "text_uae": "tôi đi du_lịch đà_nẵng và chọn khách_sạn này vì thấy gần trung_tâm", "label": "LOCATION"}
+{"text_reg": "cổng vào cũ_kĩ tồi_tàn", "text_bert": "cổng vào cũ_kĩ tồi_tàn", "text_uae": "cổng vào cũ_kĩ tồi_tàn", "label": "HOTEL"}
+{"text_reg": "phòng_ốc rộng_rãi", "text_bert": "phòng_ốc rộng_rãi", "text_uae": "phòng_ốc rộng_rãi", "label": "ROOMS"}
+{"text_reg": "đồ_ăn và đồ uống cũng như viên ở đây rất tuyệt_vời", "text_bert": "đồ_ăn và đồ uống cũng như viên ở đây rất tuyệt_vời", "text_uae": "đồ_ăn và đồ uống cũng như viên ở đây rất tuyệt_vời", "label": "FOOD&DRINKS"}
+{"text_reg": "tôi đã có một kỳ nghỉ tuyệt_vời tại khách_sạn life_wellnes quy nhơn", "text_bert": "tôi đã có một kỳ nghỉ tuyệt_vời tại khách_sạn life_wellnes quy nhơn", "text_uae": "tôi đã có một kỳ nghỉ tuyệt_vời tại khách_sạn life_wellnes quy nhơn", "label": "LOCATION"}
+{"text_reg": "không kín nên quá ồn về khuya", "text_bert": "không kín nên quá ồn về khuya", "text_uae": "không kín nên quá ồn về khuya", "label": "ROOMS"}
+{"text_reg": "kiến_trúc khá cũ", "text_bert": "kiến_trúc khá cũ", "text_uae": "kiến_trúc khá cũ", "label": "HOTEL"}
+{"text_reg": "bao_gồm trong giá phòng của bạn", "text_bert": "bao_gồm trong giá phòng của bạn", "text_uae": "bao_gồm trong giá phòng của bạn", "label": "ROOMS"}
+{"text_reg": "bữa sáng có bufet ở tầng 2", "text_bert": "bữa sáng có bufet ở tầng 2", "text_uae": "bữa sáng có bufet ở tầng 2", "label": "FOOD&DRINKS"}
+{"text_reg": "đặc_biệt nhân_viên không nhắc_nhở khách nói_chuyện ồn_ào", "text_bert": "đặc_biệt nhân_viên không nhắc_nhở khách nói_chuyện ồn_ào", "text_uae": "đặc_biệt nhân_viên không nhắc_nhở khách nói_chuyện ồn_ào", "label": "SERVICE"}
+{"text_reg": "bắt_buộc mua 1 phiếu ăn sáng cho bé dưới 6 tuổi", "text_bert": "bắt_buộc mua 1 phiếu ăn sáng cho bé dưới 6 tuổi", "text_uae": "bắt_buộc mua 1 phiếu ăn sáng cho bé dưới 6 tuổi", "label": "FOOD&DRINKS"}
+{"text_reg": "nhiều món tây ta có đủ", "text_bert": "nhiều món tây ta có đủ", "text_uae": "nhiều món tây ta có đủ", "label": "FOOD&DRINKS"}
+{"text_reg": "phòng ổn", "text_bert": "phòng ổn", "text_uae": "phòng ổn", "label": "ROOMS"}
+{"text_reg": "bữa tối của một đêm ở trên lầu nơi bạn có_thể nhìn ra thành_phố", "text_bert": "bữa tối của một đêm ở trên lầu nơi bạn có_thể nhìn ra thành_phố", "text_uae": "bữa tối của một đêm ở trên lầu nơi bạn có_thể nhìn ra thành_phố", "label": "FOOD&DRINKS"}
+{"text_reg": "nội_thất phòng đều còn mới sạch_sẽ", "text_bert": "nội_thất phòng đều còn mới sạch_sẽ", "text_uae": "nội_thất phòng đều còn mới sạch_sẽ", "label": "ROOM_AMENITIES"}
+{"text_reg": "chưa được sạch và đẹp", "text_bert": "chưa được sạch và đẹp", "text_uae": "chưa được sạch và đẹp", "label": "HOTEL"}
+{"text_reg": "khách_sạn cũng là một con hẻm yên_tĩnh", "text_bert": "khách_sạn cũng là một con hẻm yên_tĩnh", "text_uae": "khách_sạn cũng là một con hẻm yên_tĩnh", "label": "LOCATION"}
+{"text_reg": "bồn_tắm và vòi_hoa_sen", "text_bert": "bồn_tắm và vòi_hoa_sen", "text_uae": "bồn_tắm và vòi_hoa_sen", "label": "ROOM_AMENITIES"}
+{"text_reg": "nhất_định vào hồ_chí_mình mình sẽ quay lại nơi này để tận_hưởng và thư_giãn", "text_bert": "nhất_định vào hồ_chí_mình mình sẽ quay lại nơi này để tận_hưởng và thư_giãn", "text_uae": "nhất_định vào hồ_chí_mình mình sẽ quay lại nơi này để tận_hưởng và thư_giãn", "label": "LOCATION"}
+{"text_reg": "khách_sạn 3 sao nhưng chất_lượng 4 sao", "text_bert": "khách_sạn 3 sao nhưng chất_lượng 4 sao", "text_uae": "khách_sạn 3 sao nhưng chất_lượng 4 sao", "label": "HOTEL"}
+{"text_reg": "nếu quay lai nha_trang toi se chon khach san khác voi tieu chuan cao hon de co ky nghi chon ven", "text_bert": "nếu quay lai nha_trang toi se chon khach san khác voi tieu chuan cao hon de co ky nghi chon ven", "text_uae": "nếu quay lai nha_trang toi se chon khach san khác voi tieu chuan cao hon de co ky nghi chon ven", "label": "LOCATION"}
+{"text_reg": "mình vừa về từ chuyến du_lịch đà_nẵng", "text_bert": "mình vừa về từ chuyến du_lịch đà_nẵng", "text_uae": "mình vừa về từ chuyến du_lịch đà_nẵng", "label": "LOCATION"}
+{"text_reg": "sandy_beach_resort_đà nẵng cách xa trung_tâm đến 15km", "text_bert": "sandy_beach_resort_đà nẵng cách xa trung_tâm đến 15km", "text_uae": "sandy_beach_resort_đà nẵng cách xa trung_tâm đến 15km", "label": "LOCATION"}
+{"text_reg": "tôi đến đây với bạn tôi sau một ngày dài kinh_hoàng", "text_bert": "tôi đến đây với bạn tôi sau một ngày dài kinh_hoàng", "text_uae": "tôi đến đây với bạn tôi sau một ngày dài kinh_hoàng", "label": "HOTEL"}
+{"text_reg": "khách_sạn phục_vụ nhiệt_tình", "text_bert": "khách_sạn phục_vụ nhiệt_tình", "text_uae": "khách_sạn phục_vụ nhiệt_tình", "label": "SERVICE"}
+{"text_reg": "ăn được", "text_bert": "ăn được", "text_uae": "ăn được", "label": "FOOD&DRINKS"}
+{"text_reg": "chất_lượng khách_sạn khá là phù_hợp với giá tiền", "text_bert": "chất_lượng khách_sạn khá là phù_hợp với giá tiền", "text_uae": "chất_lượng khách_sạn khá là phù_hợp với giá tiền", "label": "HOTEL"}
+{"text_reg": "đặc_biệt em_phương", "text_bert": "đặc_biệt em_phương", "text_uae": "đặc_biệt em_phương", "label": "SERVICE"}
+{"text_reg": "tôi rất hài_lòng về famiana_village", "text_bert": "tôi rất hài_lòng về famiana_village", "text_uae": "tôi rất hài_lòng về famiana_village", "label": "HOTEL"}
+{"text_reg": "mình rất thích hương xả trong phòng và hương quất sữa tắm", "text_bert": "mình rất thích hương xả trong phòng và hương quất sữa tắm", "text_uae": "mình rất thích hương xả trong phòng và hương quất sữa tắm", "label": "ROOM_AMENITIES"}
+{"text_reg": "và khi tôi kiểm_tra họ không nhắc tôi và không trả lại tiền cho tôi", "text_bert": "và khi tôi kiểm_tra họ không nhắc tôi và không trả lại tiền cho tôi", "text_uae": "và khi tôi kiểm_tra họ không nhắc tôi và không trả lại tiền cho tôi", "label": "SERVICE"}
+{"text_reg": "ăn sáng là tốt và thay_đổi hàng ngày", "text_bert": "ăn sáng là tốt và thay_đổi hàng ngày", "text_uae": "ăn sáng là tốt và thay_đổi hàng ngày", "label": "FOOD&DRINKS"}
+{"text_reg": "đặc_biệt là các bạn lễ_tân", "text_bert": "đặc_biệt là các bạn lễ_tân", "text_uae": "đặc_biệt là các bạn lễ_tân", "label": "SERVICE"}
+{"text_reg": "địa_điểm tuyệt_vời nhưng phòng nhỏ", "text_bert": "địa_điểm tuyệt_vời nhưng phòng nhỏ", "text_uae": "địa_điểm tuyệt_vời nhưng phòng nhỏ", "label": "LOCATION"}
+{"text_reg": "chúng_tôi được chào_đón bởi một nhân_viên vô_cùng thân_thiện với một ly trà ngon và một chiếc khăn ướt để làm mới khuôn_mặt của chúng_tôi", "text_bert": "chúng_tôi được chào_đón bởi một nhân_viên vô_cùng thân_thiện với một ly trà ngon và một chiếc khăn ướt để làm mới khuôn_mặt của chúng_tôi", "text_uae": "chúng_tôi được chào_đón bởi một nhân_viên vô_cùng thân_thiện với một ly trà ngon và một chiếc khăn ướt để làm mới khuôn_mặt của chúng_tôi", "label": "SERVICE"}
+{"text_reg": "rất thích_hợp cho nghỉ_ngơi an_dưỡng", "text_bert": "rất thích_hợp cho nghỉ_ngơi an_dưỡng", "text_uae": "rất thích_hợp cho nghỉ_ngơi an_dưỡng", "label": "HOTEL"}
+{"text_reg": "nhưng cũng không quá xa trung_tâm", "text_bert": "nhưng cũng không quá xa trung_tâm", "text_uae": "nhưng cũng không quá xa trung_tâm", "label": "LOCATION"}
+{"text_reg": "ở hội_an còn rất rất nhiều sự lựa_chọn <price> mức giá", "text_bert": "ở hội_an còn rất rất nhiều sự lựa_chọn <price> mức giá", "text_uae": "ở hội_an còn rất rất nhiều sự lựa_chọn <price> mức giá", "label": "LOCATION"}
+{"text_reg": "các phòng đều rất lớn", "text_bert": "các phòng đều rất lớn", "text_uae": "các phòng đều rất lớn", "label": "ROOMS"}
+{"text_reg": "khách_sạn này có_vẻ như mới được xây_dựng", "text_bert": "khách_sạn này có_vẻ như mới được xây_dựng", "text_uae": "khách_sạn này có_vẻ như mới được xây_dựng", "label": "HOTEL"}
+{"text_reg": "thức_ăn trong nhà_hàng không ngon", "text_bert": "thức_ăn trong nhà_hàng không ngon", "text_uae": "thức_ăn trong nhà_hàng không ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "nhân_viên phục_vụ chưa được đào_tạo bài_bản", "text_bert": "nhân_viên phục_vụ chưa được đào_tạo bài_bản", "text_uae": "nhân_viên phục_vụ chưa được đào_tạo bài_bản", "label": "SERVICE"}
+{"text_reg": "phòng sạch_sẽ", "text_bert": "phòng sạch_sẽ", "text_uae": "phòng sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "phòng hơi nhỏ 1 chút nhưng đẹp", "text_bert": "phòng hơi nhỏ 1 chút nhưng đẹp", "text_uae": "phòng hơi nhỏ 1 chút nhưng đẹp", "label": "ROOMS"}
+{"text_reg": "nhân_viên thân_thiện", "text_bert": "nhân_viên thân_thiện", "text_uae": "nhân_viên thân_thiện", "label": "SERVICE"}
+{"text_reg": "vui_vẻ và chào_hỏi khách thường_xuyên", "text_bert": "vui_vẻ và chào_hỏi khách thường_xuyên", "text_uae": "vui_vẻ và chào_hỏi khách thường_xuyên", "label": "SERVICE"}
+{"text_reg": "chúng_tôi chắc_chắn sẽ quay lại lần sau khi ở hà_nội", "text_bert": "chúng_tôi chắc_chắn sẽ quay lại lần sau khi ở hà_nội", "text_uae": "chúng_tôi chắc_chắn sẽ quay lại lần sau khi ở hà_nội", "label": "LOCATION"}
+{"text_reg": "há cảo tôm thịt", "text_bert": "há cảo tôm thịt", "text_uae": "há cảo tôm thịt", "label": "FOOD&DRINKS"}
+{"text_reg": "ăn sáng ít món", "text_bert": "ăn sáng ít món", "text_uae": "ăn sáng ít món", "label": "FOOD&DRINKS"}
+{"text_reg": "có view nhìn ra công_viên rất đẹp", "text_bert": "có view nhìn ra công_viên rất đẹp", "text_uae": "có view nhìn ra công_viên rất đẹp", "label": "HOTEL"}
+{"text_reg": "chưa kể đến decor ở trước khách_sạn này hết_sức dễ_thương", "text_bert": "chưa kể đến decor ở trước khách_sạn này hết_sức dễ_thương", "text_uae": "chưa kể đến decor ở trước khách_sạn này hết_sức dễ_thương", "label": "HOTEL"}
+{"text_reg": "chúng_tôi rất hoan_nghênh và luôn muốn giúp_đỡ", "text_bert": "chúng_tôi rất hoan_nghênh và luôn muốn giúp_đỡ", "text_uae": "chúng_tôi rất hoan_nghênh và luôn muốn giúp_đỡ", "label": "SERVICE"}
+{"text_reg": "thêm điểm cộng nữa là nhân_viên hết_sức thân_thiện", "text_bert": "thêm điểm cộng nữa là nhân_viên hết_sức thân_thiện", "text_uae": "thêm điểm cộng nữa là nhân_viên hết_sức thân_thiện", "label": "SERVICE"}
+{"text_reg": "họ quản_lý để sắp_xếp cho chúng_tôi một chuyến đi bộ miễn_phí với một_số sinh_viên địa_phương rất thú_vị và vui_vẻ", "text_bert": "họ quản_lý để sắp_xếp cho chúng_tôi một chuyến đi bộ miễn_phí với một_số sinh_viên địa_phương rất thú_vị và vui_vẻ", "text_uae": "họ quản_lý để sắp_xếp cho chúng_tôi một chuyến đi bộ miễn_phí với một_số sinh_viên địa_phương rất thú_vị và vui_vẻ", "label": "SERVICE"}
+{"text_reg": "thay khăn nếu khách có yêu_cầu", "text_bert": "thay khăn nếu khách có yêu_cầu", "text_uae": "thay khăn nếu khách có yêu_cầu", "label": "ROOM_AMENITIES"}
+{"text_reg": "có nhiều cây_xanh tạo cảm_giác rất thoải_mái", "text_bert": "có nhiều cây_xanh tạo cảm_giác rất thoải_mái", "text_uae": "có nhiều cây_xanh tạo cảm_giác rất thoải_mái", "label": "ROOM_AMENITIES"}
+{"text_reg": "lịch_sự và hữu_ích", "text_bert": "lịch_sự và hữu_ích", "text_uae": "lịch_sự và hữu_ích", "label": "HOTEL"}
+{"text_reg": "khách_sạn theo tiêu_chuẩn 4 sao", "text_bert": "khách_sạn theo tiêu_chuẩn 4 sao", "text_uae": "khách_sạn theo tiêu_chuẩn 4 sao", "label": "HOTEL"}
+{"text_reg": "phòng_ốc sạch_sẽ", "text_bert": "phòng_ốc sạch_sẽ", "text_uae": "phòng_ốc sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "nếu nó yên_tĩnh hơn", "text_bert": "nếu nó yên_tĩnh hơn", "text_uae": "nếu nó yên_tĩnh hơn", "label": "HOTEL"}
+{"text_reg": "nên xem_xét phòng cách_âm", "text_bert": "nên xem_xét phòng cách_âm", "text_uae": "nên xem_xét phòng cách_âm", "label": "ROOMS"}
+{"text_reg": "giường nhỏ", "text_bert": "giường nhỏ", "text_uae": "giường nhỏ", "label": "ROOM_AMENITIES"}
+{"text_reg": "kiến_trúc lạ_mắt", "text_bert": "kiến_trúc lạ_mắt", "text_uae": "kiến_trúc lạ_mắt", "label": "HOTEL"}
+{"text_reg": "khách_sạn đi qua đường là tới biển nên rất tiện", "text_bert": "khách_sạn đi qua đường là tới biển nên rất tiện", "text_uae": "khách_sạn đi qua đường là tới biển nên rất tiện", "label": "LOCATION"}
+{"text_reg": "và hầu_như không_thể chấp_nhận được", "text_bert": "và hầu_như không_thể chấp_nhận được", "text_uae": "và hầu_như không_thể chấp_nhận được", "label": "HOTEL"}
+{"text_reg": "hồ bơi cho người lớn", "text_bert": "hồ bơi cho người lớn", "text_uae": "hồ bơi cho người lớn", "label": "FACILITIES"}
+{"text_reg": "phòng ở tương_đối đẹp", "text_bert": "phòng ở tương_đối đẹp", "text_uae": "phòng ở tương_đối đẹp", "label": "ROOMS"}
+{"text_reg": "sau khi ăn tối nên đi dạo một vòng hồ bơi", "text_bert": "sau khi ăn tối nên đi dạo một vòng hồ bơi", "text_uae": "sau khi ăn tối nên đi dạo một vòng hồ bơi", "label": "FACILITIES"}
+{"text_reg": "món ăn được thay đồi mỗi ngày", "text_bert": "món ăn được thay đồi mỗi ngày", "text_uae": "món ăn được thay đồi mỗi ngày", "label": "FOOD&DRINKS"}
+{"text_reg": "tuy thời_tiết có mưa nhỏ nhưng bana vẩn rất đẹp cả ngày và về đêm", "text_bert": "tuy thời_tiết có mưa nhỏ nhưng bana vẩn rất đẹp cả ngày và về đêm", "text_uae": "tuy thời_tiết có mưa nhỏ nhưng bana vẩn rất đẹp cả ngày và về đêm", "label": "HOTEL"}
+{"text_reg": "tôi thường thong_thả ngắm biển từ quầy bar trên cao", "text_bert": "tôi thường thong_thả ngắm biển từ quầy bar trên cao", "text_uae": "tôi thường thong_thả ngắm biển từ quầy bar trên cao", "label": "FACILITIES"}
+{"text_reg": "tôi cảm_thấy hài_lòng và sẽ quay lại vào các dịp khác khi có cơ_hội", "text_bert": "tôi cảm_thấy hài_lòng và sẽ quay lại vào các dịp khác khi có cơ_hội", "text_uae": "tôi cảm_thấy hài_lòng và sẽ quay lại vào các dịp khác khi có cơ_hội", "label": "HOTEL"}
+{"text_reg": "nhân_viên thân_thiện", "text_bert": "nhân_viên thân_thiện", "text_uae": "nhân_viên thân_thiện", "label": "SERVICE"}
+{"text_reg": "nên đi vào mùa hè nếu muốn sử_dụng hồ bơi ngoài trời", "text_bert": "nên đi vào mùa hè nếu muốn sử_dụng hồ bơi ngoài trời", "text_uae": "nên đi vào mùa hè nếu muốn sử_dụng hồ bơi ngoài trời", "label": "FACILITIES"}
+{"text_reg": "đồ_ăn sáng ngon", "text_bert": "đồ_ăn sáng ngon", "text_uae": "đồ_ăn sáng ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "phải di chuyển bằng xe điện", "text_bert": "phải di chuyển bằng xe điện", "text_uae": "phải di chuyển bằng xe điện", "label": "LOCATION"}
+{"text_reg": "các phòng luôn thoải_mái và luôn được trình_bày tốt khi bạn mới đến và khi bạn trở về sau một ngày", "text_bert": "các phòng luôn thoải_mái và luôn được trình_bày tốt khi bạn mới đến và khi bạn trở về sau một ngày", "text_uae": "các phòng luôn thoải_mái và luôn được trình_bày tốt khi bạn mới đến và khi bạn trở về sau một ngày", "label": "ROOMS"}
+{"text_reg": "phòng sạch đẹp", "text_bert": "phòng sạch đẹp", "text_uae": "phòng sạch đẹp", "label": "ROOMS"}
+{"text_reg": "mọi dịch_vụ đều rất chu_đáo", "text_bert": "mọi dịch_vụ đều rất chu_đáo", "text_uae": "mọi dịch_vụ đều rất chu_đáo", "label": "SERVICE"}
+{"text_reg": "sẽ quay lại khách sạn nếu có cơ hội", "text_bert": "sẽ quay lại khách sạn nếu có cơ hội", "text_uae": "sẽ quay lại khách sạn nếu có cơ hội", "label": "HOTEL"}
+{"text_reg": "có_thể nhìn hết quang_cảnh thành_phố", "text_bert": "có_thể nhìn hết quang_cảnh thành_phố", "text_uae": "có_thể nhìn hết quang_cảnh thành_phố", "label": "LOCATION"}
+{"text_reg": "có nhạc_nhẹ rất dễ_chịu", "text_bert": "có nhạc_nhẹ rất dễ_chịu", "text_uae": "có nhạc_nhẹ rất dễ_chịu", "label": "HOTEL"}
+{"text_reg": "đều không có", "text_bert": "đều không có", "text_uae": "đều không có", "label": "HOTEL"}
+{"text_reg": "khách_sạn này có nhiều ý_kiến trái chiều nhưng chúng_tôi không có vấn_đề gì", "text_bert": "khách_sạn này có nhiều ý_kiến trái chiều nhưng chúng_tôi không có vấn_đề gì", "text_uae": "khách_sạn này có nhiều ý_kiến trái chiều nhưng chúng_tôi không có vấn_đề gì", "label": "HOTEL"}
+{"text_reg": "tôi gọi điện cho lễ_tân báo sau khi nhân_viên dọn phòng xong thì phòng chỉ còn 1 cái khăn tắm", "text_bert": "tôi gọi điện cho lễ_tân báo sau khi nhân_viên dọn phòng xong thì phòng chỉ còn 1 cái khăn tắm", "text_uae": "tôi gọi điện cho lễ_tân báo sau khi nhân_viên dọn phòng xong thì phòng chỉ còn 1 cái khăn tắm", "label": "SERVICE"}
+{"text_reg": "địa_điểm thuận_tiện", "text_bert": "địa_điểm thuận_tiện", "text_uae": "địa_điểm thuận_tiện", "label": "LOCATION"}
+{"text_reg": "thay_đổi nhưng một lần nữa khá đầy_đủ với nhân_viên chu_đáo đáng yêu", "text_bert": "thay_đổi nhưng một lần nữa khá đầy_đủ với nhân_viên chu_đáo đáng yêu", "text_uae": "thay_đổi nhưng một lần nữa khá đầy_đủ với nhân_viên chu_đáo đáng yêu", "label": "SERVICE"}
+{"text_reg": "rất thuận_tiện cho việc đi_lại và vui_chơi nên chúng_tôi rất hài_lòng", "text_bert": "rất thuận_tiện cho việc đi_lại và vui_chơi nên chúng_tôi rất hài_lòng", "text_uae": "rất thuận_tiện cho việc đi_lại và vui_chơi nên chúng_tôi rất hài_lòng", "label": "LOCATION"}
+{"text_reg": "thoáng mát", "text_bert": "thoáng mát", "text_uae": "thoáng mát", "label": "HOTEL"}
+{"text_reg": "các phòng được thoải_mái và giường đôi đẹp và lớn", "text_bert": "các phòng được thoải_mái và giường đôi đẹp và lớn", "text_uae": "các phòng được thoải_mái và giường đôi đẹp và lớn", "label": "ROOMS"}
+{"text_reg": "giường cứng", "text_bert": "giường cứng", "text_uae": "giường cứng", "label": "ROOM_AMENITIES"}
+{"text_reg": "tuy hành_lang hơi đáng sợ nhưng rất thú_vị", "text_bert": "tuy hành_lang hơi đáng sợ nhưng rất thú_vị", "text_uae": "tuy hành_lang hơi đáng sợ nhưng rất thú_vị", "label": "FACILITIES"}
+{"text_reg": "phòng sạch_sẽ bởi được vệ_sinh mỗi ngày", "text_bert": "phòng sạch_sẽ bởi được vệ_sinh mỗi ngày", "text_uae": "phòng sạch_sẽ bởi được vệ_sinh mỗi ngày", "label": "ROOMS"}
+{"text_reg": "cảm_nhận của tôi là khách_sạn có tiện_nghi đầy_đủ", "text_bert": "cảm_nhận của tôi là khách_sạn có tiện_nghi đầy_đủ", "text_uae": "cảm_nhận của tôi là khách_sạn có tiện_nghi đầy_đủ", "label": "HOTEL"}
+{"text_reg": "phòng hơi bé", "text_bert": "phòng hơi bé", "text_uae": "phòng hơi bé", "label": "ROOMS"}
+{"text_reg": "biển xanh", "text_bert": "biển xanh", "text_uae": "biển xanh", "label": "LOCATION"}
+{"text_reg": "chúng_tôi được cho một phòng ở cấp_độ thấp hơn", "text_bert": "chúng_tôi được cho một phòng ở cấp_độ thấp hơn", "text_uae": "chúng_tôi được cho một phòng ở cấp_độ thấp hơn", "label": "ROOMS"}
+{"text_reg": "nội_thất trong phòng tông trắng đỏ sang_trọng cảm_giác rất ấm_áp và gần_gũi", "text_bert": "nội_thất trong phòng tông trắng đỏ sang_trọng cảm_giác rất ấm_áp và gần_gũi", "text_uae": "nội_thất trong phòng tông trắng đỏ sang_trọng cảm_giác rất ấm_áp và gần_gũi", "label": "ROOM_AMENITIES"}
+{"text_reg": "phòng standard không có cửa_sổ và hơi nhỏ nên chỉ thích_hợp cho ai cần chỗ ngủ qua đêm", "text_bert": "phòng standard không có cửa_sổ và hơi nhỏ nên chỉ thích_hợp cho ai cần chỗ ngủ qua đêm", "text_uae": "phòng standard không có cửa_sổ và hơi nhỏ nên chỉ thích_hợp cho ai cần chỗ ngủ qua đêm", "label": "ROOMS"}
+{"text_reg": "dọn phòng_không được sạch_sẽ", "text_bert": "dọn phòng_không được sạch_sẽ", "text_uae": "dọn phòng_không được sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "khách_sạn imperial_huế có phòng_ốc kiểu cổ", "text_bert": "khách_sạn imperial_huế có phòng_ốc kiểu cổ", "text_uae": "khách_sạn imperial_huế có phòng_ốc kiểu cổ", "label": "LOCATION"}
+{"text_reg": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "text_bert": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "text_uae": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "label": "HOTEL"}
+{"text_reg": "vậy nên chúng_tôi đã không ngần_ngại chọn khách_sạn để tổ_chức sự_kiện ra_mắt sản_phẩm game cho khách_hàng vào đầu tháng 9 vừa_rồi", "text_bert": "vậy nên chúng_tôi đã không ngần_ngại chọn khách_sạn để tổ_chức sự_kiện ra_mắt sản_phẩm game cho khách_hàng vào đầu tháng 9 vừa_rồi", "text_uae": "vậy nên chúng_tôi đã không ngần_ngại chọn khách_sạn để tổ_chức sự_kiện ra_mắt sản_phẩm game cho khách_hàng vào đầu tháng 9 vừa_rồi", "label": "HOTEL"}
+{"text_reg": "phòng tắm thì chỉ có bồn_tắm mà không có khu tắm vòi_sen riêng có kính chắn như các resort cùng tiêu_chuẩn khác", "text_bert": "phòng tắm thì chỉ có bồn_tắm mà không có khu tắm vòi_sen riêng có kính chắn như các resort cùng tiêu_chuẩn khác", "text_uae": "phòng tắm thì chỉ có bồn_tắm mà không có khu tắm vòi_sen riêng có kính chắn như các resort cùng tiêu_chuẩn khác", "label": "ROOM_AMENITIES"}
+{"text_reg": "địa_điểm là tuyệt_vời", "text_bert": "địa_điểm là tuyệt_vời", "text_uae": "địa_điểm là tuyệt_vời", "label": "LOCATION"}
+{"text_reg": "chúng_tôi đã ở một phòng nhỏ ấm_cúng", "text_bert": "chúng_tôi đã ở một phòng nhỏ ấm_cúng", "text_uae": "chúng_tôi đã ở một phòng nhỏ ấm_cúng", "label": "ROOMS"}
+{"text_reg": "í vị_trí khá là gần", "text_bert": "í vị_trí khá là gần", "text_uae": "í vị_trí khá là gần", "label": "LOCATION"}
+{"text_reg": "tôi rất hài_lòng", "text_bert": "tôi rất hài_lòng", "text_uae": "tôi rất hài_lòng", "label": "HOTEL"}
+{"text_reg": "các bạn nhân_viên điều đeo khẩu_trang để bảo_vệ mình và bảo_vệ khách nên tôi khá yên_tâm", "text_bert": "các bạn nhân_viên điều đeo khẩu_trang để bảo_vệ mình và bảo_vệ khách nên tôi khá yên_tâm", "text_uae": "các bạn nhân_viên điều đeo khẩu_trang để bảo_vệ mình và bảo_vệ khách nên tôi khá yên_tâm", "label": "SERVICE"}
+{"text_reg": "mọi người nên thử", "text_bert": "mọi người nên thử", "text_uae": "mọi người nên thử", "label": "HOTEL"}
+{"text_reg": "nhiều hồ bơi khách_sạn sang_trọng", "text_bert": "nhiều hồ bơi khách_sạn sang_trọng", "text_uae": "nhiều hồ bơi khách_sạn sang_trọng", "label": "FACILITIES"}
+{"text_reg": "nếu có cơ_hội tôi sẽ quay trở_lại cùng với bạn_bè", "text_bert": "nếu có cơ_hội tôi sẽ quay trở_lại cùng với bạn_bè", "text_uae": "nếu có cơ_hội tôi sẽ quay trở_lại cùng với bạn_bè", "label": "HOTEL"}
+{"text_reg": "phòng đẹp", "text_bert": "phòng đẹp", "text_uae": "phòng đẹp", "label": "ROOMS"}
+{"text_reg": "bữa ăn sáng ngon", "text_bert": "bữa ăn sáng ngon", "text_uae": "bữa ăn sáng ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "có_lẽ khách_sạn mới", "text_bert": "có_lẽ khách_sạn mới", "text_uae": "có_lẽ khách_sạn mới", "label": "HOTEL"}
+{"text_reg": "khách_sạn sun_city_nha_trang đẹp", "text_bert": "khách_sạn sun_city_nha_trang đẹp", "text_uae": "khách_sạn sun_city_nha_trang đẹp", "label": "LOCATION"}
+{"text_reg": "nhân_viên thân_thiện", "text_bert": "nhân_viên thân_thiện", "text_uae": "nhân_viên thân_thiện", "label": "SERVICE"}
+{"text_reg": "gia_đình tôi ở rất thoải_mái", "text_bert": "gia_đình tôi ở rất thoải_mái", "text_uae": "gia_đình tôi ở rất thoải_mái", "label": "HOTEL"}
+{"text_reg": "phòng rooftop mặc_dù phải đi bộ 1 tầng nhưng ban_công và view thành_phố rất tuyệt", "text_bert": "phòng rooftop mặc_dù phải đi bộ 1 tầng nhưng ban_công và view thành_phố rất tuyệt", "text_uae": "phòng rooftop mặc_dù phải đi bộ 1 tầng nhưng ban_công và view thành_phố rất tuyệt", "label": "ROOMS"}
+{"text_reg": "một tuần_trăng_mật lãng_mạn và tràn_đầy hạnh_phúc khi ở đây", "text_bert": "một tuần_trăng_mật lãng_mạn và tràn_đầy hạnh_phúc khi ở đây", "text_uae": "một tuần_trăng_mật lãng_mạn và tràn_đầy hạnh_phúc khi ở đây", "label": "HOTEL"}
+{"text_reg": "ánh_sáng được thiết_kế đẹp_mắt", "text_bert": "ánh_sáng được thiết_kế đẹp_mắt", "text_uae": "ánh_sáng được thiết_kế đẹp_mắt", "label": "FACILITIES"}
+{"text_reg": "đồ_ăn sáng rất ngon", "text_bert": "đồ_ăn sáng rất ngon", "text_uae": "đồ_ăn sáng rất ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "view ra biển mỹ khê rất tuyệt_vời", "text_bert": "view ra biển mỹ khê rất tuyệt_vời", "text_uae": "view ra biển mỹ khê rất tuyệt_vời", "label": "LOCATION"}
+{"text_reg": "vị_trí tốt", "text_bert": "vị_trí tốt", "text_uae": "vị_trí tốt", "label": "LOCATION"}
+{"text_reg": "phòng của tôi thiết_kế theo phong_cách biển rất đẹp và có hướng nhìn thẳng ra toàn_cảnh biển mỹ khê", "text_bert": "phòng của tôi thiết_kế theo phong_cách biển rất đẹp và có hướng nhìn thẳng ra toàn_cảnh biển mỹ khê", "text_uae": "phòng của tôi thiết_kế theo phong_cách biển rất đẹp và có hướng nhìn thẳng ra toàn_cảnh biển mỹ khê", "label": "ROOMS"}
+{"text_reg": "ăn sáng là xấu", "text_bert": "ăn sáng là xấu", "text_uae": "ăn sáng là xấu", "label": "FOOD&DRINKS"}
+{"text_reg": "có nhiều loại thực_phẩm cho chúng_ta lựa_chọn", "text_bert": "có nhiều loại thực_phẩm cho chúng_ta lựa_chọn", "text_uae": "có nhiều loại thực_phẩm cho chúng_ta lựa_chọn", "label": "FOOD&DRINKS"}
+{"text_reg": "alex rất tốt_bụng", "text_bert": "alex rất tốt_bụng", "text_uae": "alex rất tốt_bụng", "label": "SERVICE"}
+{"text_reg": "khách_sạn tốt", "text_bert": "khách_sạn tốt", "text_uae": "khách_sạn tốt", "label": "HOTEL"}
+{"text_reg": "quản_lý và nhân_viên chu_đáo", "text_bert": "quản_lý và nhân_viên chu_đáo", "text_uae": "quản_lý và nhân_viên chu_đáo", "label": "SERVICE"}
+{"text_reg": "đồ_ăn phong_phú", "text_bert": "đồ_ăn phong_phú", "text_uae": "đồ_ăn phong_phú", "label": "FOOD&DRINKS"}
+{"text_reg": "thêm món ăn nhật_bản", "text_bert": "thêm món ăn nhật_bản", "text_uae": "thêm món ăn nhật_bản", "label": "FOOD&DRINKS"}
+{"text_reg": "và nhận_định chung là rất thất_vọng sau hai lần trước đầy hài_lòng", "text_bert": "và nhận_định chung là rất thất_vọng sau hai lần trước đầy hài_lòng", "text_uae": "và nhận_định chung là rất thất_vọng sau hai lần trước đầy hài_lòng", "label": "HOTEL"}
+{"text_reg": "nhân_viên niềm_nở", "text_bert": "nhân_viên niềm_nở", "text_uae": "nhân_viên niềm_nở", "label": "SERVICE"}
+{"text_reg": "phòng kiểu_dáng hiện_đại và tất_cả đồ_đạc mới", "text_bert": "phòng kiểu_dáng hiện_đại và tất_cả đồ_đạc mới", "text_uae": "phòng kiểu_dáng hiện_đại và tất_cả đồ_đạc mới", "label": "ROOMS"}
+{"text_reg": "và bạn nhân_viên tên đức đã hỗ_trợ gia_đình tôi rất nhiều để có một cái tết ngoài bắc", "text_bert": "và bạn nhân_viên tên đức đã hỗ_trợ gia_đình tôi rất nhiều để có một cái tết ngoài bắc", "text_uae": "và bạn nhân_viên tên đức đã hỗ_trợ gia_đình tôi rất nhiều để có một cái tết ngoài bắc", "label": "SERVICE"}
+{"text_reg": "phòng sạch_sẽ", "text_bert": "phòng sạch_sẽ", "text_uae": "phòng sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "gần khách_sạn có bãi biển dài và đẹp", "text_bert": "gần khách_sạn có bãi biển dài và đẹp", "text_uae": "gần khách_sạn có bãi biển dài và đẹp", "label": "LOCATION"}
+{"text_reg": "mình có đi spa ở đây thì trải_nghiệm oke lắm", "text_bert": "mình có đi spa ở đây thì trải_nghiệm oke lắm", "text_uae": "mình có đi spa ở đây thì trải_nghiệm oke lắm", "label": "FACILITIES"}
+{"text_reg": "điểm trừ là thoát nước buồng tắm hơi kém", "text_bert": "điểm trừ là thoát nước buồng tắm hơi kém", "text_uae": "điểm trừ là thoát nước buồng tắm hơi kém", "label": "ROOM_AMENITIES"}
+{"text_reg": "cảm_ơn đến các bạn nhân_viên và cả cô phục_vụ nhỏ tên lành", "text_bert": "cảm_ơn đến các bạn nhân_viên và cả cô phục_vụ nhỏ tên lành", "text_uae": "cảm_ơn đến các bạn nhân_viên và cả cô phục_vụ nhỏ tên lành", "label": "SERVICE"}
+{"text_reg": "bể_bơi xinh_xắn", "text_bert": "bể_bơi xinh_xắn", "text_uae": "bể_bơi xinh_xắn", "label": "FACILITIES"}
+{"text_reg": "chúng_tôi dự_định ở lại khách_sạn này chỉ một đêm", "text_bert": "chúng_tôi dự_định ở lại khách_sạn này chỉ một đêm", "text_uae": "chúng_tôi dự_định ở lại khách_sạn này chỉ một đêm", "label": "HOTEL"}
+{"text_reg": "đây là điều mà ít khách_sạn làm dc", "text_bert": "đây là điều mà ít khách_sạn làm dc", "text_uae": "đây là điều mà ít khách_sạn làm dc", "label": "HOTEL"}
+{"text_reg": "các món ăn là ngon", "text_bert": "các món ăn là ngon", "text_uae": "các món ăn là ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "phòng sạch_sẽ với một cái nhìn tốt", "text_bert": "phòng sạch_sẽ với một cái nhìn tốt", "text_uae": "phòng sạch_sẽ với một cái nhìn tốt", "label": "ROOMS"}
+{"text_reg": "không có điểm nào không hài_lòng", "text_bert": "không có điểm nào không hài_lòng", "text_uae": "không có điểm nào không hài_lòng", "label": "HOTEL"}
+{"text_reg": "nếu đánh_giá khách_sạn 4 sao thì chưa xứng tầm", "text_bert": "nếu đánh_giá khách_sạn 4 sao thì chưa xứng tầm", "text_uae": "nếu đánh_giá khách_sạn 4 sao thì chưa xứng tầm", "label": "HOTEL"}
+{"text_reg": "nhưng nhân_viên cho biết họ không có sẵn bất_cứ lúc_nào", "text_bert": "nhưng nhân_viên cho biết họ không có sẵn bất_cứ lúc_nào", "text_uae": "nhưng nhân_viên cho biết họ không có sẵn bất_cứ lúc_nào", "label": "SERVICE"}
+{"text_reg": "mọi thứ với chúng_tôi tốt", "text_bert": "mọi thứ với chúng_tôi tốt", "text_uae": "mọi thứ với chúng_tôi tốt", "label": "HOTEL"}
+{"text_reg": "gia_đình chúng_tôi đã có thời_gian lưu_trú tại đây rất tốt_đẹp", "text_bert": "gia_đình chúng_tôi đã có thời_gian lưu_trú tại đây rất tốt_đẹp", "text_uae": "gia_đình chúng_tôi đã có thời_gian lưu_trú tại đây rất tốt_đẹp", "label": "HOTEL"}
+{"text_reg": "khách_sạn nằm ngay trên bãi_cháy nhưng hơi xa vịnh hạ_long", "text_bert": "khách_sạn nằm ngay trên bãi_cháy nhưng hơi xa vịnh hạ_long", "text_uae": "khách_sạn nằm ngay trên bãi_cháy nhưng hơi xa vịnh hạ_long", "label": "LOCATION"}
+{"text_reg": "hơn_nữa giá_cả lại phải_chăng", "text_bert": "hơn_nữa giá_cả lại phải_chăng", "text_uae": "hơn_nữa giá_cả lại phải_chăng", "label": "HOTEL"}
+{"text_reg": "nhà_tắm thì sạch_sẽ để cho bạn cảm_nhận được từng dòng nước nóng_chảy trên cơ_thể của mình", "text_bert": "nhà_tắm thì sạch_sẽ để cho bạn cảm_nhận được từng dòng nước nóng_chảy trên cơ_thể của mình", "text_uae": "nhà_tắm thì sạch_sẽ để cho bạn cảm_nhận được từng dòng nước nóng_chảy trên cơ_thể của mình", "label": "ROOM_AMENITIES"}
+{"text_reg": "phòng đầy_đủ tiện_nghi", "text_bert": "phòng đầy_đủ tiện_nghi", "text_uae": "phòng đầy_đủ tiện_nghi", "label": "ROOMS"}
+{"text_reg": "khách sạn green field gia_đình đã lưu_trú nói_chung là tốt", "text_bert": "khách sạn green field gia_đình đã lưu_trú nói_chung là tốt", "text_uae": "khách sạn green field gia_đình đã lưu_trú nói_chung là tốt", "label": "HOTEL"}
+{"text_reg": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "text_bert": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "text_uae": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "label": "ROOMS"}
+{"text_reg": "các nhân_viên cũng quá đẹp", "text_bert": "các nhân_viên cũng quá đẹp", "text_uae": "các nhân_viên cũng quá đẹp", "label": "SERVICE"}
+{"text_reg": "i like it sunland hotel phục_vụ cho tây nên rất tốt nha", "text_bert": "i like it sunland hotel phục_vụ cho tây nên rất tốt nha", "text_uae": "i like it sunland hotel phục_vụ cho tây nên rất tốt nha", "label": "HOTEL"}
+{"text_reg": "khách_sạn còn có hồ bơi tầng thượng view biển cứ như trên mây vậy", "text_bert": "khách_sạn còn có hồ bơi tầng thượng view biển cứ như trên mây vậy", "text_uae": "khách_sạn còn có hồ bơi tầng thượng view biển cứ như trên mây vậy", "label": "FACILITIES"}
+{"text_reg": "chỉ cần 1 phút đi bộ", "text_bert": "chỉ cần 1 phút đi bộ", "text_uae": "chỉ cần 1 phút đi bộ", "label": "LOCATION"}
+{"text_reg": "mình và gia_đình đã có 1 trải_nghiệm tuyệt_vời tại khách_sạn", "text_bert": "mình và gia_đình đã có 1 trải_nghiệm tuyệt_vời tại khách_sạn", "text_uae": "mình và gia_đình đã có 1 trải_nghiệm tuyệt_vời tại khách_sạn", "label": "HOTEL"}
+{"text_reg": "khách_sạn nằm ở một vị_trí lý_tưởng để khám_phá thành_phố và có một lịch_sử thú_vị với các liên_kết đến các nhà_văn và nhà_báo", "text_bert": "khách_sạn nằm ở một vị_trí lý_tưởng để khám_phá thành_phố và có một lịch_sử thú_vị với các liên_kết đến các nhà_văn và nhà_báo", "text_uae": "khách_sạn nằm ở một vị_trí lý_tưởng để khám_phá thành_phố và có một lịch_sử thú_vị với các liên_kết đến các nhà_văn và nhà_báo", "label": "LOCATION"}
+{"text_reg": "phòng vị_trí cao_đẹp sạch_sẽ có_thể nhìn ra biển", "text_bert": "phòng vị_trí cao_đẹp sạch_sẽ có_thể nhìn ra biển", "text_uae": "phòng vị_trí cao_đẹp sạch_sẽ có_thể nhìn ra biển", "label": "ROOMS"}
+{"text_reg": "resort đẹp", "text_bert": "resort đẹp", "text_uae": "resort đẹp", "label": "HOTEL"}
+{"text_reg": "tôn_trọng khách_hàng", "text_bert": "tôn_trọng khách_hàng", "text_uae": "tôn_trọng khách_hàng", "label": "SERVICE"}
+{"text_reg": "nơi đây thoáng mát", "text_bert": "nơi đây thoáng mát", "text_uae": "nơi đây thoáng mát", "label": "LOCATION"}
+{"text_reg": "khách_sạn mường_thanh đà_nẵng cũng vắng khách nhưng dịch_vụ cũng khá ổn hơn mình nghĩ", "text_bert": "khách_sạn mường_thanh đà_nẵng cũng vắng khách nhưng dịch_vụ cũng khá ổn hơn mình nghĩ", "text_uae": "khách_sạn mường_thanh đà_nẵng cũng vắng khách nhưng dịch_vụ cũng khá ổn hơn mình nghĩ", "label": "LOCATION"}
+{"text_reg": "các nhân_viên nữ", "text_bert": "các nhân_viên nữ", "text_uae": "các nhân_viên nữ", "label": "SERVICE"}
+{"text_reg": "khu nghỉ_dưỡng nằm hơi xa mũi_né vì_vậy chúng_tôi đã đến đó bằng taxi", "text_bert": "khu nghỉ_dưỡng nằm hơi xa mũi_né vì_vậy chúng_tôi đã đến đó bằng taxi", "text_uae": "khu nghỉ_dưỡng nằm hơi xa mũi_né vì_vậy chúng_tôi đã đến đó bằng taxi", "label": "LOCATION"}
+{"text_reg": "khách_sạn có vị_trí tốt", "text_bert": "khách_sạn có vị_trí tốt", "text_uae": "khách_sạn có vị_trí tốt", "label": "LOCATION"}
+{"text_reg": "bãi biển đẹp và sạch_sẽ", "text_bert": "bãi biển đẹp và sạch_sẽ", "text_uae": "bãi biển đẹp và sạch_sẽ", "label": "LOCATION"}
+{"text_reg": "món ăn cũng khá đa_dạng", "text_bert": "món ăn cũng khá đa_dạng", "text_uae": "món ăn cũng khá đa_dạng", "label": "FOOD&DRINKS"}
+{"text_reg": "tôi đã tới đà_nẵng vào hqua và ngủ 1 đêm rồi", "text_bert": "tôi đã tới đà_nẵng vào hqua và ngủ 1 đêm rồi", "text_uae": "tôi đã tới đà_nẵng vào hqua và ngủ 1 đêm rồi", "label": "LOCATION"}
+{"text_reg": "đã hỏi_thăm chúng_tôi rất nhiều", "text_bert": "đã hỏi_thăm chúng_tôi rất nhiều", "text_uae": "đã hỏi_thăm chúng_tôi rất nhiều", "label": "SERVICE"}
+{"text_reg": "thiết_kế tinh_tế", "text_bert": "thiết_kế tinh_tế", "text_uae": "thiết_kế tinh_tế", "label": "HOTEL"}
+{"text_reg": "nơi rất đẹp cho du_khách lẻ", "text_bert": "nơi rất đẹp cho du_khách lẻ", "text_uae": "nơi rất đẹp cho du_khách lẻ", "label": "LOCATION"}
+{"text_reg": "khách_sạn này ở một vị_trí tốt", "text_bert": "khách_sạn này ở một vị_trí tốt", "text_uae": "khách_sạn này ở một vị_trí tốt", "label": "LOCATION"}
+{"text_reg": "bãi xe để ngoài_trời và 1 số để ngoài vỉa hẻ qua đêm", "text_bert": "bãi xe để ngoài_trời và 1 số để ngoài vỉa hẻ qua đêm", "text_uae": "bãi xe để ngoài_trời và 1 số để ngoài vỉa hẻ qua đêm", "label": "FACILITIES"}
+{"text_reg": "có hơn 600 đánh_giá tuyệt_vời về nơi này nói lên rất nhiều về chất_lượng thực_phẩm", "text_bert": "có hơn 600 đánh_giá tuyệt_vời về nơi này nói lên rất nhiều về chất_lượng thực_phẩm", "text_uae": "có hơn 600 đánh_giá tuyệt_vời về nơi này nói lên rất nhiều về chất_lượng thực_phẩm", "label": "FOOD&DRINKS"}
+{"text_reg": "tôi sẽ quay lại đà_nẵng và tiếp_tục chọn mường thanh nơi dừng chân nghĩ ngơi", "text_bert": "tôi sẽ quay lại đà_nẵng và tiếp_tục chọn mường thanh nơi dừng chân nghĩ ngơi", "text_uae": "tôi sẽ quay lại đà_nẵng và tiếp_tục chọn mường thanh nơi dừng chân nghĩ ngơi", "label": "LOCATION"}
+{"text_reg": "nhân_viên khách_sạn nhanh_nhẹn", "text_bert": "nhân_viên khách_sạn nhanh_nhẹn", "text_uae": "nhân_viên khách_sạn nhanh_nhẹn", "label": "SERVICE"}
+{"text_reg": "sẽ cõ dịp quay lại lằn nữa", "text_bert": "sẽ cõ dịp quay lại lằn nữa", "text_uae": "sẽ cõ dịp quay lại lằn nữa", "label": "HOTEL"}
+{"text_reg": "không_những thế_nhân_viên ở đây rất thân_thiện vui_vẻ", "text_bert": "không_những thế_nhân_viên ở đây rất thân_thiện vui_vẻ", "text_uae": "không_những thế_nhân_viên ở đây rất thân_thiện vui_vẻ", "label": "SERVICE"}
+{"text_reg": "dễ_thương và rất quan_tâm đến khách_hàng", "text_bert": "dễ_thương và rất quan_tâm đến khách_hàng", "text_uae": "dễ_thương và rất quan_tâm đến khách_hàng", "label": "SERVICE"}
+{"text_reg": "rất hài_lòng với sự phục_vụ của the_grand_ho_tram trip", "text_bert": "rất hài_lòng với sự phục_vụ của the_grand_ho_tram trip", "text_uae": "rất hài_lòng với sự phục_vụ của the_grand_ho_tram trip", "label": "SERVICE"}
+{"text_reg": "khách_sạn nằm gần trung_tâm thành_phố như nhà_hát lớn", "text_bert": "khách_sạn nằm gần trung_tâm thành_phố như nhà_hát lớn", "text_uae": "khách_sạn nằm gần trung_tâm thành_phố như nhà_hát lớn", "label": "LOCATION"}
+{"text_reg": "dịch_vụ rất tốt", "text_bert": "dịch_vụ rất tốt", "text_uae": "dịch_vụ rất tốt", "label": "SERVICE"}
+{"text_reg": "nhất_định sẽ quay lại vào dịp tới", "text_bert": "nhất_định sẽ quay lại vào dịp tới", "text_uae": "nhất_định sẽ quay lại vào dịp tới", "label": "HOTEL"}
+{"text_reg": "cảm_giác thoai mái vui_vẻ cùng gia_đình", "text_bert": "cảm_giác thoai mái vui_vẻ cùng gia_đình", "text_uae": "cảm_giác thoai mái vui_vẻ cùng gia_đình", "label": "HOTEL"}
+{"text_reg": "luôn_luôn mỉm cười", "text_bert": "luôn_luôn mỉm cười", "text_uae": "luôn_luôn mỉm cười", "label": "SERVICE"}
+{"text_reg": "dịch_vụ rất ổn", "text_bert": "dịch_vụ rất ổn", "text_uae": "dịch_vụ rất ổn", "label": "SERVICE"}
+{"text_reg": "nhiệt_tình giúp_đỡ", "text_bert": "nhiệt_tình giúp_đỡ", "text_uae": "nhiệt_tình giúp_đỡ", "label": "SERVICE"}
+{"text_reg": "tủ để đồ", "text_bert": "tủ để đồ", "text_uae": "tủ để đồ", "label": "ROOM_AMENITIES"}
+{"text_reg": "thích_hợp cho các bạn thích sống ảo", "text_bert": "thích_hợp cho các bạn thích sống ảo", "text_uae": "thích_hợp cho các bạn thích sống ảo", "label": "HOTEL"}
+{"text_reg": "đi cùng đoàn chúng_tôi có gia_đình có trẻ nhỏ bỏ quên đồ_chơi yêu thích của cháu", "text_bert": "đi cùng đoàn chúng_tôi có gia_đình có trẻ nhỏ bỏ quên đồ_chơi yêu thích của cháu", "text_uae": "đi cùng đoàn chúng_tôi có gia_đình có trẻ nhỏ bỏ quên đồ_chơi yêu thích của cháu", "label": "HOTEL"}
+{"text_reg": "không_gian sang_trọng", "text_bert": "không_gian sang_trọng", "text_uae": "không_gian sang_trọng", "label": "HOTEL"}
+{"text_reg": "đồ_ăn sáng thay_đổi", "text_bert": "đồ_ăn sáng thay_đổi", "text_uae": "đồ_ăn sáng thay_đổi", "label": "FOOD&DRINKS"}
+{"text_reg": "sẽ quay lại đà_nẵng lần sau", "text_bert": "sẽ quay lại đà_nẵng lần sau", "text_uae": "sẽ quay lại đà_nẵng lần sau", "label": "LOCATION"}
+{"text_reg": "nhân_viên lịch_sự", "text_bert": "nhân_viên lịch_sự", "text_uae": "nhân_viên lịch_sự", "label": "SERVICE"}
+{"text_reg": "phòng mới", "text_bert": "phòng mới", "text_uae": "phòng mới", "label": "ROOMS"}
+{"text_reg": "khách_sạn chỉ mới được khánh_thành cách đây không lâu", "text_bert": "khách_sạn chỉ mới được khánh_thành cách đây không lâu", "text_uae": "khách_sạn chỉ mới được khánh_thành cách đây không lâu", "label": "HOTEL"}
+{"text_reg": "khách_sạn rất thoải_mái từ_dịch vụ ăn_uống", "text_bert": "khách_sạn rất thoải_mái từ_dịch vụ ăn_uống", "text_uae": "khách_sạn rất thoải_mái từ_dịch vụ ăn_uống", "label": "FOOD&DRINKS"}
+{"text_reg": "view đẹp", "text_bert": "view đẹp", "text_uae": "view đẹp", "label": "HOTEL"}
+{"text_reg": "chỉ tiếc la buffet không còn phong phú như trước", "text_bert": "chỉ tiếc la buffet không còn phong phú như trước", "text_uae": "chỉ tiếc la buffet không còn phong phú như trước", "label": "FOOD&DRINKS"}
+{"text_reg": "mình thấy khách_sạn", "text_bert": "mình thấy khách_sạn", "text_uae": "mình thấy khách_sạn", "label": "HOTEL"}
+{"text_reg": "lúc_nào tôi cũng có được giá thấp hơn những nơi khác và nhân_viên thì chu_đáo và hữu_ích", "text_bert": "lúc_nào tôi cũng có được giá thấp hơn những nơi khác và nhân_viên thì chu_đáo và hữu_ích", "text_uae": "lúc_nào tôi cũng có được giá thấp hơn những nơi khác và nhân_viên thì chu_đáo và hữu_ích", "label": "SERVICE"}
+{"text_reg": "chudu24 hoạt_động rất chuyên_nghiệp", "text_bert": "chudu24 hoạt_động rất chuyên_nghiệp", "text_uae": "chudu24 hoạt_động rất chuyên_nghiệp", "label": "HOTEL"}
+{"text_reg": "thân_thiện và chuyên_nghiệp", "text_bert": "thân_thiện và chuyên_nghiệp", "text_uae": "thân_thiện và chuyên_nghiệp", "label": "SERVICE"}
+{"text_reg": "giường siêu êm cực_kì thoải_mái", "text_bert": "giường siêu êm cực_kì thoải_mái", "text_uae": "giường siêu êm cực_kì thoải_mái", "label": "ROOM_AMENITIES"}
+{"text_reg": "nhân_viên sẽ gọi điện_thoại cho bạn trước khi đến để đảm_bảo khi bạn đến bà nà hills đúng giờ cáp treo chạy", "text_bert": "nhân_viên sẽ gọi điện_thoại cho bạn trước khi đến để đảm_bảo khi bạn đến bà nà hills đúng giờ cáp treo chạy", "text_uae": "nhân_viên sẽ gọi điện_thoại cho bạn trước khi đến để đảm_bảo khi bạn đến bà nà hills đúng giờ cáp treo chạy", "label": "SERVICE"}
+{"text_reg": "sẽ giới thiệu với bạn bè quay lại khách sạn này dể trải nghiệm", "text_bert": "sẽ giới thiệu với bạn bè quay lại khách sạn này dể trải nghiệm", "text_uae": "sẽ giới thiệu với bạn bè quay lại khách sạn này dể trải nghiệm", "label": "HOTEL"}
+{"text_reg": "nhưng di_chuyển khá tiện", "text_bert": "nhưng di_chuyển khá tiện", "text_uae": "nhưng di_chuyển khá tiện", "label": "LOCATION"}
+{"text_reg": "sạch_sẽ mọi thứ có_vẻ được gìn_giữ rất cẩn_trọng", "text_bert": "sạch_sẽ mọi thứ có_vẻ được gìn_giữ rất cẩn_trọng", "text_uae": "sạch_sẽ mọi thứ có_vẻ được gìn_giữ rất cẩn_trọng", "label": "ROOMS"}
+{"text_reg": "ko có gi làm tôi thát vong c", "text_bert": "ko có gi làm tôi thát vong c", "text_uae": "ko có gi làm tôi thát vong c", "label": "HOTEL"}
+{"text_reg": "khách_sạn view đẹp", "text_bert": "khách_sạn view đẹp", "text_uae": "khách_sạn view đẹp", "label": "HOTEL"}
+{"text_reg": "phòng ở đẹp và sạch", "text_bert": "phòng ở đẹp và sạch", "text_uae": "phòng ở đẹp và sạch", "label": "ROOMS"}
+{"text_reg": "khách_sạn có vị_trí yên_tĩnh", "text_bert": "khách_sạn có vị_trí yên_tĩnh", "text_uae": "khách_sạn có vị_trí yên_tĩnh", "label": "LOCATION"}
+{"text_reg": "một nhà_hàng không_thể bỏ lỡ khi ghé thăm hà_nội", "text_bert": "một nhà_hàng không_thể bỏ lỡ khi ghé thăm hà_nội", "text_uae": "một nhà_hàng không_thể bỏ lỡ khi ghé thăm hà_nội", "label": "LOCATION"}
+{"text_reg": "phòng khách_sạn sạch_sẽ", "text_bert": "phòng khách_sạn sạch_sẽ", "text_uae": "phòng khách_sạn sạch_sẽ", "label": "HOTEL"}
+{"text_reg": "món ăn hết sớm", "text_bert": "món ăn hết sớm", "text_uae": "món ăn hết sớm", "label": "FOOD&DRINKS"}
+{"text_reg": "phòng vệ_sinh sạch_sẽ thoáng mát", "text_bert": "phòng vệ_sinh sạch_sẽ thoáng mát", "text_uae": "phòng vệ_sinh sạch_sẽ thoáng mát", "label": "ROOM_AMENITIES"}
+{"text_reg": "khi book 2 phòng gia_đình thì cần cố_gắng sắp_xếp để 2 phòng cạnh nhau", "text_bert": "khi book 2 phòng gia_đình thì cần cố_gắng sắp_xếp để 2 phòng cạnh nhau", "text_uae": "khi book 2 phòng gia_đình thì cần cố_gắng sắp_xếp để 2 phòng cạnh nhau", "label": "HOTEL"}
+{"text_reg": "chất_lượng tốt", "text_bert": "chất_lượng tốt", "text_uae": "chất_lượng tốt", "label": "HOTEL"}
+{"text_reg": "tv có quá ít kênh chương_trình", "text_bert": "tv có quá ít kênh chương_trình", "text_uae": "tv có quá ít kênh chương_trình", "label": "ROOM_AMENITIES"}
+{"text_reg": "năm sau nếu quay lại mũi_né mình sẽ ghé lại đây", "text_bert": "năm sau nếu quay lại mũi_né mình sẽ ghé lại đây", "text_uae": "năm sau nếu quay lại mũi_né mình sẽ ghé lại đây", "label": "LOCATION"}
+{"text_reg": "tôi thường_xuyên đi công_tác và chọn mường_thanh cho chuyến công_tác của mình", "text_bert": "tôi thường_xuyên đi công_tác và chọn mường_thanh cho chuyến công_tác của mình", "text_uae": "tôi thường_xuyên đi công_tác và chọn mường_thanh cho chuyến công_tác của mình", "label": "LOCATION"}
+{"text_reg": "đồ_dùng trong phòng tắm và 5 miếng đồ giặt mỗi ngày và người được cung_cấp", "text_bert": "đồ_dùng trong phòng tắm và 5 miếng đồ giặt mỗi ngày và người được cung_cấp", "text_uae": "đồ_dùng trong phòng tắm và 5 miếng đồ giặt mỗi ngày và người được cung_cấp", "label": "ROOM_AMENITIES"}
+{"text_reg": "mọi thứ đều rất tốt đặc_biệt là con_người đà_nẵng", "text_bert": "mọi thứ đều rất tốt đặc_biệt là con_người đà_nẵng", "text_uae": "mọi thứ đều rất tốt đặc_biệt là con_người đà_nẵng", "label": "LOCATION"}
+{"text_reg": "ăn sáng bình_thường", "text_bert": "ăn sáng bình_thường", "text_uae": "ăn sáng bình_thường", "label": "FOOD&DRINKS"}
+{"text_reg": "và mong tất_cả nhân_viên luôn thể_hiện tinh_thần nhiệt_huyết", "text_bert": "và mong tất_cả nhân_viên luôn thể_hiện tinh_thần nhiệt_huyết", "text_uae": "và mong tất_cả nhân_viên luôn thể_hiện tinh_thần nhiệt_huyết", "label": "SERVICE"}
+{"text_reg": "chất_lượng khách_sạn nói_chung tốt", "text_bert": "chất_lượng khách_sạn nói_chung tốt", "text_uae": "chất_lượng khách_sạn nói_chung tốt", "label": "HOTEL"}
+{"text_reg": "với thiết_kế gần_gũi với thiên_nhiên", "text_bert": "với thiết_kế gần_gũi với thiên_nhiên", "text_uae": "với thiết_kế gần_gũi với thiên_nhiên", "label": "HOTEL"}
+{"text_reg": "phòng sạch", "text_bert": "phòng sạch", "text_uae": "phòng sạch", "label": "ROOMS"}
+{"text_reg": "bữa sáng tuyệt_vời", "text_bert": "bữa sáng tuyệt_vời", "text_uae": "bữa sáng tuyệt_vời", "label": "FOOD&DRINKS"}
+{"text_reg": "người đã tránh đường để đảm_bảo chúng_tôi có khoảng thời_gian đặc_biệt kể từ thời_điểm chúng_tôi đến", "text_bert": "người đã tránh đường để đảm_bảo chúng_tôi có khoảng thời_gian đặc_biệt kể từ thời_điểm chúng_tôi đến", "text_uae": "người đã tránh đường để đảm_bảo chúng_tôi có khoảng thời_gian đặc_biệt kể từ thời_điểm chúng_tôi đến", "label": "HOTEL"}
+{"text_reg": "đặt biệt tôi rất cảm_ơn cô khánh_vân", "text_bert": "đặt biệt tôi rất cảm_ơn cô khánh_vân", "text_uae": "đặt biệt tôi rất cảm_ơn cô khánh_vân", "label": "SERVICE"}
+{"text_reg": "trước khi đặt phòng tôi được chudu24 cho biết là các bé được miễn_phí ăn sáng", "text_bert": "trước khi đặt phòng tôi được chudu24 cho biết là các bé được miễn_phí ăn sáng", "text_uae": "trước khi đặt phòng tôi được chudu24 cho biết là các bé được miễn_phí ăn sáng", "label": "FOOD&DRINKS"}
+{"text_reg": "tôi nhất_định sẽ giới_thiệu bạn_bè và người_thân về khách_sạn the_lapis", "text_bert": "tôi nhất_định sẽ giới_thiệu bạn_bè và người_thân về khách_sạn the_lapis", "text_uae": "tôi nhất_định sẽ giới_thiệu bạn_bè và người_thân về khách_sạn the_lapis", "label": "HOTEL"}
+{"text_reg": "ăn sáng đơn_giản nhưng ngon", "text_bert": "ăn sáng đơn_giản nhưng ngon", "text_uae": "ăn sáng đơn_giản nhưng ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "đầy_đủ các nhà_hàng và những điều cần làm", "text_bert": "đầy_đủ các nhà_hàng và những điều cần làm", "text_uae": "đầy_đủ các nhà_hàng và những điều cần làm", "label": "HOTEL"}
+{"text_reg": "chỗ đậu xe rất tiện_lợi", "text_bert": "chỗ đậu xe rất tiện_lợi", "text_uae": "chỗ đậu xe rất tiện_lợi", "label": "FACILITIES"}
+{"text_reg": "thực đơn asian ngon va nhiều hơn so với western", "text_bert": "thực đơn asian ngon va nhiều hơn so với western", "text_uae": "thực đơn asian ngon va nhiều hơn so với western", "label": "FOOD&DRINKS"}
+{"text_reg": "nhưng điều đó sẽ đắt hơn", "text_bert": "nhưng điều đó sẽ đắt hơn", "text_uae": "nhưng điều đó sẽ đắt hơn", "label": "HOTEL"}
+{"text_reg": "về nhân_viên thì phục_vụ rất chuyên_nghiệp", "text_bert": "về nhân_viên thì phục_vụ rất chuyên_nghiệp", "text_uae": "về nhân_viên thì phục_vụ rất chuyên_nghiệp", "label": "SERVICE"}
+{"text_reg": "thật_sự là một chọn_lựa đúng_đắn", "text_bert": "thật_sự là một chọn_lựa đúng_đắn", "text_uae": "thật_sự là một chọn_lựa đúng_đắn", "label": "HOTEL"}
+{"text_reg": "nhân_viên rất tuyệt_vời", "text_bert": "nhân_viên rất tuyệt_vời", "text_uae": "nhân_viên rất tuyệt_vời", "label": "SERVICE"}
+{"text_reg": "các phòng được rộng_rãi", "text_bert": "các phòng được rộng_rãi", "text_uae": "các phòng được rộng_rãi", "label": "ROOMS"}
+{"text_reg": "xin cảm_ơn tất_cả các bạn và hy_vọng sớm gặp lại các bạn", "text_bert": "xin cảm_ơn tất_cả các bạn và hy_vọng sớm gặp lại các bạn", "text_uae": "xin cảm_ơn tất_cả các bạn và hy_vọng sớm gặp lại các bạn", "label": "HOTEL"}
+{"text_reg": "gia_đình mình có chuyến nghỉ_mát thật sảng_khoái", "text_bert": "gia_đình mình có chuyến nghỉ_mát thật sảng_khoái", "text_uae": "gia_đình mình có chuyến nghỉ_mát thật sảng_khoái", "label": "HOTEL"}
+{"text_reg": "về dịch_vụ của chudu24", "text_bert": "về dịch_vụ của chudu24", "text_uae": "về dịch_vụ của chudu24", "label": "SERVICE"}
+{"text_reg": "khách_sạn mới", "text_bert": "khách_sạn mới", "text_uae": "khách_sạn mới", "label": "HOTEL"}
+{"text_reg": "nhân_viên khách_sạn cũng nhiệt_tình nhưng tôi sẽ không chọn khách_sạn này cho những lần nghỉ tiếp_theo", "text_bert": "nhân_viên khách_sạn cũng nhiệt_tình nhưng tôi sẽ không chọn khách_sạn này cho những lần nghỉ tiếp_theo", "text_uae": "nhân_viên khách_sạn cũng nhiệt_tình nhưng tôi sẽ không chọn khách_sạn này cho những lần nghỉ tiếp_theo", "label": "SERVICE"}
+{"text_reg": "gần bờ biển", "text_bert": "gần bờ biển", "text_uae": "gần bờ biển", "label": "LOCATION"}
+{"text_reg": "khách_sạn đáng yêu và vị_trí tốt", "text_bert": "khách_sạn đáng yêu và vị_trí tốt", "text_uae": "khách_sạn đáng yêu và vị_trí tốt", "label": "HOTEL"}
+{"text_reg": "khách_sạn rất ấm_cúng", "text_bert": "khách_sạn rất ấm_cúng", "text_uae": "khách_sạn rất ấm_cúng", "label": "HOTEL"}
+{"text_reg": "đồ_ăn sáng ổn", "text_bert": "đồ_ăn sáng ổn", "text_uae": "đồ_ăn sáng ổn", "label": "FOOD&DRINKS"}
+{"text_reg": "tại đây mình thấy tất_cả các dịch_vụ đều tốt", "text_bert": "tại đây mình thấy tất_cả các dịch_vụ đều tốt", "text_uae": "tại đây mình thấy tất_cả các dịch_vụ đều tốt", "label": "SERVICE"}
+{"text_reg": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "text_bert": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "text_uae": "phòng của chúng_tôi ở tầng 5 và ir thực_sự cần một sự thay_đổi lớn", "label": "ROOMS"}
+{"text_reg": "nhân_viên thân_thiện", "text_bert": "nhân_viên thân_thiện", "text_uae": "nhân_viên thân_thiện", "label": "SERVICE"}
+{"text_reg": "cám_ơn các bạn đã rất nhiệt_tình", "text_bert": "cám_ơn các bạn đã rất nhiệt_tình", "text_uae": "cám_ơn các bạn đã rất nhiệt_tình", "label": "SERVICE"}
+{"text_reg": "tôi thích khách_sạn này do có vị_trí tuyệt_vời", "text_bert": "tôi thích khách_sạn này do có vị_trí tuyệt_vời", "text_uae": "tôi thích khách_sạn này do có vị_trí tuyệt_vời", "label": "LOCATION"}
+{"text_reg": "gần trung_tâm mua_sắm", "text_bert": "gần trung_tâm mua_sắm", "text_uae": "gần trung_tâm mua_sắm", "label": "LOCATION"}
+{"text_reg": "nếu có dịp nào đó mình sẽ muốn quay lại đây và trải_nghiệm thêm nhiều lần nữa", "text_bert": "nếu có dịp nào đó mình sẽ muốn quay lại đây và trải_nghiệm thêm nhiều lần nữa", "text_uae": "nếu có dịp nào đó mình sẽ muốn quay lại đây và trải_nghiệm thêm nhiều lần nữa", "label": "HOTEL"}
+{"text_reg": "nó thực_sự nóng hơn bên trong phòng ngủ hơn bên ngoài", "text_bert": "nó thực_sự nóng hơn bên trong phòng ngủ hơn bên ngoài", "text_uae": "nó thực_sự nóng hơn bên trong phòng ngủ hơn bên ngoài", "label": "ROOMS"}
+{"text_reg": "các nhân_viên rất thân_thiện và hữu_ích", "text_bert": "các nhân_viên rất thân_thiện và hữu_ích", "text_uae": "các nhân_viên rất thân_thiện và hữu_ích", "label": "SERVICE"}
+{"text_reg": "các bạn đã giúp tôi lấy lại điện_thoại để quên trên xe taxi trên đường đi đến khách_sạn", "text_bert": "các bạn đã giúp tôi lấy lại điện_thoại để quên trên xe taxi trên đường đi đến khách_sạn", "text_uae": "các bạn đã giúp tôi lấy lại điện_thoại để quên trên xe taxi trên đường đi đến khách_sạn", "label": "SERVICE"}
+{"text_reg": "villla ở khu sealinks rất đẹp", "text_bert": "villla ở khu sealinks rất đẹp", "text_uae": "villla ở khu sealinks rất đẹp", "label": "LOCATION"}
+{"text_reg": "cảm_ơn đã mang lại cho chúng_tôi sự yên_tâm tuyệt_đối khi tổ_chức một sự_kiện quan_trọng như_vậy", "text_bert": "cảm_ơn đã mang lại cho chúng_tôi sự yên_tâm tuyệt_đối khi tổ_chức một sự_kiện quan_trọng như_vậy", "text_uae": "cảm_ơn đã mang lại cho chúng_tôi sự yên_tâm tuyệt_đối khi tổ_chức một sự_kiện quan_trọng như_vậy", "label": "HOTEL"}
+{"text_reg": "lần sau tôi sẽ quay lại khách_sạn vinpeal_luxury_landmark 81", "text_bert": "lần sau tôi sẽ quay lại khách_sạn vinpeal_luxury_landmark 81", "text_uae": "lần sau tôi sẽ quay lại khách_sạn vinpeal_luxury_landmark 81", "label": "HOTEL"}
+{"text_reg": "hơn_nữa đồ_ăn cũng ngon", "text_bert": "hơn_nữa đồ_ăn cũng ngon", "text_uae": "hơn_nữa đồ_ăn cũng ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "cảm_ơn đội_ngũ vận_hành cũng như nhân_viên tại vinpearl_luxury_landmark 81 đã", "text_bert": "cảm_ơn đội_ngũ vận_hành cũng như nhân_viên tại vinpearl_luxury_landmark 81 đã", "text_uae": "cảm_ơn đội_ngũ vận_hành cũng như nhân_viên tại vinpearl_luxury_landmark 81 đã", "label": "SERVICE"}
+{"text_reg": "đây là một khách_sạn giá_trị tốt", "text_bert": "đây là một khách_sạn giá_trị tốt", "text_uae": "đây là một khách_sạn giá_trị tốt", "label": "HOTEL"}
+{"text_reg": "vị_trí vừa gần biển lại vừa gần thành_phố nên rất hợp với việc vui_chơi cũng như đi công_tác kết_hợp thư_giãn", "text_bert": "vị_trí vừa gần biển lại vừa gần thành_phố nên rất hợp với việc vui_chơi cũng như đi công_tác kết_hợp thư_giãn", "text_uae": "vị_trí vừa gần biển lại vừa gần thành_phố nên rất hợp với việc vui_chơi cũng như đi công_tác kết_hợp thư_giãn", "label": "LOCATION"}
+{"text_reg": "đúng kiểu yêu thích và đáng tận_hưởng", "text_bert": "đúng kiểu yêu thích và đáng tận_hưởng", "text_uae": "đúng kiểu yêu thích và đáng tận_hưởng", "label": "HOTEL"}
+{"text_reg": "khách_sạn cũng gần biển mỹ khê", "text_bert": "khách_sạn cũng gần biển mỹ khê", "text_uae": "khách_sạn cũng gần biển mỹ khê", "label": "LOCATION"}
+{"text_reg": "gần với các điểm tham_quan du_lịch và nhà_hàng đáng yêu", "text_bert": "gần với các điểm tham_quan du_lịch và nhà_hàng đáng yêu", "text_uae": "gần với các điểm tham_quan du_lịch và nhà_hàng đáng yêu", "label": "LOCATION"}
+{"text_reg": "mình vui_vẻ cung bạn_bè nhưng ko ấn_tượng lắm về khách_sạn", "text_bert": "mình vui_vẻ cung bạn_bè nhưng ko ấn_tượng lắm về khách_sạn", "text_uae": "mình vui_vẻ cung bạn_bè nhưng ko ấn_tượng lắm về khách_sạn", "label": "HOTEL"}
+{"text_reg": "tôi khá hài_lòng với khách_sạn này trong kỳ nghỉ vừa_rồi", "text_bert": "tôi khá hài_lòng với khách_sạn này trong kỳ nghỉ vừa_rồi", "text_uae": "tôi khá hài_lòng với khách_sạn này trong kỳ nghỉ vừa_rồi", "label": "HOTEL"}
+{"text_reg": "tôi đến đà_nẵng dự hội_nghị", "text_bert": "tôi đến đà_nẵng dự hội_nghị", "text_uae": "tôi đến đà_nẵng dự hội_nghị", "label": "LOCATION"}
+{"text_reg": "spa làm nơi nghỉ_dưỡng cho gia_đình mình", "text_bert": "spa làm nơi nghỉ_dưỡng cho gia_đình mình", "text_uae": "spa làm nơi nghỉ_dưỡng cho gia_đình mình", "label": "FACILITIES"}
+{"text_reg": "mọi thứ được trang_trí khá hài_hoà", "text_bert": "mọi thứ được trang_trí khá hài_hoà", "text_uae": "mọi thứ được trang_trí khá hài_hoà", "label": "HOTEL"}
+{"text_reg": "con đường cuối_cùng chết là một nhược_điểm nhưng luôn cảm", "text_bert": "con đường cuối_cùng chết là một nhược_điểm nhưng luôn cảm", "text_uae": "con đường cuối_cùng chết là một nhược_điểm nhưng luôn cảm", "label": "LOCATION"}
+{"text_reg": "hành_lang bày rất nhiều ảnh đẹp về thiên_nhiên", "text_bert": "hành_lang bày rất nhiều ảnh đẹp về thiên_nhiên", "text_uae": "hành_lang bày rất nhiều ảnh đẹp về thiên_nhiên", "label": "FACILITIES"}
+{"text_reg": "thực_phẩm tốt và một người_quản_lý rất chào_đón", "text_bert": "thực_phẩm tốt và một người_quản_lý rất chào_đón", "text_uae": "thực_phẩm tốt và một người_quản_lý rất chào_đón", "label": "FOOD&DRINKS"}
+{"text_reg": "nhà tôi đã được nhân_viên của khác sạn phục_vụ rất nhiệt_tình và thân_thiện", "text_bert": "nhà tôi đã được nhân_viên của khác sạn phục_vụ rất nhiệt_tình và thân_thiện", "text_uae": "nhà tôi đã được nhân_viên của khác sạn phục_vụ rất nhiệt_tình và thân_thiện", "label": "SERVICE"}
+{"text_reg": "sạch_sẽ và tất_cả mọi thứ đều làm_việc", "text_bert": "sạch_sẽ và tất_cả mọi thứ đều làm_việc", "text_uae": "sạch_sẽ và tất_cả mọi thứ đều làm_việc", "label": "HOTEL"}
+{"text_reg": "nhân_viên lễ_tân tư_vấn trả thêm tiền để được sử_dụng phòng tốt hơn thực_ra vẫn là phòng như lúc ban_đầu mới đến nhân", "text_bert": "nhân_viên lễ_tân tư_vấn trả thêm tiền để được sử_dụng phòng tốt hơn thực_ra vẫn là phòng như lúc ban_đầu mới đến nhân", "text_uae": "nhân_viên lễ_tân tư_vấn trả thêm tiền để được sử_dụng phòng tốt hơn thực_ra vẫn là phòng như lúc ban_đầu mới đến nhân", "label": "SERVICE"}
+{"text_reg": "tôi sẽ quay lại đây trong tương_lai gần", "text_bert": "tôi sẽ quay lại đây trong tương_lai gần", "text_uae": "tôi sẽ quay lại đây trong tương_lai gần", "label": "HOTEL"}
+{"text_reg": "2 món này chế_biến cũng khá cầu_kì", "text_bert": "2 món này chế_biến cũng khá cầu_kì", "text_uae": "2 món này chế_biến cũng khá cầu_kì", "label": "FOOD&DRINKS"}
+{"text_reg": "chúng_tôi ở lại đây như là một phần của một nhóm du_lịch intrepid và rất thất_vọng với khách_sạn nói_chung", "text_bert": "chúng_tôi ở lại đây như là một phần của một nhóm du_lịch intrepid và rất thất_vọng với khách_sạn nói_chung", "text_uae": "chúng_tôi ở lại đây như là một phần của một nhóm du_lịch intrepid và rất thất_vọng với khách_sạn nói_chung", "label": "HOTEL"}
+{"text_reg": "nơi bạn đến dù là bất_kỳ nơi đâu trên thế_giới", "text_bert": "nơi bạn đến dù là bất_kỳ nơi đâu trên thế_giới", "text_uae": "nơi bạn đến dù là bất_kỳ nơi đâu trên thế_giới", "label": "LOCATION"}
+{"text_reg": "người phụ_nữ đề_nghị chúng_tôi một phòng có bồn_tắm nhưng không có tầm nhìn", "text_bert": "người phụ_nữ đề_nghị chúng_tôi một phòng có bồn_tắm nhưng không có tầm nhìn", "text_uae": "người phụ_nữ đề_nghị chúng_tôi một phòng có bồn_tắm nhưng không có tầm nhìn", "label": "ROOM_AMENITIES"}
+{"text_reg": "xung_quanh nhiều địa_điểm ăn_uống và khu du_lịch", "text_bert": "xung_quanh nhiều địa_điểm ăn_uống và khu du_lịch", "text_uae": "xung_quanh nhiều địa_điểm ăn_uống và khu du_lịch", "label": "LOCATION"}
+{"text_reg": "biển tại đây rất rộng nhìn khá hoang_sơ", "text_bert": "biển tại đây rất rộng nhìn khá hoang_sơ", "text_uae": "biển tại đây rất rộng nhìn khá hoang_sơ", "label": "LOCATION"}
+{"text_reg": "hồ bơi trên cao tuy nhỏ nhưng có view đẹp toàn_cảnh", "text_bert": "hồ bơi trên cao tuy nhỏ nhưng có view đẹp toàn_cảnh", "text_uae": "hồ bơi trên cao tuy nhỏ nhưng có view đẹp toàn_cảnh", "label": "FACILITIES"}
+{"text_reg": "chu_đáo và rất nhiệt_tình", "text_bert": "chu_đáo và rất nhiệt_tình", "text_uae": "chu_đáo và rất nhiệt_tình", "label": "SERVICE"}
+{"text_reg": "có hải_sản ngon và rẻ", "text_bert": "có hải_sản ngon và rẻ", "text_uae": "có hải_sản ngon và rẻ", "label": "FOOD&DRINKS"}
+{"text_reg": "nhân_viên rất thân_thiện cởi_mở", "text_bert": "nhân_viên rất thân_thiện cởi_mở", "text_uae": "nhân_viên rất thân_thiện cởi_mở", "label": "SERVICE"}
+{"text_reg": "trang_thiết_bị vệ_sinh quá tệ", "text_bert": "trang_thiết_bị vệ_sinh quá tệ", "text_uae": "trang_thiết_bị vệ_sinh quá tệ", "label": "ROOM_AMENITIES"}
+{"text_reg": "đã nhiều lần đến đà_nẵng và chọn khách_sạn mương thanh luxury làm nơi nghỉ_dưỡng", "text_bert": "đã nhiều lần đến đà_nẵng và chọn khách_sạn mương thanh luxury làm nơi nghỉ_dưỡng", "text_uae": "đã nhiều lần đến đà_nẵng và chọn khách_sạn mương thanh luxury làm nơi nghỉ_dưỡng", "label": "LOCATION"}
+{"text_reg": "các tiện_nghi hiện_đại", "text_bert": "các tiện_nghi hiện_đại", "text_uae": "các tiện_nghi hiện_đại", "label": "HOTEL"}
+{"text_reg": "dù_vậy nhưng tôi có ấn_tượng tốt vè mường_thanh và sẽ quay lại ở những lần sau", "text_bert": "dù_vậy nhưng tôi có ấn_tượng tốt vè mường_thanh và sẽ quay lại ở những lần sau", "text_uae": "dù_vậy nhưng tôi có ấn_tượng tốt vè mường_thanh và sẽ quay lại ở những lần sau", "label": "HOTEL"}
+{"text_reg": "thiếu phòng về sinh và phòng thay đồ gần biển", "text_bert": "thiếu phòng về sinh và phòng thay đồ gần biển", "text_uae": "thiếu phòng về sinh và phòng thay đồ gần biển", "label": "ROOMS"}
+{"text_reg": "tầng trên cũng có bể bơi", "text_bert": "tầng trên cũng có bể bơi", "text_uae": "tầng trên cũng có bể bơi", "label": "FACILITIES"}
+{"text_reg": "tôi có thuê 2 phòng ở đây", "text_bert": "tôi có thuê 2 phòng ở đây", "text_uae": "tôi có thuê 2 phòng ở đây", "label": "ROOMS"}
+{"text_reg": "khá nhiều nhà_hàng", "text_bert": "khá nhiều nhà_hàng", "text_uae": "khá nhiều nhà_hàng", "label": "LOCATION"}
+{"text_reg": "liên_hệ với bên grab", "text_bert": "liên_hệ với bên grab", "text_uae": "liên_hệ với bên grab", "label": "SERVICE"}
+{"text_reg": "rất thích khách_sạn và gia_đình mình sẽ quay lại vào lần sau", "text_bert": "rất thích khách_sạn và gia_đình mình sẽ quay lại vào lần sau", "text_uae": "rất thích khách_sạn và gia_đình mình sẽ quay lại vào lần sau", "label": "HOTEL"}
+{"text_reg": "xin chào evian_spa", "text_bert": "xin chào evian_spa", "text_uae": "xin chào evian_spa", "label": "FACILITIES"}
+{"text_reg": "các bữa ăn sáng thực_sự trung_bình", "text_bert": "các bữa ăn sáng thực_sự trung_bình", "text_uae": "các bữa ăn sáng thực_sự trung_bình", "label": "FOOD&DRINKS"}
+{"text_reg": "uber để đến các khu_vực khác", "text_bert": "uber để đến các khu_vực khác", "text_uae": "uber để đến các khu_vực khác", "label": "LOCATION"}
+{"text_reg": "thảo cskh rất thân_thiện mươnhd thanh luxury đà_nẵng đúng chuẩn khách_sạn 5sao nếu có dịp tôi sẽ quay trở_lại", "text_bert": "thảo cskh rất thân_thiện mươnhd thanh luxury đà_nẵng đúng chuẩn khách_sạn 5sao nếu có dịp tôi sẽ quay trở_lại", "text_uae": "thảo cskh rất thân_thiện mươnhd thanh luxury đà_nẵng đúng chuẩn khách_sạn 5sao nếu có dịp tôi sẽ quay trở_lại", "label": "LOCATION"}
+{"text_reg": "bạn tú cũng đã hỗ_trợ và hướng_dẫn cho gia_đình tôi", "text_bert": "bạn tú cũng đã hỗ_trợ và hướng_dẫn cho gia_đình tôi", "text_uae": "bạn tú cũng đã hỗ_trợ và hướng_dẫn cho gia_đình tôi", "label": "SERVICE"}
+{"text_reg": "từ dân địa_phương đến nhân_viên khách_sạn đều luôn giữ được nụ cười thân_thiện trên môi", "text_bert": "từ dân địa_phương đến nhân_viên khách_sạn đều luôn giữ được nụ cười thân_thiện trên môi", "text_uae": "từ dân địa_phương đến nhân_viên khách_sạn đều luôn giữ được nụ cười thân_thiện trên môi", "label": "SERVICE"}
+{"text_reg": "phòng gym thì thoáng mát và trần rất cao", "text_bert": "phòng gym thì thoáng mát và trần rất cao", "text_uae": "phòng gym thì thoáng mát và trần rất cao", "label": "FACILITIES"}
+{"text_reg": "từ khách_sạn đẹp", "text_bert": "từ khách_sạn đẹp", "text_uae": "từ khách_sạn đẹp", "label": "HOTEL"}
+{"text_reg": "nhân viên lam_phong rất chuyên nghiệp và phục vụ chu đáo", "text_bert": "nhân viên lam_phong rất chuyên nghiệp và phục vụ chu đáo", "text_uae": "nhân viên lam_phong rất chuyên nghiệp và phục vụ chu đáo", "label": "SERVICE"}
+{"text_reg": "gần như các phòng dều view ra bức tuờng", "text_bert": "gần như các phòng dều view ra bức tuờng", "text_uae": "gần như các phòng dều view ra bức tuờng", "label": "ROOMS"}
+{"text_reg": "vì_vậy các điểm tham_quan quan_trọng nhất như chợ bến_thành", "text_bert": "vì_vậy các điểm tham_quan quan_trọng nhất như chợ bến_thành", "text_uae": "vì_vậy các điểm tham_quan quan_trọng nhất như chợ bến_thành", "label": "LOCATION"}
+{"text_reg": "đồ_ăn sáng phù_hợp với số đông", "text_bert": "đồ_ăn sáng phù_hợp với số đông", "text_uae": "đồ_ăn sáng phù_hợp với số đông", "label": "FOOD&DRINKS"}
+{"text_reg": "chợ bến_thành", "text_bert": "chợ bến_thành", "text_uae": "chợ bến_thành", "label": "LOCATION"}
+{"text_reg": "nhân_viên ở đây rất nhiệt_tình thân_thiện", "text_bert": "nhân_viên ở đây rất nhiệt_tình thân_thiện", "text_uae": "nhân_viên ở đây rất nhiệt_tình thân_thiện", "label": "SERVICE"}
+{"text_reg": "một khu nghỉ_dưỡng trên núi tuyệt với", "text_bert": "một khu nghỉ_dưỡng trên núi tuyệt với", "text_uae": "một khu nghỉ_dưỡng trên núi tuyệt với", "label": "LOCATION"}
+{"text_reg": "bữa sáng tương_đối hoàn_hảo", "text_bert": "bữa sáng tương_đối hoàn_hảo", "text_uae": "bữa sáng tương_đối hoàn_hảo", "label": "FOOD&DRINKS"}
+{"text_reg": "resort đón khách", "text_bert": "resort đón khách", "text_uae": "resort đón khách", "label": "HOTEL"}
+{"text_reg": "còn offer mình nhiều địa_điểm du_lịch hấp_dẫn tại đà_nẵng", "text_bert": "còn offer mình nhiều địa_điểm du_lịch hấp_dẫn tại đà_nẵng", "text_uae": "còn offer mình nhiều địa_điểm du_lịch hấp_dẫn tại đà_nẵng", "label": "LOCATION"}
+{"text_reg": "nhanh_chóng đáp ứ bất_kỳ yêu_cầu nào", "text_bert": "nhanh_chóng đáp ứ bất_kỳ yêu_cầu nào", "text_uae": "nhanh_chóng đáp ứ bất_kỳ yêu_cầu nào", "label": "HOTEL"}
+{"text_reg": "nếu muốn được tư_vấn về các địa_chỉ ăn_uống mua_sắm thì hỏi nhân_viên chăm_sóc khách_hàng tên dung cô ấy sẽ nhiệt_tình giúp_đỡ", "text_bert": "nếu muốn được tư_vấn về các địa_chỉ ăn_uống mua_sắm thì hỏi nhân_viên chăm_sóc khách_hàng tên dung cô ấy sẽ nhiệt_tình giúp_đỡ", "text_uae": "nếu muốn được tư_vấn về các địa_chỉ ăn_uống mua_sắm thì hỏi nhân_viên chăm_sóc khách_hàng tên dung cô ấy sẽ nhiệt_tình giúp_đỡ", "label": "SERVICE"}
+{"text_reg": "trang_thiết_bị cũ_kỹ", "text_bert": "trang_thiết_bị cũ_kỹ", "text_uae": "trang_thiết_bị cũ_kỹ", "label": "ROOM_AMENITIES"}
+{"text_reg": "kỳ nghỉ tuyệt_vời", "text_bert": "kỳ nghỉ tuyệt_vời", "text_uae": "kỳ nghỉ tuyệt_vời", "label": "HOTEL"}
+{"text_reg": "nhân_viên thân_thiện và lễ_phép", "text_bert": "nhân_viên thân_thiện và lễ_phép", "text_uae": "nhân_viên thân_thiện và lễ_phép", "label": "SERVICE"}
+{"text_reg": "các món ăn thì chấp_nhận được", "text_bert": "các món ăn thì chấp_nhận được", "text_uae": "các món ăn thì chấp_nhận được", "label": "FOOD&DRINKS"}
+{"text_reg": "khách_sạn rất gần nhà_thờ và hồ hoàn_kiếm", "text_bert": "khách_sạn rất gần nhà_thờ và hồ hoàn_kiếm", "text_uae": "khách_sạn rất gần nhà_thờ và hồ hoàn_kiếm", "label": "LOCATION"}
+{"text_reg": "chúng_tôi ở six_senses_côn_đảo 3 ngày 2 đêm", "text_bert": "chúng_tôi ở six_senses_côn_đảo 3 ngày 2 đêm", "text_uae": "chúng_tôi ở six_senses_côn_đảo 3 ngày 2 đêm", "label": "LOCATION"}
+{"text_reg": "khách_sạn đẹp", "text_bert": "khách_sạn đẹp", "text_uae": "khách_sạn đẹp", "label": "HOTEL"}
+{"text_reg": "tôi đã ở trong các khách_sạn khác ở hà_nội và điều này là ngang_hàng", "text_bert": "tôi đã ở trong các khách_sạn khác ở hà_nội và điều này là ngang_hàng", "text_uae": "tôi đã ở trong các khách_sạn khác ở hà_nội và điều này là ngang_hàng", "label": "LOCATION"}
+{"text_reg": "rât chu_đáo", "text_bert": "rât chu_đáo", "text_uae": "rât chu_đáo", "label": "HOTEL"}
+{"text_reg": "vị_trí tốt", "text_bert": "vị_trí tốt", "text_uae": "vị_trí tốt", "label": "LOCATION"}
+{"text_reg": "một kỳ nghỉ tốt_đẹp và nơi được đề_nghị cao", "text_bert": "một kỳ nghỉ tốt_đẹp và nơi được đề_nghị cao", "text_uae": "một kỳ nghỉ tốt_đẹp và nơi được đề_nghị cao", "label": "HOTEL"}
+{"text_reg": "phong_cảnh thoáng mát tuyệt_vời", "text_bert": "phong_cảnh thoáng mát tuyệt_vời", "text_uae": "phong_cảnh thoáng mát tuyệt_vời", "label": "HOTEL"}
+{"text_reg": "trên đường về nhà của chúng_tôi", "text_bert": "trên đường về nhà của chúng_tôi", "text_uae": "trên đường về nhà của chúng_tôi", "label": "LOCATION"}
+{"text_reg": "khách_sạn hơi vắng nhưng về vệ_sinh thì sạch_sẽ", "text_bert": "khách_sạn hơi vắng nhưng về vệ_sinh thì sạch_sẽ", "text_uae": "khách_sạn hơi vắng nhưng về vệ_sinh thì sạch_sẽ", "label": "HOTEL"}
+{"text_reg": "hỏi lễ_tân đã biết hiện_tượng đó mà ko xử_lý sớm cho khách trước khi nhận phòng", "text_bert": "hỏi lễ_tân đã biết hiện_tượng đó mà ko xử_lý sớm cho khách trước khi nhận phòng", "text_uae": "hỏi lễ_tân đã biết hiện_tượng đó mà ko xử_lý sớm cho khách trước khi nhận phòng", "label": "SERVICE"}
+{"text_reg": "đầy_đủ các trang_thiết_bị và cơ_sở vật_chất như hồ bơi", "text_bert": "đầy_đủ các trang_thiết_bị và cơ_sở vật_chất như hồ bơi", "text_uae": "đầy_đủ các trang_thiết_bị và cơ_sở vật_chất như hồ bơi", "label": "FACILITIES"}
+{"text_reg": "nhưng chưa đa_dạng nhiều món", "text_bert": "nhưng chưa đa_dạng nhiều món", "text_uae": "nhưng chưa đa_dạng nhiều món", "label": "FOOD&DRINKS"}
+{"text_reg": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "text_bert": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "text_uae": "lần sau chúng_tôi sẽ quay trở_lại để tận_hưởng những giờ_phút nghỉ_ngơi thật vui_vẻ và sảng_khoái", "label": "HOTEL"}
+{"text_reg": "tôi rất hài_lòng về giá_cả", "text_bert": "tôi rất hài_lòng về giá_cả", "text_uae": "tôi rất hài_lòng về giá_cả", "label": "HOTEL"}
+{"text_reg": "thoáng mát", "text_bert": "thoáng mát", "text_uae": "thoáng mát", "label": "HOTEL"}
+{"text_reg": "và tuyệt_vời", "text_bert": "và tuyệt_vời", "text_uae": "và tuyệt_vời", "label": "HOTEL"}
+{"text_reg": "các phòng mặc_dù một_chút nhỏ đã được thoải_mái và sạch_sẽ", "text_bert": "các phòng mặc_dù một_chút nhỏ đã được thoải_mái và sạch_sẽ", "text_uae": "các phòng mặc_dù một_chút nhỏ đã được thoải_mái và sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "khách_sạn tốt nhất tại đà_nẵng", "text_bert": "khách_sạn tốt nhất tại đà_nẵng", "text_uae": "khách_sạn tốt nhất tại đà_nẵng", "label": "LOCATION"}
+{"text_reg": "nhưng hương_vị đậm_đà và ngon", "text_bert": "nhưng hương_vị đậm_đà và ngon", "text_uae": "nhưng hương_vị đậm_đà và ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "ở đây có buffet dim sum và món vịt quay bắc_kinh rất ngon cùng với thực_đơn special promotion thay_đổi liên_tục hàng tháng", "text_bert": "ở đây có buffet dim sum và món vịt quay bắc_kinh rất ngon cùng với thực_đơn special promotion thay_đổi liên_tục hàng tháng", "text_uae": "ở đây có buffet dim sum và món vịt quay bắc_kinh rất ngon cùng với thực_đơn special promotion thay_đổi liên_tục hàng tháng", "label": "FOOD&DRINKS"}
+{"text_reg": "rất hài_lòng", "text_bert": "rất hài_lòng", "text_uae": "rất hài_lòng", "label": "HOTEL"}
+{"text_reg": "thái_độ nhân_viên cực_kì tốt", "text_bert": "thái_độ nhân_viên cực_kì tốt", "text_uae": "thái_độ nhân_viên cực_kì tốt", "label": "SERVICE"}
+{"text_reg": "phòng đẹp và sạch_sẽ", "text_bert": "phòng đẹp và sạch_sẽ", "text_uae": "phòng đẹp và sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "chúc khách_sạn vinpeal năm mới làm_ăn phát_tài", "text_bert": "chúc khách_sạn vinpeal năm mới làm_ăn phát_tài", "text_uae": "chúc khách_sạn vinpeal năm mới làm_ăn phát_tài", "label": "HOTEL"}
+{"text_reg": "nhưng nhìn_chung khách_sạn này là giá_trị tuyệt_vời cho tiền", "text_bert": "nhưng nhìn_chung khách_sạn này là giá_trị tuyệt_vời cho tiền", "text_uae": "nhưng nhìn_chung khách_sạn này là giá_trị tuyệt_vời cho tiền", "label": "HOTEL"}
+{"text_reg": "tất_cả các dịch_vụ cũng như nhân_viên ở đây rất tốt", "text_bert": "tất_cả các dịch_vụ cũng như nhân_viên ở đây rất tốt", "text_uae": "tất_cả các dịch_vụ cũng như nhân_viên ở đây rất tốt", "label": "SERVICE"}
+{"text_reg": "đầy_đủ các dịch_vụ đáp_ứng nhu_cầu", "text_bert": "đầy_đủ các dịch_vụ đáp_ứng nhu_cầu", "text_uae": "đầy_đủ các dịch_vụ đáp_ứng nhu_cầu", "label": "SERVICE"}
+{"text_reg": "cảm_nhận rất tuyệt khi ở đây", "text_bert": "cảm_nhận rất tuyệt khi ở đây", "text_uae": "cảm_nhận rất tuyệt khi ở đây", "label": "HOTEL"}
+{"text_reg": "gia_đình chắc_chắn sẽ quay lại", "text_bert": "gia_đình chắc_chắn sẽ quay lại", "text_uae": "gia_đình chắc_chắn sẽ quay lại", "label": "HOTEL"}
+{"text_reg": "cà_phê và trà", "text_bert": "cà_phê và trà", "text_uae": "cà_phê và trà", "label": "FOOD&DRINKS"}
+{"text_reg": "các nhân_viên đã rất hữu_ích", "text_bert": "các nhân_viên đã rất hữu_ích", "text_uae": "các nhân_viên đã rất hữu_ích", "label": "SERVICE"}
+{"text_reg": "núi_đồi và đảo tuyệt đẹp", "text_bert": "núi_đồi và đảo tuyệt đẹp", "text_uae": "núi_đồi và đảo tuyệt đẹp", "label": "LOCATION"}
+{"text_reg": "ăn sáng và mọi thứ đều làm tôi hài_lòng", "text_bert": "ăn sáng và mọi thứ đều làm tôi hài_lòng", "text_uae": "ăn sáng và mọi thứ đều làm tôi hài_lòng", "label": "FOOD&DRINKS"}
+{"text_reg": "không quá xa biển", "text_bert": "không quá xa biển", "text_uae": "không quá xa biển", "label": "LOCATION"}
+{"text_reg": "chúng_tôi đã phải ra ngoài ăn", "text_bert": "chúng_tôi đã phải ra ngoài ăn", "text_uae": "chúng_tôi đã phải ra ngoài ăn", "label": "FOOD&DRINKS"}
+{"text_reg": "sạch và đầy_đủ tiện_nghi", "text_bert": "sạch và đầy_đủ tiện_nghi", "text_uae": "sạch và đầy_đủ tiện_nghi", "label": "HOTEL"}
+{"text_reg": "bên cạnh có quán caphe và quán ăn bà hường rất ok ko phải đi xa", "text_bert": "bên cạnh có quán caphe và quán ăn bà hường rất ok ko phải đi xa", "text_uae": "bên cạnh có quán caphe và quán ăn bà hường rất ok ko phải đi xa", "label": "LOCATION"}
+{"text_reg": "view đẹp", "text_bert": "view đẹp", "text_uae": "view đẹp", "label": "HOTEL"}
+{"text_reg": "nhưng nêm nếm được", "text_bert": "nhưng nêm nếm được", "text_uae": "nhưng nêm nếm được", "label": "FOOD&DRINKS"}
+{"text_reg": "mình và bạn trai đến nhận phòng khá muộn nhưng nhân_viên cũng rất nhiệt_tình hỗ_trợ", "text_bert": "mình và bạn trai đến nhận phòng khá muộn nhưng nhân_viên cũng rất nhiệt_tình hỗ_trợ", "text_uae": "mình và bạn trai đến nhận phòng khá muộn nhưng nhân_viên cũng rất nhiệt_tình hỗ_trợ", "label": "SERVICE"}
+{"text_reg": "lựa_chọn bánh_mì hoặc các sản_phẩm hấp", "text_bert": "lựa_chọn bánh_mì hoặc các sản_phẩm hấp", "text_uae": "lựa_chọn bánh_mì hoặc các sản_phẩm hấp", "label": "FOOD&DRINKS"}
+{"text_reg": "phòng_ốc sạch_sẽ", "text_bert": "phòng_ốc sạch_sẽ", "text_uae": "phòng_ốc sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "phong_cách và thái_độ phục_vụ của nhân_viên", "text_bert": "phong_cách và thái_độ phục_vụ của nhân_viên", "text_uae": "phong_cách và thái_độ phục_vụ của nhân_viên", "label": "SERVICE"}
+{"text_reg": "chỉ mất 10 phút đi bộ đến khu_phố cổ", "text_bert": "chỉ mất 10 phút đi bộ đến khu_phố cổ", "text_uae": "chỉ mất 10 phút đi bộ đến khu_phố cổ", "label": "LOCATION"}
+{"text_reg": "đi_lại thuận_lợi", "text_bert": "đi_lại thuận_lợi", "text_uae": "đi_lại thuận_lợi", "label": "LOCATION"}
+{"text_reg": "chị lễ_tân vui_vẻ", "text_bert": "chị lễ_tân vui_vẻ", "text_uae": "chị lễ_tân vui_vẻ", "label": "SERVICE"}
+{"text_reg": "đồ_ăn ngon", "text_bert": "đồ_ăn ngon", "text_uae": "đồ_ăn ngon", "label": "FOOD&DRINKS"}
+{"text_reg": "nếu bạn đang tìm_kiếm một cơ_sở chất_lượng cao thì tôi khuyên bạn nên", "text_bert": "nếu bạn đang tìm_kiếm một cơ_sở chất_lượng cao thì tôi khuyên bạn nên", "text_uae": "nếu bạn đang tìm_kiếm một cơ_sở chất_lượng cao thì tôi khuyên bạn nên", "label": "FACILITIES"}
+{"text_reg": "lời khuyên về đặc_điểm khách_sạn", "text_bert": "lời khuyên về đặc_điểm khách_sạn", "text_uae": "lời khuyên về đặc_điểm khách_sạn", "label": "HOTEL"}
+{"text_reg": "khách_sạn thanh_thuỷ vũng_tàu không có nhiều nhân_viên", "text_bert": "khách_sạn thanh_thuỷ vũng_tàu không có nhiều nhân_viên", "text_uae": "khách_sạn thanh_thuỷ vũng_tàu không có nhiều nhân_viên", "label": "LOCATION"}
+{"text_reg": "thoát nước kém", "text_bert": "thoát nước kém", "text_uae": "thoát nước kém", "label": "ROOM_AMENITIES"}
+{"text_reg": "ánh_sáng được thiết_kế đẹp_mắt", "text_bert": "ánh_sáng được thiết_kế đẹp_mắt", "text_uae": "ánh_sáng được thiết_kế đẹp_mắt", "label": "HOTEL"}
+{"text_reg": "phòng view đẹp", "text_bert": "phòng view đẹp", "text_uae": "phòng view đẹp", "label": "ROOMS"}
+{"text_reg": "giá 5 sao như_vậy là quá rẻ so với nhiều nơi khác", "text_bert": "giá 5 sao như_vậy là quá rẻ so với nhiều nơi khác", "text_uae": "giá 5 sao như_vậy là quá rẻ so với nhiều nơi khác", "label": "HOTEL"}
+{"text_reg": "tuy_nhiên phòng có nhiều muỗi", "text_bert": "tuy_nhiên phòng có nhiều muỗi", "text_uae": "tuy_nhiên phòng có nhiều muỗi", "label": "ROOMS"}
+{"text_reg": "khách_sạn tiêu_chuẩn phù_hợp với giá tiền", "text_bert": "khách_sạn tiêu_chuẩn phù_hợp với giá tiền", "text_uae": "khách_sạn tiêu_chuẩn phù_hợp với giá tiền", "label": "HOTEL"}
+{"text_reg": "chọn sunland đối_với mình là một lựa_chọn hoàn_hảo", "text_bert": "chọn sunland đối_với mình là một lựa_chọn hoàn_hảo", "text_uae": "chọn sunland đối_với mình là một lựa_chọn hoàn_hảo", "label": "HOTEL"}
+{"text_reg": "bếp và phục_vụ phòng của khách_sạn đã mang đến cho gia_đình mình kì nghỉ thật tuyệt_vời", "text_bert": "bếp và phục_vụ phòng của khách_sạn đã mang đến cho gia_đình mình kì nghỉ thật tuyệt_vời", "text_uae": "bếp và phục_vụ phòng của khách_sạn đã mang đến cho gia_đình mình kì nghỉ thật tuyệt_vời", "label": "ROOM_AMENITIES"}
+{"text_reg": "ngay trung_tâm sài_gòn", "text_bert": "ngay trung_tâm sài_gòn", "text_uae": "ngay trung_tâm sài_gòn", "label": "LOCATION"}
+{"text_reg": "đây là khách_sạn tốt nhất nếu", "text_bert": "đây là khách_sạn tốt nhất nếu", "text_uae": "đây là khách_sạn tốt nhất nếu", "label": "HOTEL"}
+{"text_reg": "phòng rộng_rãi nói_chung khách_sạn tạm ổn", "text_bert": "phòng rộng_rãi nói_chung khách_sạn tạm ổn", "text_uae": "phòng rộng_rãi nói_chung khách_sạn tạm ổn", "label": "ROOMS"}
+{"text_reg": "phòng ở sạch_sẽ", "text_bert": "phòng ở sạch_sẽ", "text_uae": "phòng ở sạch_sẽ", "label": "ROOMS"}
+{"text_reg": "gia_đình chúng_tôi rất hài_lòng khi được ở khách_sạn", "text_bert": "gia_đình chúng_tôi rất hài_lòng khi được ở khách_sạn", "text_uae": "gia_đình chúng_tôi rất hài_lòng khi được ở khách_sạn", "label": "HOTEL"}
+{"text_reg": "khách_sạn renaissance_reverside_saigon là khách_sạn 5 sao nằm bên cạnh bờ sông sài_gòn", "text_bert": "khách_sạn renaissance_reverside_saigon là khách_sạn 5 sao nằm bên cạnh bờ sông sài_gòn", "text_uae": "khách_sạn renaissance_reverside_saigon là khách_sạn 5 sao nằm bên cạnh bờ sông sài_gòn", "label": "LOCATION"}
+{"text_reg": "sang_trọng nhân_viên thân_thiện", "text_bert": "sang_trọng nhân_viên thân_thiện", "text_uae": "sang_trọng nhân_viên thân_thiện", "label": "SERVICE"}
+{"text_reg": "phòng ở", "text_bert": "phòng ở", "text_uae": "phòng ở", "label": "ROOMS"}
+{"text_reg": "đặc_biệt là bạn giang và tuyền", "text_bert": "đặc_biệt là bạn giang và tuyền", "text_uae": "đặc_biệt là bạn giang và tuyền", "label": "SERVICE"}
